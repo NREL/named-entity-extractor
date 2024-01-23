@@ -1,0 +1,39 @@
+Backflow Preventer
+Backflow Preventer - 1.5" pipe
+Backflow Preventer - 8" pipe
+Booster Pump
+Booster Pump - 1 HP
+Booster Pump - 1.5 HP
+Booster Pump - 10 HP
+Booster Pump - 7.5 HP
+Booster Pump - Variable speed, 15 HP, 6" discharge, 1000 GPM
+Booster Pump - Variable speed, 7.5 HP, 4" discharge, 400 GPM
+Heat Transfer Package - One pump system,  28 GPM
+Heat Transfer Package - One pump system, 800 GPM
+Heat Transfer Package - Two pump system, 35 GPM
+Heat Transfer Package - Two pump system, 550 GPM
+Storage Tank
+Storage Tank - Galvanized steel, 135 gallon, 24" diameter, 75" L.O.A.
+Storage Tank - Galvanized steel, 15 gallon, 14" diameter, 26" L.O.A.
+Storage Tank - Glass lined, PE, 1330 gallon, 66" diameter, 107" L.O.A.
+Storage Tank - Glass lined, PE, 140 gallon, 24" diameter, 80" L.O.A.
+Water Heaters, Commercial, Electric
+Water Heaters, Commercial, Electric -   80 gal,   12 KW,   49 GPH
+Water Heaters, Commercial, Electric -   80 gal,   36 KW,  147 GPH
+Water Heaters, Commercial, Electric -  700 gal,   30 KW,  123 GPH
+Water Heaters, Commercial, Electric - 1500 gal, 480 KW, 1970 GPH
+Water Heaters, Commercial, Gas
+Water Heaters, Commercial, Gas -  75 MBH input,  63 GPH
+Water Heaters, Commercial, Gas - 100 MBH input,  91 GPH
+Water Heaters, Commercial, Gas - 115 MBH input, 110 GPH
+Water Heaters, Commercial, Oil
+Water Heaters, Commercial, Oil - 140 gal,  140 MBH input,  134 GPH
+Water Heaters, Commercial, Oil - 201 gal, 1000 MBH input,  960 GPH
+Water Heaters, Commercial, Oil - 201 gal, 1500 MBH input, 1441 GPH
+Water Heaters, Commercial, Oil - 221 gal,  300 MBH input,  288 GPH
+Water Heaters, Commercial, Oil - 411 gal, 1250 MBH input, 1200 GPH
+Water Heaters, Residential, Electric
+Water Heaters, Residential, Gas
+Water Heaters, Residential, Oil
+Sanitary Waste Separator
+Sanitary Waste Separator - 2" size

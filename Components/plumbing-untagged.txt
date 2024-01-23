@@ -1,0 +1,50 @@
+Bathtub
+Black / Galvanized Steel  <1" Pipe
+Black / Galvanized Steel  1"-2" Pipe
+Black / Galvanized Steel  2"-4" Pipe
+Black / Galvanized Steel  4"-6" Pipe
+Black / Galvanized Steel >6" Pipe
+Combo (Eye Wash and Shower)
+Combo Unit (Shower / Tub)
+Copper  <1" Pipe
+Copper  1"-2" Pipe
+Copper  2"-4" Pipe
+CPVC  <1" Pipe
+CPVC  1"-2" Pipe
+CPVC  2"-4" Pipe
+Drinking Fountain
+Ductile Iron  4" Pipe
+Ductile Iron  6" Pipe
+Emergency Eye Wash
+Emergency Shower
+General
+Group Wash Fountain
+Hose Bib
+Kitchen Faucets
+Kitchen Sink
+Laboratory Sink
+Laundry Sink
+Mop Sink
+Other
+PVC  2"-4" Pipe
+PVC  4"-6" Pipe
+PVC < 2" Pipe
+Service Sink
+Shower
+Stainless
+Stainless Steel Combo Unit (WC/Sink)
+Sump
+Sump Pump - Duplex
+Sump Pump - Submersible
+Trench Drain
+Unknown
+Washer / Dryer Hookup
+Washer/Dryer Faucets
+Water Cooler
+Water Fountain With Bottle Filler
+Water Softener
+Water Treatment Equipment
+Water Treatment Equipment - Chemical Treatment
+Water Treatment Equipment - Deionization Station
+Water Treatment Equipment - Ultraviolet Treatment
+Water Treatment Equipment - Wastewater Filtration for WashRack Equipment

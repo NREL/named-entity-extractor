@@ -1,0 +1,974 @@
+{
+  "Backflow Preventer": {
+    "EQUIPMENT": "Backflow Preventer"
+  },
+  "Backflow Preventer - 1.5\" pipe": {
+    "EQUIPMENT": "Backflow Preventer",
+    "SIZE": 1.5,
+    "SIZE_UNITS": "in"
+  },
+  "Backflow Preventer - 1\" pipe": {
+    "EQUIPMENT": "Backflow Preventer",
+    "SIZE": 1,
+    "SIZE_UNITS": "in"
+  },
+  "Backflow Preventer - 2\" pipe": {
+    "EQUIPMENT": "Backflow Preventer",
+    "SIZE": 2,
+    "SIZE_UNITS": "in"
+  },
+  "Backflow Preventer - 2\" Pipe": {
+    "EQUIPMENT": "Backflow Preventer",
+    "SIZE": 2,
+    "SIZE_UNITS": "in"
+  },
+  "Backflow Preventer - 3\" pipe": {
+    "EQUIPMENT": "Backflow Preventer",
+    "SIZE": 3,
+    "SIZE_UNITS": "in"
+  },
+  "Backflow Preventer - 3\" Pipe": {
+    "EQUIPMENT": "Backflow Preventer",
+    "SIZE": 3,
+    "SIZE_UNITS": "in"
+  },
+  "Backflow Preventer - 4\" pipe": {
+    "EQUIPMENT": "Backflow Preventer",
+    "SIZE": 4,
+    "SIZE_UNITS": "in"
+  },
+  "Backflow Preventer - 4\" Pipe": {
+    "EQUIPMENT": "Backflow Preventer",
+    "SIZE": 4,
+    "SIZE_UNITS": "in"
+  },
+  "Backflow Preventer - 6\" pipe": {
+    "EQUIPMENT": "Backflow Preventer",
+    "SIZE": 6,
+    "SIZE_UNITS": "in"
+  },
+  "Backflow Preventer - 6\" Pipe": {
+    "EQUIPMENT": "Backflow Preventer",
+    "SIZE": 6,
+    "SIZE_UNITS": "in"
+  },
+  "Backflow Preventer - 8\" pipe": {
+    "EQUIPMENT": "Backflow Preventer",
+    "SIZE": 8,
+    "SIZE_UNITS": "in"
+  },
+  "Booster Pump": {
+    "EQUIPMENT": "Booster Pump"
+  },
+  "Booster Pump - <1 HP": {
+    "EQUIPMENT": "Booster Pump",
+    "POWER": "<1",
+    "POWER_UNITS": "hp"
+  },
+  "Booster Pump - 1 HP": {
+    "EQUIPMENT": "Booster Pump",
+    "POWER": 1,
+    "POWER_UNITS": "hp"
+  },
+  "Booster Pump - 1.5 HP": {
+    "EQUIPMENT": "Booster Pump",
+    "POWER": 1.5,
+    "POWER_UNITS": "hp"
+  },
+  "Booster Pump - 2 HP": {
+    "EQUIPMENT": "Booster Pump",
+    "POWER": 2,
+    "POWER_UNITS": "hp"
+  },
+  "Booster Pump - 3 HP": {
+    "EQUIPMENT": "Booster Pump",
+    "POWER": 3,
+    "POWER_UNITS": "hp"
+  },
+  "Booster Pump - 5 HP": {
+    "EQUIPMENT": "Booster Pump",
+    "POWER": 5,
+    "POWER_UNITS": "hp"
+  },
+  "Booster Pump - 7.5 HP": {
+    "EQUIPMENT": "Booster Pump",
+    "POWER": 7.5,
+    "POWER_UNITS": "hp"
+  },
+  "Booster Pump - 10 HP": {
+    "EQUIPMENT": "Booster Pump",
+    "POWER": 10,
+    "POWER_UNITS": "hp"
+  },
+  "Booster Pump - Variable speed, 7.5 HP, 4\" discharge, 400 GPM": {
+    "EQUIPMENT": "Booster Pump",
+    "FLOWRATE": 400,
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 7.5,
+    "POWER_UNITS": "hp",
+    "SIZE": 4,
+    "SIZE_UNITS": "in",
+    "TYPE": "Variable speed"
+  },
+  "Booster Pump - Variable speed, 15 HP, 6\" discharge, 1000 GPM": {
+    "EQUIPMENT": "Booster Pump",
+    "FLOWRATE": 1000,
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 15,
+    "POWER_UNITS": "hp",
+    "SIZE": 6,
+    "SIZE_UNITS": "in",
+    "TYPE": "Variable speed"
+  },
+  "Booster Pump - Variable speed, 30 HP, 6\" discharge, 1700 GPM": {
+    "EQUIPMENT": "Booster Pump",
+    "FLOWRATE": 1700,
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 30,
+    "POWER_UNITS": "hp",
+    "SIZE": 6,
+    "SIZE_UNITS": "in",
+    "TYPE": "Variable speed"
+  },
+  "Heat Transfer Package - One pump system,  28 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 28,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "One pump system"
+  },
+  "Heat Transfer Package - One pump system,  35 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 35,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "One pump system"
+  },
+  "Heat Transfer Package - One pump system,  55 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 55,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "One pump system"
+  },
+  "Heat Transfer Package - One pump system, 130 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 130,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "One pump system"
+  },
+  "Heat Transfer Package - One pump system, 255 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 255,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "One pump system"
+  },
+  "Heat Transfer Package - One pump system, 550 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 550,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "One pump system"
+  },
+  "Heat Transfer Package - One pump system, 800 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 800,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "One pump system"
+  },
+  "Heat Transfer Package - Two pump system, 28 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 28,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Two pump system"
+  },
+  "Heat Transfer Package - Two pump system, 35 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 35,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Two pump system"
+  },
+  "Heat Transfer Package - Two pump system, 55 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 55,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Two pump system"
+  },
+  "Heat Transfer Package - Two pump system, 130 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 130,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Two pump system"
+  },
+  "Heat Transfer Package - Two pump system, 255 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 255,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Two pump system"
+  },
+  "Heat Transfer Package - Two pump system, 550 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 550,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Two pump system"
+  },
+  "Heat Transfer Package - Two pump system, 800 GPM": {
+    "EQUIPMENT": "Heat Transfer Package",
+    "FLOWRATE": 800,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Two pump system"
+  },
+  "Sanitary Waste Separator": {
+    "EQUIPMENT": "Sanitary Waste Separator"
+  },
+  "Sanitary Waste Separator - 2\" size": {
+    "EQUIPMENT": "Sanitary Waste Separator",
+    "SIZE": 2,
+    "SIZE_UNITS": "in"
+  },
+  "Sanitary Waste Separator - 3\" size": {
+    "EQUIPMENT": "Sanitary Waste Separator",
+    "SIZE": 3,
+    "SIZE_UNITS": "in"
+  },
+  "Sanitary Waste Separator - 4\" size": {
+    "EQUIPMENT": "Sanitary Waste Separator",
+    "SIZE": 4,
+    "SIZE_UNITS": "in"
+  },
+  "Sanitary Waste Separator - 6\" size": {
+    "EQUIPMENT": "Sanitary Waste Separator",
+    "SIZE": 6,
+    "SIZE_UNITS": "in"
+  },
+  "Storage Tank": {
+    "EQUIPMENT": "Storage Tank"
+  },
+  "Storage Tank - Galvanized steel, 15 gallon, 14\" diameter, 26\" L.O.A.": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 26,
+    "LOA_UNITS": "in",
+    "SIZE": 14,
+    "SIZE_UNITS": "in",
+    "TYPE": "Galvanized steel"
+  },
+  "Storage Tank - Galvanized steel, 30 gallon, 14\" diameter, 49\" L.O.A.": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 49,
+    "LOA_UNITS": "in",
+    "SIZE": 14,
+    "SIZE_UNITS": "in",
+    "TYPE": "Galvanized steel"
+  },
+  "Storage Tank - Galvanized steel, 80 gallon, 20\" diameter, 64\" L.O.A.": {
+    "CAPACITY": 80,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 64,
+    "LOA_UNITS": "in",
+    "SIZE": 20,
+    "SIZE_UNITS": "in",
+    "TYPE": "Galvanized steel"
+  },
+  "Storage Tank - Galvanized steel, 135 gallon, 24\" diameter, 75\" L.O.A.": {
+    "CAPACITY": 135,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 75,
+    "LOA_UNITS": "in",
+    "SIZE": 24,
+    "SIZE_UNITS": "in",
+    "TYPE": "Galvanized steel"
+  },
+  "Storage Tank - Galvanized steel, 240 gallon, 30\" diameter, 86\" L.O.A.": {
+    "CAPACITY": 240,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 86,
+    "LOA_UNITS": "in",
+    "SIZE": 30,
+    "SIZE_UNITS": "in",
+    "TYPE": "Galvanized steel"
+  },
+  "Storage Tank - Galvanized steel, 300 gallon, 36\" diameter, 76\" L.O.A.": {
+    "CAPACITY": 300,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 76,
+    "LOA_UNITS": "in",
+    "SIZE": 36,
+    "SIZE_UNITS": "in",
+    "TYPE": "Galvanized steel"
+  },
+  "Storage Tank - Galvanized steel, 400 gallon, 36\" diameter, 100\" L.O.A.": {
+    "CAPACITY": 400,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 100,
+    "LOA_UNITS": "in",
+    "SIZE": 36,
+    "SIZE_UNITS": "in",
+    "TYPE": "Galvanized steel"
+  },
+  "Storage Tank - Galvanized steel, 500 gallon, 36\" diameter,126\" L.O.A.": {
+    "CAPACITY": 500,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 126,
+    "LOA_UNITS": "in",
+    "SIZE": 36,
+    "SIZE_UNITS": "in",
+    "TYPE": "Galvanized steel"
+  },
+  "Storage Tank - Glass lined, PE, 80 gallon, 20\" diameter, 64\" L.O.A.": {
+    "CAPACITY": 80,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 64,
+    "LOA_UNITS": "in",
+    "SIZE": 20,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Storage Tank - Glass lined, PE, 140 gallon, 24\" diameter, 80\" L.O.A.": {
+    "CAPACITY": 140,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 80,
+    "LOA_UNITS": "in",
+    "SIZE": 24,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Storage Tank - Glass lined, PE, 225 gallon, 30\" diameter, 78\" L.O.A.": {
+    "CAPACITY": 225,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 78,
+    "LOA_UNITS": "in",
+    "SIZE": 30,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Storage Tank - Glass lined, PE, 325 gallon, 36\" diameter, 81\" L.O.A.": {
+    "CAPACITY": 325,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 81,
+    "LOA_UNITS": "in",
+    "SIZE": 36,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Storage Tank - Glass lined, PE, 460 gallon, 42\" diameter, 84\" L.O.A.": {
+    "CAPACITY": 460,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 84,
+    "LOA_UNITS": "in",
+    "SIZE": 42,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Storage Tank - Glass lined, PE, 605 gallon, 48\" diameter, 87\" L.O.A.": {
+    "CAPACITY": 605,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 87,
+    "LOA_UNITS": "in",
+    "SIZE": 48,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Storage Tank - Glass lined, PE, 740 gallon, 54\" diameter, 91\" L.O.A.": {
+    "CAPACITY": 740,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 91,
+    "LOA_UNITS": "in",
+    "SIZE": 54,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Storage Tank - Glass lined, PE, 940 gallon, 60\" diameter, 93\" L.O.A.": {
+    "CAPACITY": 940,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 93,
+    "LOA_UNITS": "in",
+    "SIZE": 60,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Storage Tank - Glass lined, PE, 1330 gallon, 66\" diameter, 107\" L.O.A.": {
+    "CAPACITY": 1330,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 107,
+    "LOA_UNITS": "in",
+    "SIZE": 66,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Storage Tank - Glass lined, PE, 1615 gallon, 72\" diameter, 110\" L.O.A.": {
+    "CAPACITY": 1615,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 110,
+    "LOA_UNITS": "in",
+    "SIZE": 72,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Storage Tank - Glass lined, PE, 2285 gallon, 84\" diameter, 128\" L.O.A.": {
+    "CAPACITY": 2285,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 128,
+    "LOA_UNITS": "in",
+    "SIZE": 84,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Storage Tank - Glass lined, PE, 3440 gallon, 96\" diameter, 157\" L.O.A.": {
+    "CAPACITY": 3440,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Storage Tank",
+    "LOA": 157,
+    "LOA_UNITS": "in",
+    "SIZE": 96,
+    "SIZE_UNITS": "in",
+    "TYPE": "Glass lined, PE"
+  },
+  "Tankless Heater - Electric": {
+    "EQUIPMENT": "Tankless Heater",
+    "FUEL_TYPE": "Electric"
+  },
+  "Tankless Heater - Gas": {
+    "EQUIPMENT": "Tankless Heater",
+    "FUEL_TYPE": "Gas"
+  },
+  "Water Heaters, Commercial, Electric": {
+    "EQUIPMENT": "Water Heaters",
+    "FUEL_TYPE": "Electric",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -   50 gal,    9 KW,   37 GPH": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 37,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 9,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -   80 gal,   12 KW,   49 GPH": {
+    "CAPACITY": 80,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 49,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 12,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -   80 gal,   36 KW,  147 GPH": {
+    "CAPACITY": 80,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 147,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 36,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -  120 gal,  36 KW,  147 GPH": {
+    "CAPACITY": 120,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 147,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 36,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -  150 gal, 120 KW,  490 GPH": {
+    "CAPACITY": 150,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 490,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 120,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -  200 gal, 120 KW,  490 GPH": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 490,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 120,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -  250 gal, 150 KW,  615 GPH": {
+    "CAPACITY": 250,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 615,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 150,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -  300 gal, 180 KW,  738 GPH": {
+    "CAPACITY": 300,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 738,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 180,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -  350 gal,   30 KW,  123 GPH": {
+    "CAPACITY": 350,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 123,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 30,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -  350 gal, 180 KW,  738 GPH": {
+    "CAPACITY": 350,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 738,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 180,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -  500 gal,   30 KW,  123 GPH": {
+    "CAPACITY": 500,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 123,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 30,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -  500 gal, 240 KW,  984 GPH": {
+    "CAPACITY": 500,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 984,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 240,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -  700 gal,   30 KW,  123 GPH": {
+    "CAPACITY": 700,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 123,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 30,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric -  700 gal, 300 KW, 1230 GPH": {
+    "CAPACITY": 700,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 1230,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 300,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric - 1000 gal,   60 KW,  245 GPH": {
+    "CAPACITY": 1000,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 245,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 60,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric - 1000 gal, 480 KW, 1970 GPH": {
+    "CAPACITY": 1000,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 1970,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 480,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric - 1500 gal,   60 KW,  245 GPH": {
+    "CAPACITY": 1500,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 245,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 60,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Electric - 1500 gal, 480 KW, 1970 GPH": {
+    "CAPACITY": 1500,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 1970,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Electric",
+    "POWER": 480,
+    "POWER_UNITS": "kW",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas": {
+    "EQUIPMENT": "Water Heaters",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas -  75 MBH input,  63 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 63,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 75,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas -  95 MBH input,  86 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 86,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 95,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas - 100 MBH input,  91 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 91,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 100,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas - 115 MBH input, 110 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 110,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 115,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas - 155 MBH input, 150 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 150,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 155,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas - 175 MBH input, 168 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 168,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 175,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas - 200 MBH input, 192 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 192,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 200,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas - 240 MBH input, 230 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 230,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 240,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas - 300 MBH input, 278 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 278,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 300,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas - 390 MBH input, 374 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 374,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 390,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas - 500 MBH input, 480 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 480,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 500,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Gas - 600 MBH input, 576 GPH": {
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 576,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Gas",
+    "POWER": 600,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil": {
+    "EQUIPMENT": "Water Heaters",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 140 gal,  140 MBH input,  134 GPH": {
+    "CAPACITY": 140,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 134,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 140,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 140 gal,  255 MBH input,  247 GPH": {
+    "CAPACITY": 140,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 247,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 255,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 140 gal,  270 MBH input,  259 GPH": {
+    "CAPACITY": 140,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 259,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 270,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 140 gal,  400 MBH input,  384 GPH": {
+    "CAPACITY": 140,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 384,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 400,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 140 gal,  720 MBH input,  691 GPH": {
+    "CAPACITY": 140,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 691,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 720,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 201 gal, 1000 MBH input,  960 GPH": {
+    "CAPACITY": 201,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 960,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 1000,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 201 gal, 1250 MBH input, 1200 GPH": {
+    "CAPACITY": 201,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 1200,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 1250,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 201 gal, 1500 MBH input, 1441 GPH": {
+    "CAPACITY": 201,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 1441,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 1500,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 221 gal,  300 MBH input,  288 GPH": {
+    "CAPACITY": 221,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 288,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 300,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 221 gal,  600 MBH input,  576 GPH": {
+    "CAPACITY": 221,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 576,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 600,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 221 gal,  800 MBH input,  768 GPH": {
+    "CAPACITY": 221,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 768,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 800,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 397 gal, 1500 MBH input, 1441 GPH": {
+    "CAPACITY": 397,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 1441,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 1500,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 397 gal, 1750 MBH input, 1681 GPH": {
+    "CAPACITY": 397,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 1681,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 1750,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 411 gal,  600 MBH input,   576 GPH": {
+    "CAPACITY": 411,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 576,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 600,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 411 gal,  800 MBH input,   768 GPH": {
+    "CAPACITY": 411,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 768,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 800,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 411 gal, 1000 MBH input,  960 GPH": {
+    "CAPACITY": 411,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 960,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 1000,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Commercial, Oil - 411 gal, 1250 MBH input, 1200 GPH": {
+    "CAPACITY": 411,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Water Heaters",
+    "FLOWRATE": 1200,
+    "FLOWRATE_UNITS": "gph",
+    "FUEL_TYPE": "Oil",
+    "POWER": 1250,
+    "POWER_UNITS": "MBH input",
+    "TYPE": "Commercial"
+  },
+  "Water Heaters, Residential, Electric": {
+    "EQUIPMENT": "Water Heaters",
+    "FUEL_TYPE": "Electric",
+    "TYPE": "Residential"
+  },
+  "Water Heaters, Residential, Gas": {
+    "EQUIPMENT": "Water Heaters",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Residential"
+  },
+  "Water Heaters, Residential, Oil": {
+    "EQUIPMENT": "Water Heaters",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Residential"
+  }
+}

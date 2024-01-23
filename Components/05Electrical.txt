@@ -1,0 +1,106 @@
+Exit Lighting
+Explosion Proof Lighting
+Explosion Proof Lighting - Fluorescent, ceiling mounted, 2-40 W, 4' L
+Explosion Proof Lighting - Fluorescent, ceiling mounted, 3-40 W, 4' L
+Explosion Proof Lighting - Fluorescent, ceiling mounted, 4-40 W, 4' L
+Explosion Proof Lighting - High pressure sodium, ceiling, pendent mounted, 100 W
+Explosion Proof Lighting - Incandescent, ceiling mounted, 200 W
+Explosion Proof Lighting - Metal halide, ceiling, pendent mounted, 200 W
+Exterior Lighting
+Exterior Lighting - High pressure sodium, wall pack, 150 W
+Exterior Lighting - High pressure sodium, wall pack, 70 W
+Exterior Lighting - Incandescent, wall mounted, 100 W
+Exterior Lighting - Low pressure sodium, wall pack, 35 W
+Exterior Lighting - Low pressure sodium, wall pack, 55 W
+Exterior Lighting - Metal halide, wall pack, 175 W
+Exterior Lighting - Metal halide, wall pack, 250 W
+Exterior Lighting - Quartz, wall mounted, 1500 W
+Exterior Lighting - Quartz, wall mounted, 500 W
+Exterior LED Lighting
+Interior Lighting, FL - 1 Lamp T8
+Interior Lighting, FL - 1 Lamp T12
+Interior Lighting, FL - 2 Lamp T8
+Interior Lighting, FL - 2 Lamp T12
+Interior Lighting, FL - 3 Lamp T8
+Interior Lighting, FL - 3 Lamp T12
+Interior Lighting, FL - 4 Lamp T5, HO
+Interior Lighting, FL - 4 Lamp T8
+Interior Lighting, FL - 4 Lamp T8, HO
+Interior Lighting, FL - 4 Lamp T12
+Interior Lighting, FL - 6 Lamp T5, HO
+Interior Lighting, FL - 6 Lamp T8, HO
+Interior Lighting, LED
+Interior Lighting, LED - Canlight
+Interior Lighting, LED - Downlight/Sconce/Pendant
+Interior Lighting, LED - High Bay
+Interior Lighting, LED - Strip
+Interior Lighting, LED - Troffer
+Interior Rope Light
+Interior Lighting, Fluorescent
+Interior Lighting, Fluorescent - Pendant Mounted (Type D)
+Interior Lighting, Fluorescent - Recessed Fixture (Type C)
+Interior Lighting, Fluorescent - Strip Fixture (Type A)
+Interior Lighting, Fluorescent - Surface Mounted (Type B)
+Interior Lighting, High Intensity
+Interior Lighting, High Intensity - High Pressure Sodium 1000 W (Type F)
+Interior Lighting, High Intensity - High Pressure Sodium 150 W (Type K)
+Interior Lighting, High Intensity - High Pressure Sodium 400 W (Type C)
+Interior Lighting, High Intensity - Metal Halide 1000 W (Type G)
+Interior Lighting, High Intensity - Metal Halide 250 W (Type J)
+Interior Lighting, High Intensity - Metal Halide 400 W (Type B)
+Interior Lighting, Incandescent
+Interior Lighting, Incandescent - Recessed downlight w/baffles 150 W (Type B)
+Interior Lighting, Incandescent - Recessed PAR-38 flood lamp w/louver 150 W (Type C)
+Interior Lighting, Incandescent - Recessed R-40 flood lamp w/flat reflector 150 W (Type D)
+Interior Lighting, Incandescent - Recessed reflector w/flat glass lens 150 W (Type A)
+Emergency Lighting - Lead battery, twin sealed beam light
+Emergency Lighting - Nickel cadmium battery, twin sealed beam light
+Emergency Lighting - Self-contained, fluorescent lamp pack
+Generators
+Generators - Diesel, 100 kW
+Generators - Diesel, 1000 kW
+Generators - Diesel, 125 kW
+Generators - Diesel, 150 kW
+Generators - Diesel, 175 kW
+Generators - Diesel, 200 kW
+Generators - Diesel, 250 kW
+Generators - Diesel, 275 kW
+Generators - Diesel, 30 kW
+Generators - Diesel, 300 kW
+Generators - Diesel, 350 kW
+Generators - Diesel, 400 kW
+Generators - Diesel, 50 kW
+Generators - Diesel, 500 kW
+Generators - Diesel, 60 kW
+Generators - Diesel, 600 kW
+Generators - Diesel, 650 kW
+Generators - Diesel, 75 kW
+Generators - Diesel, 750 kW
+Generators - Diesel, 800 kW
+Generators - Diesel, 900 kW
+Generators - Gas, 100 kW
+Generators - Gas, 11.5 kW
+Generators - Gas, 125 kW
+Generators - Gas, 185 kW
+Generators - Gas, 20 kW
+Generators - Gas, 35 kW
+Generators - Gas, 60 kW
+Generators - Gas, 7.5 kW
+Generators - Gas, 80 kW
+Generators - Gas, 200 kW
+Generators - Gas, 500 kW
+Generators - Gas, 750 kW
+Generators - Gas, 1000 kW
+Generators - Gas, 1250 kW
+Generators - Gas, 1500 kW+
+Uninterruptible Power Supply - 0.35 kVA
+Uninterruptible Power Supply - 0.5 kVA
+Uninterruptible Power Supply - 0.75 kVA
+Uninterruptible Power Supply - 1.0 kVA
+Uninterruptible Power Supply - 1.5 kVA
+Uninterruptible Power Supply - 10 kVA
+Uninterruptible Power Supply - 15 kVA
+Uninterruptible Power Supply - 2 kVA
+Uninterruptible Power Supply - 3 kVA
+Uninterruptible Power Supply - 5 kVA
+Uninterruptible Power Supply - 7.5 kVA

@@ -1,0 +1,76 @@
+2-Pipe Heating/Cooling Distribution Steel Piping -  1 IN
+2-Pipe Heating/Cooling Distribution Steel Piping -  3 IN
+Air Separator
+Air Separator - Air control, air separator, 2-1/2" diameter, includes strainer
+Air Separator - Air control, air separator, 2" diameter, includes strainer
+Air Separator - Air control, air separator, 3" diameter, includes strainer
+Air Separator - Air control, air separator, 4" diameter, includes strainer
+Air Separator - Air control, air separator, 5" diameter, includes strainer
+Air Separator - Air control, air separator, 6" diameter, includes strainer
+Air Separator - Air control, air separator, 8" diameter, includes strainer
+Air Separator - Air control, air separator, 10" diameter, includes strainer
+Air Separator - Air control, air separator, 12" diameter, includes strainer
+Air supply for pneumatic, tank mounted duplex compressor
+Analog inputs, sensors, CFM/transducer
+Analog inputs, sensors, duct temperature
+Analog inputs, sensors, space temperature
+Baseboard Heating - 1-1/4" Copper Tube
+Baseboard Heating - 1" Copper Tube
+Baseboard Heating - 1/2" Copper Tube
+Baseboard Heating - 3/4" Copper Tube
+Ceiling Vents, Passive
+Ceiling Vents, Passive - Passive < 50 CFM
+Ceiling Vents, Passive - Passive > 300 CFM
+Ceiling Vents, Passive - Passive 50-110 CFM
+Ceiling Vents, Passive - Passive 110-180 CFM
+Ceiling Vents, Passive - Passive 200-300 CFM
+Charge Controller
+Closed Loop, Space/Hot Water Systems
+Compensated hot water from valve control, readout & reset at panel
+controller MUX panel, 128 point, incl. function boards
+Cooling Tower, Fluid Cooler
+D.D.C controller, mechanical room, 16 point
+D.D.C controller, mechanical room, 32 point
+D.D.C controller, space, V.A.V terminal box, incl
+D.D.C. Control Panel
+Digital inputs, Status (alarms), current sensor
+Digital inputs, Status (alarms), duct smoke detector
+Ductwork
+Ductwork - Metal Ductwork, 6" Diameter (30 SQ IN)
+Ductwork - Metal Ductwork, 8" Diameter (60 SQ IN)
+Ductwork - Metal Ductwork, 10" Diameter (80 SQ IN)
+Ductwork - Metal Ductwork, 12" Diameter (120 SQ IN)
+Ductwork - Metal Ductwork, 14" Diameter (160 SQ IN)
+Ductwork - Metal Ductwork, 16" Diameter (210 SQ IN)
+Ductwork - Metal Ductwork, 18" Diameter (260 SQ IN)
+Ductwork - Metal Ductwork, 20" Diameter (320 SQ IN)
+Ductwork - Metal Ductwork, 22" Diameter (390 SQ IN)
+Ductwork - Metal Ductwork, 24" Diameter (460 SQ IN)
+Ductwork - Metal Ductwork, 30" Diameter (710 SQ IN)
+Ductwork - Metal Ductwork, 36" Diameter (1020 SQ IN)
+Ductwork - Non-Metal Ductwork, 8" Diameter (60 SQ IN)
+Ductwork - Non-Metal Ductwork, 10" Diameter (80 SQ IN)
+Ductwork - Non-Metal Ductwork, 12" Diameter (120 SQ IN)
+Ductwork - Non-Metal Ductwork, 18" Diameter (260 SQ IN)
+Ductwork - Non-Metal Ductwork, 24" Diameter (460 SQ IN)
+Fire Dampers
+Fuel Storage Tank
+Gas Meter
+General
+Glycol Additive System (Includes Pumps/Tanks/Meters/Controls)
+Heating/Cooling Distribution Copper Piping - 1 IN
+Heating/Cooling Distribution Copper Piping - 3 IN
+Other
+pneumatic air supply, tank mount duplex compressor, 1 HP
+pneumatic air supply, tank mount duplex compressor, 1.5 HP
+pneumatic air supply, tank mount duplex compressor, 3 HP
+pneumatic air supply, tank mount duplex compressor, 5 HP
+Pneumatic thermostat
+PV Module
+Radon Management System
+Refrigeration Compressor
+Status alarms, digital inputs, differential pressure
+Steam Generator
+Steam Powered Trap
+Steel Pipe Steam Distribution Service Lateral
+Unknown

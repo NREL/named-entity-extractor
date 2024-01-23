@@ -1,0 +1,25 @@
+Explosion Proof Lighting - Fluorescent, ceiling mounted, 2-40 W, 4' L
+Explosion Proof Lighting - High pressure sodium, ceiling, pendent mounted, 100 W
+Explosion Proof Lighting - Incandescent, ceiling mounted, 200 W
+Explosion Proof Lighting - Metal halide, ceiling, pendent mounted, 200 W
+Exterior Lighting - High pressure sodium, wall pack, 150 W
+Exterior Lighting - Incandescent, wall mounted, 100 W
+Exterior Lighting - Low pressure sodium, wall pack, 35 W
+Exterior Lighting - Metal halide, wall pack, 175 W
+Exterior Lighting - Quartz, wall mounted, 500 W
+Interior Lighting, Fluorescent - Pendant Mounted (Type D)
+Interior Lighting, Fluorescent - Recessed Fixture (Type C)
+Interior Lighting, Fluorescent - Strip Fixture (Type A)
+Interior Lighting, Fluorescent - Surface Mounted (Type B)
+Interior Lighting, High Intensity - High Pressure Sodium 1000 W (Type F)
+Interior Lighting, High Intensity - High Pressure Sodium 400 W (Type C)
+Interior Lighting, High Intensity - Metal Halide 1000 W (Type G)
+Interior Lighting, High Intensity - Metal Halide 400 W (Type B)
+Interior Lighting, Incandescent - Recessed downlight w/baffles 150 W (Type B)
+Interior Lighting, Incandescent - Recessed PAR-38 flood lamp w/louver 150 W (Type C)
+Interior Lighting, Incandescent - Recessed R-40 flood lamp w/flat reflector 150 W (Type D)
+Interior Lighting, Incandescent - Recessed reflector w/flat glass lens 150 W (Type A)
+Emergency Lighting - Self-contained, fluorescent lamp pack
+Generators - Diesel, 900 kW
+Generators - Gas, 100 kW
+Uninterruptible Power Supply - 7.5 kVA

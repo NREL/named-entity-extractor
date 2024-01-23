@@ -1,0 +1,5867 @@
+{
+  "208-240 volt, 2 kW": {
+    "POWER": 2,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": "208-240",
+    "VOLTAGE_UNITS": "V"
+  },
+  "208-240 volt, 5 kW": {
+    "POWER": 5,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": "208-240",
+    "VOLTAGE_UNITS": "V"
+  },
+  "208-240 volt, 7 kW": {
+    "POWER": 7,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": "208-240",
+    "VOLTAGE_UNITS": "V"
+  },
+  "208-240 volt, 10 kW": {
+    "POWER": 10,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": "208-240",
+    "VOLTAGE_UNITS": "V"
+  },
+  "208-240 volt, 15 kW": {
+    "POWER": 15,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": "208-240",
+    "VOLTAGE_UNITS": "V"
+  },
+  "208-240 volt, 20 kW": {
+    "POWER": 20,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": "208-240",
+    "VOLTAGE_UNITS": "V"
+  },
+  "208-240 volt, 25 kW": {
+    "POWER": 25,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": "208-240",
+    "VOLTAGE_UNITS": "V"
+  },
+  "480 volt, 2 kW": {
+    "POWER": 2,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": 480,
+    "VOLTAGE_UNITS": "V"
+  },
+  "480 volt, 5 kW": {
+    "POWER": 5,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": 480,
+    "VOLTAGE_UNITS": "V"
+  },
+  "480 volt, 7 kW": {
+    "POWER": 7,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": 480,
+    "VOLTAGE_UNITS": "V"
+  },
+  "480 volt, 10 kW": {
+    "POWER": 10,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": 480,
+    "VOLTAGE_UNITS": "V"
+  },
+  "480 volt, 13 kW": {
+    "POWER": 13,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": 480,
+    "VOLTAGE_UNITS": "V"
+  },
+  "480 volt, 15 kW": {
+    "POWER": 15,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": 480,
+    "VOLTAGE_UNITS": "V"
+  },
+  "480 volt, 20 kW": {
+    "POWER": 20,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": 480,
+    "VOLTAGE_UNITS": "V"
+  },
+  "480 volt, 25 kW": {
+    "POWER": 25,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": 480,
+    "VOLTAGE_UNITS": "V"
+  },
+  "480 volt, 30 kW": {
+    "POWER": 30,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": 480,
+    "VOLTAGE_UNITS": "V"
+  },
+  "480 volt, 40 kW": {
+    "POWER": 40,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": 480,
+    "VOLTAGE_UNITS": "V"
+  },
+  "480 volt, 50 kW": {
+    "POWER": 50,
+    "POWER_UNITS": "kW",
+    "VOLTAGE": 480,
+    "VOLTAGE_UNITS": "V"
+  },
+  "A/C Unit, Computer Room": {
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Air Cooled, 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Air Cooled, 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Air Cooled, 8 ton": {
+    "CAPACITY": 8,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Air Cooled, 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Air Cooled, 15 ton": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Air Cooled, 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Air Cooled, 23 ton": {
+    "CAPACITY": 23,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Chilled Water, 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Chilled Water",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Chilled Water, 8 ton": {
+    "CAPACITY": 8,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Chilled Water",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Chilled Water, 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Chilled Water",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Chilled Water, 15 ton": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Chilled Water",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Chilled Water, 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Chilled Water",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Chilled Water, 23 ton": {
+    "CAPACITY": 23,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Chilled Water",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Glycol System, 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Glycol System",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Glycol System, 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Glycol System",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Glycol System, 8 ton": {
+    "CAPACITY": 8,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Glycol System",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Glycol System, 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Glycol System",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Glycol System, 15 ton": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Glycol System",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Glycol System, 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Glycol System",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Glycol System, 23 ton": {
+    "CAPACITY": 23,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Glycol System",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Water Cooled, 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Water Cooled, 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Water Cooled, 8 ton": {
+    "CAPACITY": 8,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Water Cooled, 15 ton": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Water Cooled, 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Computer Room - Water Cooled, 23 ton": {
+    "CAPACITY": 23,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Computer Room"
+  },
+  "A/C Unit, Package Terminal": {
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 1.5 TN": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Fan Coil Air Conditioning Cabinet Mounted filter controls, DX",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 5 TN": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Fan Coil Air Conditioning Cabinet Mounted filter controls, DX",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 10 TN": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Fan Coil Air Conditioning Cabinet Mounted filter controls, DX",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 20 TN": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Fan Coil Air Conditioning Cabinet Mounted filter controls, DX",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Packaged Terminal AC, 6,000 BTUH cooling, 8,800 BTUH heat": {
+    "CAPACITY_COOLING": 6000,
+    "CAPACITY_COOLING_UNITS": "BTUH",
+    "CAPACITY_HEATING": 8800,
+    "CAPACITY_HEATING_UNITS": "BTUH",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Packaged Terminal AC",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Packaged Terminal AC, 9,000 BTUH cooling, 13,900 BTUH heat": {
+    "CAPACITY_COOLING": 9000,
+    "CAPACITY_COOLING_UNITS": "BTUH",
+    "CAPACITY_HEATING": 13900,
+    "CAPACITY_HEATING_UNITS": "BTUH",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Packaged Terminal AC",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Packaged Terminal AC, 12,000 BTUH cooling, 13,900 BTUH heat": {
+    "CAPACITY_COOLING": 12000,
+    "CAPACITY_COOLING_UNITS": "BTUH",
+    "CAPACITY_HEATING": 13900,
+    "CAPACITY_HEATING_UNITS": "BTUH",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Packaged Terminal AC",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Packaged Terminal AC, 15,000 BTUH cooling, 13,900 BTUH heat": {
+    "CAPACITY_COOLING": 15000,
+    "CAPACITY_COOLING_UNITS": "BTUH",
+    "CAPACITY_HEATING": 13900,
+    "CAPACITY_HEATING_UNITS": "BTUH",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Packaged Terminal AC",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Packaged Terminal AC, 18,000 BTUH, 10 kw": {
+    "CAPACITY_COOLING": 18000,
+    "CAPACITY_COOLING_UNITS": "BTUH",
+    "CAPACITY_HEATING": 10,
+    "CAPACITY_HEATING_UNITS": "kW",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Packaged Terminal AC",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Packaged Terminal AC, 24,000 BTUH, 10 kw": {
+    "CAPACITY_COOLING": 24000,
+    "CAPACITY_COOLING_UNITS": "BTUH",
+    "CAPACITY_HEATING": 10,
+    "CAPACITY_HEATING_UNITS": "kW",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Packaged Terminal AC",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Packaged Terminal AC, 30,000 BTUH, 10 kw": {
+    "CAPACITY_COOLING": 30000,
+    "CAPACITY_COOLING_UNITS": "BTUH",
+    "CAPACITY_HEATING": 10,
+    "CAPACITY_HEATING_UNITS": "kW",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Packaged Terminal AC",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Packaged Terminal AC, 36,000 BTUH, 10 kw": {
+    "CAPACITY_COOLING": 36000,
+    "CAPACITY_COOLING_UNITS": "BTUH",
+    "CAPACITY_HEATING": 10,
+    "CAPACITY_HEATING_UNITS": "kW",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Packaged Terminal AC",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Packaged Terminal AC, 42,000 BTUH, 10 kw": {
+    "CAPACITY_COOLING": 42000,
+    "CAPACITY_COOLING_UNITS": "BTUH",
+    "CAPACITY_HEATING": 10,
+    "CAPACITY_HEATING_UNITS": "kW",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Packaged Terminal AC",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Package Terminal - Packaged Terminal AC, 48,000 BTUH, 10 kw": {
+    "CAPACITY_COOLING": 48000,
+    "CAPACITY_COOLING_UNITS": "BTUH",
+    "CAPACITY_HEATING": 10,
+    "CAPACITY_HEATING_UNITS": "kW",
+    "EQUIPMENT": "A/C Unit",
+    "SYSTEM_TYPE": "Packaged Terminal AC",
+    "TYPE": "Package Terminal"
+  },
+  "A/C Unit, Split Systems w/ Air Cooled Condenser": {
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Split Systems w/ Air Cooled Condenser"
+  },
+  "A/C Unit, Split Systems w/ Air Cooled Condenser - 2 TN": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Split Systems w/ Air Cooled Condenser"
+  },
+  "A/C Unit, Split Systems w/ Air Cooled Condenser - 3 TN": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Split Systems w/ Air Cooled Condenser"
+  },
+  "A/C Unit, Split Systems w/ Air Cooled Condenser - 4 TN": {
+    "CAPACITY": 4,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Split Systems w/ Air Cooled Condenser"
+  },
+  "A/C Unit, Split Systems w/ Air Cooled Condenser - 5 TN": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Split Systems w/ Air Cooled Condenser"
+  },
+  "A/C Unit, Split Systems w/ Air Cooled Condenser - 10 TN": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Split Systems w/ Air Cooled Condenser"
+  },
+  "A/C Unit, Split Systems w/ Air Cooled Condenser - 35 TN": {
+    "CAPACITY": 35,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Split Systems w/ Air Cooled Condenser"
+  },
+  "A/C Unit, Split Systems w/ Air Cooled Condenser - 45 TN": {
+    "CAPACITY": 45,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Split Systems w/ Air Cooled Condenser"
+  },
+  "A/C Unit, Split Systems w/ Air Cooled Condenser - 60 TN": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Split Systems w/ Air Cooled Condenser"
+  },
+  "A/C Unit, Split Systems w/ Air Cooled Condenser - 75 TN": {
+    "CAPACITY": 75,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Split Systems w/ Air Cooled Condenser"
+  },
+  "A/C Unit, Split Systems w/ Air Cooled Condenser - 100 TN": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Split Systems w/ Air Cooled Condenser"
+  },
+  "A/C Unit, Thru-Wall": {
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Thru-Wall"
+  },
+  "A/C Unit, Thru-Wall - 1 ton": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Thru-Wall"
+  },
+  "A/C Unit, Thru-Wall - 1-1/2 ton": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Thru-Wall"
+  },
+  "A/C Unit, Thru-Wall - 1/2 ton": {
+    "CAPACITY": 0.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Thru-Wall"
+  },
+  "A/C Unit, Thru-Wall - 2 ton": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Thru-Wall"
+  },
+  "A/C Unit, Thru-Wall - 3/4 ton": {
+    "CAPACITY": 0.75,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Thru-Wall"
+  },
+  "A/C Unit, Window": {
+    "EQUIPMENT": "A/C Unit",
+    "TYPE": "Window"
+  },
+  "Air Curtain": {
+    "EQUIPMENT": "Air Curtain"
+  },
+  "Baseboard Heating": {
+    "EQUIPMENT": "Baseboard Heating"
+  },
+  "Baseboard Heating - 2' long": {
+    "EQUIPMENT": "Baseboard Heating",
+    "SIZE": 2,
+    "SIZE_UNITS": "ft"
+  },
+  "Baseboard Heating - 6' long": {
+    "EQUIPMENT": "Baseboard Heating",
+    "SIZE": 6,
+    "SIZE_UNITS": "ft"
+  },
+  "Baseboard Heating - 8' long": {
+    "EQUIPMENT": "Baseboard Heating",
+    "SIZE": 8,
+    "SIZE_UNITS": "ft"
+  },
+  "Baseboard Heating - 10' long": {
+    "EQUIPMENT": "Baseboard Heating",
+    "SIZE": 10,
+    "SIZE_UNITS": "ft"
+  },
+  "Boiler Feedwater Tank": {
+    "EQUIPMENT": "Boiler Feedwater Tank"
+  },
+  "Boiler Feedwater Tank - Shot chemical feeder, by pass, floor mount, 5 gal": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Boiler Feedwater Tank",
+    "TYPE": "Shot chemical feeder, by pass, floor mount"
+  },
+  "Boiler Feedwater Tank - Shot chemical feeder, by pass, floor mount, 10 gal": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Boiler Feedwater Tank",
+    "TYPE": "Shot chemical feeder, by pass, floor mount"
+  },
+  "Boiler Feedwater Tank - Shot chemical feeder, by pass, in-line mount, 1.7 gal": {
+    "CAPACITY": 1.7,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Boiler Feedwater Tank",
+    "TYPE": "Shot chemical feeder, by pass, in-line mount"
+  },
+  "Cab Mount, Four Pipe": {
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Four Pipe"
+  },
+  "Cab Mount, Four Pipe - 1 ton": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Four Pipe"
+  },
+  "Cab Mount, Four Pipe - 1-1/2 ton": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Four Pipe"
+  },
+  "Cab Mount, Four Pipe - 1/2 ton": {
+    "CAPACITY": 0.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Four Pipe"
+  },
+  "Cab Mount, Four Pipe - 2 ton": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Four Pipe"
+  },
+  "Cab Mount, Four Pipe - 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Four Pipe"
+  },
+  "Cab Mount, Two Pipe": {
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Two Pipe"
+  },
+  "Cab Mount, Two Pipe - 1 ton": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Two Pipe"
+  },
+  "Cab Mount, Two Pipe - 1 ton, Elec. Heat": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "Two Pipe"
+  },
+  "Cab Mount, Two Pipe - 1-1/2 ton": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Two Pipe"
+  },
+  "Cab Mount, Two Pipe - 1-1/2 ton, Elec. Heat": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "Two Pipe"
+  },
+  "Cab Mount, Two Pipe - 1/2 ton": {
+    "CAPACITY": 0.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Two Pipe"
+  },
+  "Cab Mount, Two Pipe - 1/2 ton, Elec. Heat": {
+    "CAPACITY": 0.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "Two Pipe"
+  },
+  "Cab Mount, Two Pipe - 2 ton": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Two Pipe"
+  },
+  "Cab Mount, Two Pipe - 2 ton, Elec. Heat": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "Two Pipe"
+  },
+  "Cab Mount, Two Pipe - 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "TYPE": "Two Pipe"
+  },
+  "Cab Mount, Two Pipe - 3 ton, Elec. Heat": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cab Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "Two Pipe"
+  },
+  "Central Station": {
+    "EQUIPMENT": "Central Station"
+  },
+  "Central Station -  2000 CFM": {
+    "EQUIPMENT": "Central Station",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Central Station -  5000 CFM": {
+    "EQUIPMENT": "Central Station",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Central Station -  5000 CFM, VAV": {
+    "EQUIPMENT": "Central Station",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Central Station - 10000 CFM": {
+    "EQUIPMENT": "Central Station",
+    "FLOWRATE": 10000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Central Station - 10000 CFM, VAV": {
+    "EQUIPMENT": "Central Station",
+    "FLOWRATE": 10000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Central Station - 15000 CFM": {
+    "EQUIPMENT": "Central Station",
+    "FLOWRATE": 15000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Central Station - 15000 CFM, VAV": {
+    "EQUIPMENT": "Central Station",
+    "FLOWRATE": 15000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Central Station - 20000 CFM": {
+    "EQUIPMENT": "Central Station",
+    "FLOWRATE": 20000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Central Station - 20000 CFM, VAV": {
+    "EQUIPMENT": "Central Station",
+    "FLOWRATE": 20000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Central Station - 30000 CFM, VAV": {
+    "EQUIPMENT": "Central Station",
+    "FLOWRATE": 30000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Chemical Feedwater": {
+    "EQUIPMENT": "Chemical Feedwater"
+  },
+  "Chemical Feedwater - 125 PSIG, 1.7 gallon": {
+    "CAPACITY": 1.7,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Chemical Feedwater",
+    "SIZE": 125,
+    "SIZE_UNITS": "psig"
+  },
+  "Chemical Feedwater - 150 lb., 5 gallon, ASME": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Chemical Feedwater",
+    "SIZE": 150,
+    "SIZE_UNITS": "lb"
+  },
+  "Chemical Feedwater - 150 lb., 10 gallon, ASME": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Chemical Feedwater",
+    "SIZE": 150,
+    "SIZE_UNITS": "lb"
+  },
+  "Chemical Feedwater - 175 PSIG, 5 gallon": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Chemical Feedwater",
+    "SIZE": 175,
+    "SIZE_UNITS": "psig"
+  },
+  "Chemical Feedwater - 175 PSIG, 12 gallon": {
+    "CAPACITY": 12,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Chemical Feedwater",
+    "SIZE": 175,
+    "SIZE_UNITS": "psig"
+  },
+  "Chemical Feedwater - 300 lb., 5 gallon, ASME": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Chemical Feedwater",
+    "SIZE": 300,
+    "SIZE_UNITS": "lb"
+  },
+  "Chemical Feedwater - 300 lb., 10 gallon, ASME": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Chemical Feedwater",
+    "SIZE": 300,
+    "SIZE_UNITS": "lb"
+  },
+  "Chiller, Absorption, Gas, Water Cooled": {
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Gas, Water Cooled -  800 TN": {
+    "CAPACITY": 800,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Gas, Water Cooled - 5 TN": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Gas, Water Cooled - 10 TN": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Gas, Water Cooled - 100 TN": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Gas, Water Cooled - 200 TN": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Gas, Water Cooled - 400 TN": {
+    "CAPACITY": 400,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Gas, Water Cooled - 600 TN": {
+    "CAPACITY": 600,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Gas, Water Cooled - 1000 TN": {
+    "CAPACITY": 1000,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Steam, Water Cooled -  750 TN": {
+    "CAPACITY": 750,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Steam",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Steam, Water Cooled -  955 TN": {
+    "CAPACITY": 955,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Steam",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Steam, Water Cooled - 100 TN": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Steam",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Steam, Water Cooled - 200 TN": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Steam",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Steam, Water Cooled - 420 TN": {
+    "CAPACITY": 420,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Steam",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Absorption, Steam, Water Cooled - 1660 TN": {
+    "CAPACITY": 1660,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "FUEL_TYPE": "Steam",
+    "TYPE": "Absorption"
+  },
+  "Chiller, Centrifugal, Water Cooled": {
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Centrifugal"
+  },
+  "Chiller, Centrifugal, Water Cooled -  200 TN": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Centrifugal"
+  },
+  "Chiller, Centrifugal, Water Cooled -  400 TN": {
+    "CAPACITY": 400,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Centrifugal"
+  },
+  "Chiller, Centrifugal, Water Cooled -  600 TN": {
+    "CAPACITY": 600,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Centrifugal"
+  },
+  "Chiller, Centrifugal, Water Cooled -  800 TN": {
+    "CAPACITY": 800,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Centrifugal"
+  },
+  "Chiller, Centrifugal, Water Cooled -  1250 TN": {
+    "CAPACITY": 1250,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Centrifugal"
+  },
+  "Chiller, Centrifugal, Water Cooled - 1000 TN": {
+    "CAPACITY": 1000,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Centrifugal"
+  },
+  "Chiller, Centrifugal, Water Cooled - 1500 TN": {
+    "CAPACITY": 1500,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Centrifugal"
+  },
+  "Chiller, Reciprocating, Air Cooled": {
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled -  20 TN": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled -  30 TN": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled -  40 TN": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled -  50 TN": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled -  60 TN": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled -  70 TN": {
+    "CAPACITY": 70,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled -  80 TN": {
+    "CAPACITY": 80,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled -  90 TN": {
+    "CAPACITY": 90,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled - 100 TN": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled - 110 TN": {
+    "CAPACITY": 110,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled - 130 TN": {
+    "CAPACITY": 130,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled - 175 TN": {
+    "CAPACITY": 175,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Air Cooled - 210 TN": {
+    "CAPACITY": 210,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Water Cooled": {
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Water Cooled -  60 TN": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Water Cooled - 100 TN": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Water Cooled - 150 TN": {
+    "CAPACITY": 150,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Reciprocating, Water Cooled - 200 TN": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Reciprocating"
+  },
+  "Chiller, Rotary Screw": {
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 80 TN, Water Cooled Screw Liquid Chiller": {
+    "CAPACITY": 80,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 130 TN, Air Cooled Screw Liquid Chiller": {
+    "CAPACITY": 130,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 150 TN, Water Cooled Screw Liquid Chiller, Dual Compressors": {
+    "CAPACITY": 150,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller, Dual Compressors",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 160 TN, Air Cooled Screw Liquid Chiller": {
+    "CAPACITY": 160,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 180 TN, Air Cooled Screw Liquid Chiller": {
+    "CAPACITY": 180,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 200 TN, Water Cooled Screw Liquid Chiller": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 200 TN, Water Cooled Screw Liquid Chiller, Dual Compressors": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller, Dual Compressors",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 210 TN, Air Cooled Screw Liquid Chiller": {
+    "CAPACITY": 210,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 270 TN, Air Cooled Screw Liquid Chiller": {
+    "CAPACITY": 270,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 291 TN, Water Cooled Screw Liquid Chiller, Dual Compressors": {
+    "CAPACITY": 291,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller, Dual Compressors",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 320 TN, Air Cooled Screw Liquid Chiller": {
+    "CAPACITY": 320,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Rotary Screw - 350 TN, Water Cooled Screw Liquid Chiller": {
+    "CAPACITY": 350,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Chiller",
+    "SYSTEM_TYPE": "Screw Liquid Chiller",
+    "TYPE": "Rotary Screw"
+  },
+  "Chiller, Scroll": {
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 25 TN": {
+    "CAPACITY": 25,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 50 TN": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 75 TN": {
+    "CAPACITY": 75,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 100 TN": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 125 TN": {
+    "CAPACITY": 125,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 150 TN": {
+    "CAPACITY": 150,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 165 TN": {
+    "CAPACITY": 165,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 180 TN": {
+    "CAPACITY": 180,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 200 TN": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 225 TN": {
+    "CAPACITY": 225,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 250 TN": {
+    "CAPACITY": 250,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 275 TN": {
+    "CAPACITY": 275,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Chiller, Scroll - 300 TN": {
+    "CAPACITY": 300,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Chiller",
+    "TYPE": "Scroll"
+  },
+  "Circulating Pump - 1 1/2 HP": {
+    "EQUIPMENT": "Circulating Pump",
+    "POWER": 1.5,
+    "POWER_UNITS": "hp"
+  },
+  "Circulating Pump - 1 HP": {
+    "EQUIPMENT": "Circulating Pump",
+    "POWER": 1,
+    "POWER_UNITS": "hp"
+  },
+  "Circulating Pump - 1/2 HP": {
+    "EQUIPMENT": "Circulating Pump",
+    "POWER": 0.5,
+    "POWER_UNITS": "hp"
+  },
+  "Circulating Pump - 1/4 HP": {
+    "EQUIPMENT": "Circulating Pump",
+    "POWER": 0.25,
+    "POWER_UNITS": "hp"
+  },
+  "Circulating Pump, Double Suction": {
+    "EQUIPMENT": "Circulating Pump",
+    "TYPE": "Double Suction"
+  },
+  "Circulating Pump, Double Suction - 6\" size, 50 HP, to 1200 GPM": {
+    "EQUIPMENT": "Circulating Pump",
+    "FLOWRATE": "<1200",
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 50,
+    "POWER_UNITS": "hp",
+    "SIZE": 6,
+    "SIZE_UNITS": "in",
+    "TYPE": "Double Suction"
+  },
+  "Circulating Pump, Double Suction - 8\" size, 75 HP, to 2500 GPM": {
+    "EQUIPMENT": "Circulating Pump",
+    "FLOWRATE": "<2500",
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 75,
+    "POWER_UNITS": "hp",
+    "SIZE": 8,
+    "SIZE_UNITS": "in",
+    "TYPE": "Double Suction"
+  },
+  "Circulating Pump, Double Suction - 8\" size, 100 HP, to 3000 GPM": {
+    "EQUIPMENT": "Circulating Pump",
+    "FLOWRATE": "<3000",
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 100,
+    "POWER_UNITS": "hp",
+    "SIZE": 8,
+    "SIZE_UNITS": "in",
+    "TYPE": "Double Suction"
+  },
+  "Circulating Pump, Double Suction - 10\" size, 150 HP, to 4000 GPM": {
+    "EQUIPMENT": "Circulating Pump",
+    "FLOWRATE": "<4000",
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 150,
+    "POWER_UNITS": "hp",
+    "SIZE": 10,
+    "SIZE_UNITS": "in",
+    "TYPE": "Double Suction"
+  },
+  "Circulating Pump, End Suction": {
+    "EQUIPMENT": "Circulating Pump",
+    "TYPE": "End Suction"
+  },
+  "Circulating Pump, End Suction - 2-1/2\" size, 3 HP, to 150 GPM": {
+    "EQUIPMENT": "Circulating Pump",
+    "FLOWRATE": "<150",
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 3,
+    "POWER_UNITS": "hp",
+    "SIZE": 2.5,
+    "SIZE_UNITS": "in",
+    "TYPE": "End Suction"
+  },
+  "Circulating Pump, End Suction - 3\" size, 5 HP, to 225 GPM": {
+    "EQUIPMENT": "Circulating Pump",
+    "FLOWRATE": "<225",
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 5,
+    "POWER_UNITS": "hp",
+    "SIZE": 3,
+    "SIZE_UNITS": "in",
+    "TYPE": "End Suction"
+  },
+  "Circulating Pump, End Suction - 4\" size, 7-1/2 HP, to 350 GPM": {
+    "EQUIPMENT": "Circulating Pump",
+    "FLOWRATE": "<350",
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 7.5,
+    "POWER_UNITS": "hp",
+    "SIZE": 4,
+    "SIZE_UNITS": "in",
+    "TYPE": "End Suction"
+  },
+  "Circulating Pump, End Suction - 4\" size, 10 HP": {
+    "EQUIPMENT": "Circulating Pump",
+    "POWER": 10,
+    "POWER_UNITS": "hp",
+    "SIZE": 4,
+    "SIZE_UNITS": "in",
+    "TYPE": "End Suction"
+  },
+  "Circulating Pump, End Suction - 5\" size, 15 HP, to 1000 GPM": {
+    "EQUIPMENT": "Circulating Pump",
+    "FLOWRATE": "<1000",
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 15,
+    "POWER_UNITS": "hp",
+    "SIZE": 5,
+    "SIZE_UNITS": "in",
+    "TYPE": "End Suction"
+  },
+  "Circulating Pump, End Suction - 6\" size, 25 HP, to 1550 GPM": {
+    "EQUIPMENT": "Circulating Pump",
+    "FLOWRATE": "<1550",
+    "FLOWRATE_UNITS": "gpm",
+    "POWER": 25,
+    "POWER_UNITS": "hp",
+    "SIZE": 6,
+    "SIZE_UNITS": "in",
+    "TYPE": "End Suction"
+  },
+  "Commercial/Industrial Vacuum Dust Collection": {
+    "EQUIPMENT": "Commercial/Industrial Vacuum Dust Collection"
+  },
+  "Commercial/Industrial Vacuum Dust Collection - 500 CFM": {
+    "EQUIPMENT": "Commercial/Industrial Vacuum Dust Collection",
+    "FLOWRATE": 500,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Commercial/Industrial Vacuum Dust Collection - 1000 CFM": {
+    "EQUIPMENT": "Commercial/Industrial Vacuum Dust Collection",
+    "FLOWRATE": 1000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Commercial/Industrial Vacuum Dust Collection - 1500 CFM": {
+    "EQUIPMENT": "Commercial/Industrial Vacuum Dust Collection",
+    "FLOWRATE": 1500,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Commercial/Industrial Vacuum Dust Collection - 3000 CFM": {
+    "EQUIPMENT": "Commercial/Industrial Vacuum Dust Collection",
+    "FLOWRATE": 3000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Commercial/Industrial Vacuum Dust Collection - 5000 CFM": {
+    "EQUIPMENT": "Commercial/Industrial Vacuum Dust Collection",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Condensate Pumping System - Steam Powered": {
+    "EQUIPMENT": "Condensate Pumping System",
+    "TYPE": "Steam Powered"
+  },
+  "Condensate Pumping System > 25 HP (Single and Duplex)": {
+    "EQUIPMENT": "Condensate Pumping System",
+    "POWER": ">25",
+    "POWER_UNITS": "hp"
+  },
+  "Condensate Pumping System 1 - 5 HP (Single and Duplex)": {
+    "EQUIPMENT": "Condensate Pumping System",
+    "POWER": "1-5",
+    "POWER_UNITS": "hp"
+  },
+  "Condensate Pumping System 5 - 25 HP (Single and Duplex)": {
+    "EQUIPMENT": "Condensate Pumping System",
+    "POWER": "5-25",
+    "POWER_UNITS": "hp"
+  },
+  "Condenser Water Pump, Double Suction – 50 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 50,
+    "SIZE_UNITS": "hp",
+    "TYPE": "Double Suction"
+  },
+  "Condenser Water Pump, Double Suction – 75 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 75,
+    "SIZE_UNITS": "hp",
+    "TYPE": "Double Suction"
+  },
+  "Condenser Water Pump, Double Suction – 100 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 100,
+    "SIZE_UNITS": "hp",
+    "TYPE": "Double Suction"
+  },
+  "Condenser Water Pump, Double Suction – 150 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 150,
+    "SIZE_UNITS": "hp",
+    "TYPE": "Double Suction"
+  },
+  "Condenser Water Pump, Double Suction – 200 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 200,
+    "SIZE_UNITS": "hp",
+    "TYPE": "Double Suction"
+  },
+  "Condenser Water Pump, Double Suction – 250 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 250,
+    "SIZE_UNITS": "hp",
+    "TYPE": "Double Suction"
+  },
+  "Condenser Water Pump, Double Suction – 300 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 300,
+    "SIZE_UNITS": "hp",
+    "TYPE": "Double Suction"
+  },
+  "Condenser Water Pump, End Suction – 3 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 3,
+    "SIZE_UNITS": "hp",
+    "TYPE": "End Suction"
+  },
+  "Condenser Water Pump, End Suction – 5 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 5,
+    "SIZE_UNITS": "hp",
+    "TYPE": "End Suction"
+  },
+  "Condenser Water Pump, End Suction – 7-1/2 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 7.5,
+    "SIZE_UNITS": "hp",
+    "TYPE": "End Suction"
+  },
+  "Condenser Water Pump, End Suction – 10 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 10,
+    "SIZE_UNITS": "hp",
+    "TYPE": "End Suction"
+  },
+  "Condenser Water Pump, End Suction – 15 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 15,
+    "SIZE_UNITS": "hp",
+    "TYPE": "End Suction"
+  },
+  "Condenser Water Pump, End Suction – 25 HP": {
+    "EQUIPMENT": "Condenser Water Pump",
+    "SIZE": 25,
+    "SIZE_UNITS": "hp",
+    "TYPE": "End Suction"
+  },
+  "Condenser, DX, Air Cooled": {
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 45 ton": {
+    "CAPACITY": 45,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 50 ton": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 54 ton": {
+    "CAPACITY": 54,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 59 ton": {
+    "CAPACITY": 59,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 65 ton": {
+    "CAPACITY": 65,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 73 ton": {
+    "CAPACITY": 73,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 81 ton": {
+    "CAPACITY": 81,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 86 ton": {
+    "CAPACITY": 86,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 88 ton": {
+    "CAPACITY": 88,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 101 ton": {
+    "CAPACITY": 101,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 159 ton": {
+    "CAPACITY": 159,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 228 ton": {
+    "CAPACITY": 228,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 314 ton": {
+    "CAPACITY": 314,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Belt Drive, 471 ton": {
+    "CAPACITY": 471,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Belt Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 1 ton": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 1-1/2 ton": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 2 ton": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 8 ton": {
+    "CAPACITY": 8,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 12 ton": {
+    "CAPACITY": 12,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 14 ton": {
+    "CAPACITY": 14,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 16 ton": {
+    "CAPACITY": 16,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 21 ton": {
+    "CAPACITY": 21,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 26 ton": {
+    "CAPACITY": 26,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 30 ton": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 41 ton": {
+    "CAPACITY": 41,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 52 ton": {
+    "CAPACITY": 52,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 63 ton": {
+    "CAPACITY": 63,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 76 ton": {
+    "CAPACITY": 76,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 86 ton": {
+    "CAPACITY": 86,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 97 ton": {
+    "CAPACITY": 97,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 105 ton": {
+    "CAPACITY": 105,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 118 ton": {
+    "CAPACITY": 118,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 126 ton": {
+    "CAPACITY": 126,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 136 ton": {
+    "CAPACITY": 136,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Air Cooled - Direct Drive, 142 ton": {
+    "CAPACITY": 142,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Condenser, DX",
+    "TYPE": "Direct Drive"
+  },
+  "Condenser, DX, Evaporative": {
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 15 ton": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 25 ton": {
+    "CAPACITY": 25,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 30 ton": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 40 ton": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 50 ton": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 65 ton": {
+    "CAPACITY": 65,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 80 ton": {
+    "CAPACITY": 80,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 100 ton": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 150 ton": {
+    "CAPACITY": 150,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Condenser, DX, Evaporative - 185 ton": {
+    "CAPACITY": 185,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Evaporative",
+    "EQUIPMENT": "Condenser, DX"
+  },
+  "Cooling Tower, Fiberglass": {
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Fiberglass"
+  },
+  "Cooling Tower, Fiberglass -   60 TN": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Fiberglass"
+  },
+  "Cooling Tower, Fiberglass -  125 TN": {
+    "CAPACITY": 125,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Fiberglass"
+  },
+  "Cooling Tower, Fiberglass -  300 TN": {
+    "CAPACITY": 300,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Fiberglass"
+  },
+  "Cooling Tower, Fiberglass -  600 TN": {
+    "CAPACITY": 600,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Fiberglass"
+  },
+  "Cooling Tower, Fiberglass - 1000 TN": {
+    "CAPACITY": 1000,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Fiberglass"
+  },
+  "Cooling Tower, Galvanized": {
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Galvanized"
+  },
+  "Cooling Tower, Galvanized -   60 TN": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Galvanized"
+  },
+  "Cooling Tower, Galvanized -  110 TN": {
+    "CAPACITY": 110,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Galvanized"
+  },
+  "Cooling Tower, Galvanized -  300 TN": {
+    "CAPACITY": 300,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Galvanized"
+  },
+  "Cooling Tower, Galvanized -  600 TN": {
+    "CAPACITY": 600,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Galvanized"
+  },
+  "Cooling Tower, Galvanized - 1000 TN": {
+    "CAPACITY": 1000,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Galvanized"
+  },
+  "Cooling Tower, Stainless Steel": {
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Stainless Steel"
+  },
+  "Cooling Tower, Stainless Steel -   60 TN": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Stainless Steel"
+  },
+  "Cooling Tower, Stainless Steel -  110 TN": {
+    "CAPACITY": 110,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Stainless Steel"
+  },
+  "Cooling Tower, Stainless Steel -  300 TN": {
+    "CAPACITY": 300,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Stainless Steel"
+  },
+  "Cooling Tower, Stainless Steel -  600 TN": {
+    "CAPACITY": 600,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Stainless Steel"
+  },
+  "Cooling Tower, Stainless Steel - 1000 TN": {
+    "CAPACITY": 1000,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Cooling Tower",
+    "TYPE": "Stainless Steel"
+  },
+  "Dehumidifier": {
+    "EQUIPMENT": "Dehumidifier"
+  },
+  "Dehumidifier - 1.5 lb./Hr., 50 CFM": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 50,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Dehumidifier - 3 lb./Hr., 150 CFM": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 150,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Dehumidifier - 6 lb./Hr., 150 CFM": {
+    "CAPACITY": 6,
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 150,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Dehumidifier - 16 to 20 lb./Hr., 600 CFM": {
+    "CAPACITY": "16-20",
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 600,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Dehumidifier - 30 to 40 lb./Hr., 1125 CFM": {
+    "CAPACITY": "30-40",
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 1125,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Dehumidifier - 60 to 75 lb./Hr., 2250 CFM": {
+    "CAPACITY": "60-75",
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 2250,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Dehumidifier - 120 to 155 lb./Hr., 4500 CFM": {
+    "CAPACITY": "120-155",
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 4500,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Dehumidifier - 240 to 310 lb./Hr., 9000 CFM": {
+    "CAPACITY": "240-310",
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 9000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Dehumidifier - 400 to 515 lb./Hr., 15,000 CFM": {
+    "CAPACITY": "400-515",
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 15000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Dehumidifier - 530 to 690 lb./Hr., 20,000 CFM": {
+    "CAPACITY": "530-690",
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 20000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Dehumidifier - 800 to 1030 lb./Hr., 30,000 CFM": {
+    "CAPACITY": "800-1030",
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 30000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Dehumidifier - 1060 to 1375 lb./Hr., 40,000 CFM": {
+    "CAPACITY": "1060-1375",
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Dehumidifier",
+    "FLOWRATE": 40000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Duct Mount, 2 Pipe": {
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 1 ton": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 1 ton, Elec. Heat": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 1-1/2 ton": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 1-1/2 ton, Elec. Heat": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 1/2 ton": {
+    "CAPACITY": 0.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 1/2 ton, Elec. Heat": {
+    "CAPACITY": 0.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 2 ton": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 2 ton, Elec. Heat": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 3 ton, Elec. Heat": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 3-1/2 ton": {
+    "CAPACITY": 3.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 3-1/2 ton, Elec. Heat": {
+    "CAPACITY": 3.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 4 ton": {
+    "CAPACITY": 4,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 4 ton, Elec. Heat": {
+    "CAPACITY": 4,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 5 ton, Elec. Heat": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 6 ton": {
+    "CAPACITY": 6,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 6 ton, Elec. Heat": {
+    "CAPACITY": 6,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 7 ton": {
+    "CAPACITY": 7,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 7 ton, Elec. Heat": {
+    "CAPACITY": 7,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 8 ton": {
+    "CAPACITY": 8,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 8 ton, Elec. Heat": {
+    "CAPACITY": 8,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 2 Pipe - 10 ton, Elec. Heat": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "HEATING_TYPE": "Elec. Heat",
+    "TYPE": "2 Pipe"
+  },
+  "Duct Mount, 4 Pipe": {
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 1 ton": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 1-1/2 ton": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 1/2 ton": {
+    "CAPACITY": 0.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 2 ton": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 3.5 ton": {
+    "CAPACITY": 3.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 4 ton": {
+    "CAPACITY": 4,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 6 ton": {
+    "CAPACITY": 6,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 7 ton": {
+    "CAPACITY": 7,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 8 ton": {
+    "CAPACITY": 8,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "Duct Mount, 4 Pipe - 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Duct Mount",
+    "TYPE": "4 Pipe"
+  },
+  "DX": {
+    "EQUIPMENT": "DX"
+  },
+  "DX - 1.5 ton": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 2 ton": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 2.5 ton": {
+    "CAPACITY": 2.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 3.5 ton": {
+    "CAPACITY": 3.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 4 ton": {
+    "CAPACITY": 4,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 7.5 ton": {
+    "CAPACITY": 7.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 11 ton": {
+    "CAPACITY": 11,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 15 ton": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 25 ton": {
+    "CAPACITY": 25,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "DX - 30 ton": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "DX"
+  },
+  "Electric, 10.2 MBH": {
+    "CAPACITY": 10.2,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric"
+  },
+  "Electric, 17.1 MBH": {
+    "CAPACITY": 17.1,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric"
+  },
+  "Electric, 27.3 MBH": {
+    "CAPACITY": 27.3,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric"
+  },
+  "Electric, 34.1 MBH": {
+    "CAPACITY": 34.1,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric"
+  },
+  "Electric, 51.6 MBH": {
+    "CAPACITY": 51.6,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric"
+  },
+  "Electric, 68.3 MBH": {
+    "CAPACITY": 68.3,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric"
+  },
+  "Electric, 85.3 MBH": {
+    "CAPACITY": 85.3,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric"
+  },
+  "Electric, Hot Water": {
+    "FUEL_TYPE": "Electric",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -    <22 KW, <78 MBH": {
+    "CAPACITY": "<78",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "<22",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -    22-45 KW, 78-154 MBH": {
+    "CAPACITY": "78-154",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "22-45",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -    45-90 KW, 154-308 MBH": {
+    "CAPACITY": "154-308",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "45-90",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -    90-135 KW, 308-460 MBH": {
+    "CAPACITY": "308-460",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "90-135",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -   135-180 KW, 460-613 MBH": {
+    "CAPACITY": "460-613",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "135-180",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -   180-253 KW, 613-863 MBH": {
+    "CAPACITY": "613-863",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "180-253",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -   253-370 KW, 863-1263 MBH": {
+    "CAPACITY": "863-1263",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "253-370",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -   370-555 KW, 1263-1894 MBH": {
+    "CAPACITY": "1263-1894",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "370-555",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -   555-783 KW, 1894-2672 MBH": {
+    "CAPACITY": "1894-2672",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "555-783",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -   783-1110 KW, 2672-3788 MBH": {
+    "CAPACITY": "2672-3788",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "783-1110",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -  1110-1710 KW, 3788-5836 MBH": {
+    "CAPACITY": "3788-5836",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "1110-1710",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -  1710-2355 KW, 5836-8036 MBH": {
+    "CAPACITY": "5836-8036",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "1710-2355",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water -  2355-3105 KW, 8036-10594 MBH": {
+    "CAPACITY": "8036-10594",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "2355-3105",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Hot Water - >3105 KW, >10594 MBH": {
+    "CAPACITY": ">10594",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": ">3105",
+    "POWER_UNITS": "kW",
+    "TYPE": "Hot Water"
+  },
+  "Electric, Steam": {
+    "FUEL_TYPE": "Electric",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam -    25-48 KW, 92-164 MBH": {
+    "CAPACITY": "92-164",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "25-48",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam -    48-90 KW, 164-307 MBH": {
+    "CAPACITY": "164-307",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "48-90",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam -    90-135 KW, 307-461 MBH": {
+    "CAPACITY": "307-461",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "90-135",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam -   <25 KW, <92 MBH": {
+    "CAPACITY": "<92",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "<25",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam -   135-180 KW, 461-614 MBH": {
+    "CAPACITY": "461-614",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "135-180",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam -   180-255 KW, 614-870 MBH": {
+    "CAPACITY": "614-870",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "180-255",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam -   255-405 KW, 870-1382 MBH": {
+    "CAPACITY": "870-1382",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "255-405",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam -   405-615 KW, 1382-2098 MBH": {
+    "CAPACITY": "1382-2098",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "405-615",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam -   615-900 KW, 2098-3071 MBH": {
+    "CAPACITY": "2098-3071",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "615-900",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam -   900-1170 KW, 3071-3993 MBH": {
+    "CAPACITY": "3071-3993",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "900-1170",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam -  1440-1845 KW, 4914-6295 MBH": {
+    "CAPACITY": "4914-6295",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": "1440-1845",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Electric, Steam - >2205 KW, >7524 MBH": {
+    "CAPACITY": ">7524",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Electric",
+    "POWER": ">2205",
+    "POWER_UNITS": "kW",
+    "TYPE": "Steam"
+  },
+  "Evaporative Cooler": {
+    "EQUIPMENT": "Evaporative Cooler"
+  },
+  "Evaporative Cooler -  1785 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 1785,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Evaporative Cooler -  2740 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 2740,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Evaporative Cooler -  3235 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 3235,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Evaporative Cooler -  3625 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 3625,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Evaporative Cooler -  4215 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 4215,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Evaporative Cooler -  5255 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 5255,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Evaporative Cooler -  6090 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 6090,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Evaporative Cooler -  8300 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 8300,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Evaporative Cooler -  8360 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 8360,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Evaporative Cooler -  9725 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 9725,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Evaporative Cooler - 11715 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 11715,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Evaporative Cooler - 14410 CFM": {
+    "EQUIPMENT": "Evaporative Cooler",
+    "FLOWRATE": 14410,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Expansion Tank": {
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 1,200 gal": {
+    "CAPACITY": 1200,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 2,500 gal": {
+    "CAPACITY": 2500,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 15 gal": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 24 gal": {
+    "CAPACITY": 24,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 30 gal": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 40 gal": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 60 gal": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 80 gal": {
+    "CAPACITY": 80,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 100 gal": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 120 gal": {
+    "CAPACITY": 120,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 135 gal": {
+    "CAPACITY": 135,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 175 gal": {
+    "CAPACITY": 175,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 220 gal": {
+    "CAPACITY": 220,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 240 gal": {
+    "CAPACITY": 240,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 305 gal": {
+    "CAPACITY": 305,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 400 gal": {
+    "CAPACITY": 400,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Expansion Tank - 528 gal": {
+    "CAPACITY": 528,
+    "CAPACITY_UNITS": "gal",
+    "EQUIPMENT": "Expansion Tank"
+  },
+  "Fan System, Axial": {
+    "EQUIPMENT": "Fan System",
+    "TYPE": "Axial"
+  },
+  "Fan System, Axial  - 500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Axial"
+  },
+  "Fan System, Axial  - 1300 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 1300,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Axial"
+  },
+  "Fan System, Axial  - 1500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 1500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Axial"
+  },
+  "Fan System, Axial  - 2500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 2500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Axial"
+  },
+  "Fan System, Axial  - 5000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Axial"
+  },
+  "Fan System, Axial  - 7500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 7500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Axial"
+  },
+  "Fan System, Axial - 10,000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 10000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Axial"
+  },
+  "Fan System, Axial - 3500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 3500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Axial"
+  },
+  "Fan System, Centrifugal In-Line": {
+    "EQUIPMENT": "Fan System",
+    "TYPE": "Centrifugal In-Line"
+  },
+  "Fan System, Centrifugal In-Line - 10,000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 10000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Centrifugal In-Line"
+  },
+  "Fan System, Centrifugal In-Line - 500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Centrifugal In-Line"
+  },
+  "Fan System, Centrifugal In-Line - 1300 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 1300,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Centrifugal In-Line"
+  },
+  "Fan System, Centrifugal In-Line - 1500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 1500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Centrifugal In-Line"
+  },
+  "Fan System, Centrifugal In-Line - 2500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 2500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Centrifugal In-Line"
+  },
+  "Fan System, Centrifugal In-Line - 3500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 3500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Centrifugal In-Line"
+  },
+  "Fan System, Centrifugal In-Line - 5000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Centrifugal In-Line"
+  },
+  "Fan System, Centrifugal In-Line - 7500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 7500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Centrifugal In-Line"
+  },
+  "Fan System, Large Blade Destratification Fan": {
+    "EQUIPMENT": "Fan System",
+    "TYPE": "Large Blade Destratification Fan"
+  },
+  "Fan System, Residential Exhaust": {
+    "EQUIPMENT": "Fan System",
+    "TYPE": "Residential Exhaust"
+  },
+  "Fan System, Roof Exhaust": {
+    "EQUIPMENT": "Fan System",
+    "TYPE": "Roof Exhaust"
+  },
+  "Fan System, Roof Exhaust - 13,800 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 13800,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Roof Exhaust"
+  },
+  "Fan System, Roof Exhaust - 500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Roof Exhaust"
+  },
+  "Fan System, Roof Exhaust - 800 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 800,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Roof Exhaust"
+  },
+  "Fan System, Roof Exhaust - 1500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 1500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Roof Exhaust"
+  },
+  "Fan System, Roof Exhaust - 2750 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 2750,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Roof Exhaust"
+  },
+  "Fan System, Roof Exhaust - 3500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 3500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Roof Exhaust"
+  },
+  "Fan System, Roof Exhaust - 5000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Roof Exhaust"
+  },
+  "Fan System, Roof Exhaust - 8500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 8500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Roof Exhaust"
+  },
+  "Fan System, Utility Set": {
+    "EQUIPMENT": "Fan System",
+    "TYPE": "Utility Set"
+  },
+  "Fan System, Utility Set - 10,000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 10000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Utility Set"
+  },
+  "Fan System, Utility Set - 15,000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 15000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Utility Set"
+  },
+  "Fan System, Utility Set - 20,000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 20000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Utility Set"
+  },
+  "Fan System, Utility Set - 2000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Utility Set"
+  },
+  "Fan System, Utility Set - 3500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 3500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Utility Set"
+  },
+  "Fan System, Utility Set - 5000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Utility Set"
+  },
+  "Fan System, Utility Set - 7500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 7500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Utility Set"
+  },
+  "Fan System, Wall Exhaust": {
+    "EQUIPMENT": "Fan System",
+    "TYPE": "Wall Exhaust"
+  },
+  "Fan System, Wall Exhaust - 13,800 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 13800,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall Exhaust"
+  },
+  "Fan System, Wall Exhaust - 500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall Exhaust"
+  },
+  "Fan System, Wall Exhaust - 800 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 800,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall Exhaust"
+  },
+  "Fan System, Wall Exhaust - 1500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 1500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall Exhaust"
+  },
+  "Fan System, Wall Exhaust - 2750 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 2750,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall Exhaust"
+  },
+  "Fan System, Wall Exhaust - 3500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 3500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall Exhaust"
+  },
+  "Fan System, Wall Exhaust - 5000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall Exhaust"
+  },
+  "Fan System, Wall Exhaust - 8500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 8500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall Exhaust"
+  },
+  "Fan System, Wall exhaust, 10,100 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 10100,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall exhaust"
+  },
+  "Fan System, Wall exhaust, 14,300 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 14300,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall exhaust"
+  },
+  "Fan System, Wall exhaust, 19,800 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 19800,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall exhaust"
+  },
+  "Fan System, Wall exhaust, 26,250 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 26250,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall exhaust"
+  },
+  "Fan System, Wall exhaust, 38,500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 38500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall exhaust"
+  },
+  "Fan System, Wall exhaust, 46,000 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 46000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall exhaust"
+  },
+  "Fan System, Wall exhaust, 51,500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 51500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall exhaust"
+  },
+  "Fan System, Wall exhaust, 6175 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 6175,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall exhaust"
+  },
+  "Fan System, Wall exhaust, 7500 CFM": {
+    "EQUIPMENT": "Fan System",
+    "FLOWRATE": 7500,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Wall exhaust"
+  },
+  "Field Fabricated": {
+    "EQUIPMENT": "Field Fabricated"
+  },
+  "Field Fabricated -  75000 CFM, VAV": {
+    "EQUIPMENT": "Field Fabricated",
+    "FLOWRATE": 75000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Field Fabricated - 40000 CFM": {
+    "EQUIPMENT": "Field Fabricated",
+    "FLOWRATE": 40000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Field Fabricated - 60000 CFM": {
+    "EQUIPMENT": "Field Fabricated",
+    "FLOWRATE": 60000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Field Fabricated - 75000 CFM": {
+    "EQUIPMENT": "Field Fabricated",
+    "FLOWRATE": 75000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Field Fabricated - 100000 CFM, VAV": {
+    "EQUIPMENT": "Field Fabricated",
+    "FLOWRATE": 100000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Field Fabricated - 150000 CFM, VAV": {
+    "EQUIPMENT": "Field Fabricated",
+    "FLOWRATE": 150000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Fuel Storage Tank - Fuel Storage Tank, 1000 GAL": {
+    "CAPACITY": 1000,
+    "CAPACITY_UNITS": "gal"
+  },
+  "Fuel Storage Tank - Fuel Storage Tank, 2500 GAL": {
+    "CAPACITY": 2500,
+    "CAPACITY_UNITS": "gal"
+  },
+  "Fuel Storage Tank - Fuel Storage Tank, 5000 GAL": {
+    "CAPACITY": 5000,
+    "CAPACITY_UNITS": "gal"
+  },
+  "Fume Hood Exhaust System": {
+    "EQUIPMENT": "Fume Hood Exhaust System"
+  },
+  "Fume Hood Exhaust System - 3', 1000 CFM": {
+    "EQUIPMENT": "Fume Hood Exhaust System",
+    "FLOWRATE": 1000,
+    "FLOWRATE_UNITS": "cfm",
+    "SIZE": 3,
+    "SIZE_UNITS": "ft"
+  },
+  "Fume Hood Exhaust System - 4', 2000 CFM": {
+    "EQUIPMENT": "Fume Hood Exhaust System",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm",
+    "SIZE": 4,
+    "SIZE_UNITS": "ft"
+  },
+  "Fume Hood Exhaust System - 6', 3500 CFM": {
+    "EQUIPMENT": "Fume Hood Exhaust System",
+    "FLOWRATE": 3500,
+    "FLOWRATE_UNITS": "cfm",
+    "SIZE": 6,
+    "SIZE_UNITS": "ft"
+  },
+  "Fume Hood Exhaust System - 6', 5000 CFM": {
+    "EQUIPMENT": "Fume Hood Exhaust System",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm",
+    "SIZE": 6,
+    "SIZE_UNITS": "ft"
+  },
+  "Fume Hood Exhaust System - 10', 8000 CFM": {
+    "EQUIPMENT": "Fume Hood Exhaust System",
+    "FLOWRATE": 8000,
+    "FLOWRATE_UNITS": "cfm",
+    "SIZE": 10,
+    "SIZE_UNITS": "ft"
+  },
+  "Garage Exhaust Systems": {
+    "EQUIPMENT": "Garage Exhaust Systems"
+  },
+  "Garage Exhaust Systems - Dual exhaust, 3\" outlets, pair of adjoining bays": {
+    "EQUIPMENT": "Garage Exhaust Systems",
+    "SIZE": 3,
+    "SIZE_UNITS": "in",
+    "TYPE": "Dual exhaust"
+  },
+  "Garage Exhaust Systems - Single exhaust, 3\" outlet, 1 bay": {
+    "EQUIPMENT": "Garage Exhaust Systems",
+    "SIZE": 3,
+    "SIZE_UNITS": "in",
+    "TYPE": "Single exhaust"
+  },
+  "Gas": {
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas - 20 MBH": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas - 60 MBH": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas - 100 MBH": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas - 160 MBH": {
+    "CAPACITY": 160,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas - 200 MBH": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas - 280 MBH": {
+    "CAPACITY": 280,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas - 320 MBH": {
+    "CAPACITY": 320,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas, 45 MBH": {
+    "CAPACITY": 45,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas, 60 MBH": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas, 75 MBH": {
+    "CAPACITY": 75,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas, 100 MBH": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas, 125 MBH": {
+    "CAPACITY": 125,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas, 150 MBH": {
+    "CAPACITY": 150,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas, 200 MBH": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas, 300 MBH": {
+    "CAPACITY": 300,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas, 400 MBH": {
+    "CAPACITY": 400,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas"
+  },
+  "Gas, Hot Water": {
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -   <150 MBH": {
+    "CAPACITY": "<150",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -   150-250 MBH": {
+    "CAPACITY": "150-250",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -   250-400 MBH": {
+    "CAPACITY": "250-400",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -   400-500 MBH": {
+    "CAPACITY": "400-500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -   500-650 MBH": {
+    "CAPACITY": "500-650",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -   650-900 MBH": {
+    "CAPACITY": "650-900",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -   900-1200 MBH": {
+    "CAPACITY": "900-1200",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -  1200-1800 MBH": {
+    "CAPACITY": "1200-1800",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -  1800-2500 MBH": {
+    "CAPACITY": "1800-2500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -  2500-3500 MBH": {
+    "CAPACITY": "2500-3500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -  3500-4500 MBH": {
+    "CAPACITY": "3500-4500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -  4500-5500 MBH": {
+    "CAPACITY": "4500-5500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water -  5500-6500 MBH": {
+    "CAPACITY": "5500-6500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Hot Water - >6500 MBH": {
+    "CAPACITY": ">6500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Hot Water"
+  },
+  "Gas, Pulse": {
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Pulse"
+  },
+  "Gas, Pulse - Pulse <100,000 BTU": {
+    "CAPACITY": "<100000",
+    "CAPACITY_UNITS": "BTU",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Pulse"
+  },
+  "Gas, Pulse - Pulse >100,000 BTU": {
+    "CAPACITY": ">100000",
+    "CAPACITY_UNITS": "BTU",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Pulse"
+  },
+  "Gas, Steam": {
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Steam -   <150 MBH": {
+    "CAPACITY": "<150",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Steam -   150-250 MBH": {
+    "CAPACITY": "150-250",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Steam -   250-400 MBH": {
+    "CAPACITY": "250-400",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Steam -   400-650 MBH": {
+    "CAPACITY": "400-650",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Steam -   650-1000 MBH": {
+    "CAPACITY": "650-1000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Steam -  1000-2000 MBH": {
+    "CAPACITY": "1000-2000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Steam -  2000-3000 MBH": {
+    "CAPACITY": "2000-3000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Steam -  3000-4000 MBH": {
+    "CAPACITY": "3000-4000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Steam -  4000-5000 MBH": {
+    "CAPACITY": "4000-5000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Steam -  5000-6500 MBH": {
+    "CAPACITY": "5000-6500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Steam - >6500 MBH": {
+    "CAPACITY": ">6500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Steam"
+  },
+  "Gas, Water Tube - Water Tube  <1500 MBH": {
+    "CAPACITY": "<1500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Water Tube"
+  },
+  "Gas, Water Tube - Water Tube  1500-2000 MBH": {
+    "CAPACITY": "1500-2000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Water Tube"
+  },
+  "Gas, Water Tube - Water Tube  2000-2700 MBH": {
+    "CAPACITY": "2000-2700",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Water Tube"
+  },
+  "Gas, Water Tube - Water Tube  2700-4000 MBH": {
+    "CAPACITY": "2700-4000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Water Tube"
+  },
+  "Gas, Water Tube - Water Tube >4000 MBH": {
+    "CAPACITY": ">4000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas",
+    "TYPE": "Water Tube"
+  },
+  "Gas/Oil, Fire Tube - Fire Tube   <5,000 MBH": {
+    "CAPACITY": "<5000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Fire Tube"
+  },
+  "Gas/Oil, Fire Tube - Fire Tube   5,000-7,500": {
+    "CAPACITY": "5000-7500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Fire Tube"
+  },
+  "Gas/Oil, Fire Tube - Fire Tube   7,500-12,500": {
+    "CAPACITY": "7500-12500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Fire Tube"
+  },
+  "Gas/Oil, Fire Tube - Fire Tube  12,500-20,000": {
+    "CAPACITY": "12500-20000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Fire Tube"
+  },
+  "Gas/Oil, Fire Tube - Fire Tube >20,000 MBH": {
+    "CAPACITY": ">20000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Fire Tube"
+  },
+  "Gas/Oil, Hot Water": {
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -    <750 MBH": {
+    "CAPACITY": "<750",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -    750-1,000 MBH": {
+    "CAPACITY": "750-1000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -   1,000-1,250 MBH": {
+    "CAPACITY": "1000-1250",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -   1,250-1,750 MBH": {
+    "CAPACITY": "1250-1750",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -   1,750-2,250 MBH": {
+    "CAPACITY": "1750-2250",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -   2,250-2,750 MBH": {
+    "CAPACITY": "2250-2750",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -   2,750-3,500 MBH": {
+    "CAPACITY": "2750-3500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -   3,500-4,250 MBH": {
+    "CAPACITY": "3500-4250",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -   4,250-5,000 MBH": {
+    "CAPACITY": "4250-5000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -   5,000-5,750 MBH": {
+    "CAPACITY": "5000-5750",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -   5,750-7,500 MBH": {
+    "CAPACITY": "5750-7500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -   7,500-10,000 MBH": {
+    "CAPACITY": "7500-10000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water -  10,000-12,500 MBH": {
+    "CAPACITY": "10000-12500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Hot Water - >12,500 MBH": {
+    "CAPACITY": ">12500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Hot Water"
+  },
+  "Gas/Oil, Steam -  <1000 MBH": {
+    "CAPACITY": "<1000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Steam"
+  },
+  "Gas/Oil, Steam -  1000-1500 MBH": {
+    "CAPACITY": "1000-1500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Steam"
+  },
+  "Gas/Oil, Steam -  1500-2250 MBH": {
+    "CAPACITY": "1500-2250",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Steam"
+  },
+  "Gas/Oil, Steam -  2250-3000 MBH": {
+    "CAPACITY": "2250-3000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Steam"
+  },
+  "Gas/Oil, Steam -  3000-3500 MBH": {
+    "CAPACITY": "3000-3500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Steam"
+  },
+  "Gas/Oil, Steam -  3500-4250 MBH": {
+    "CAPACITY": "3500-4250",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Steam"
+  },
+  "Gas/Oil, Steam -  4250-5000 MBH": {
+    "CAPACITY": "4250-5000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Steam"
+  },
+  "Gas/Oil, Steam -  5000-5750 MBH": {
+    "CAPACITY": "5000-5750",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Steam"
+  },
+  "Gas/Oil, Steam -  5750-6500 MBH": {
+    "CAPACITY": "5750-6500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Steam"
+  },
+  "Gas/Oil, Steam - >6500 MBH": {
+    "CAPACITY": ">6500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Gas/Oil",
+    "TYPE": "Steam"
+  },
+  "Heat Exchanger, Plate Type": {
+    "EQUIPMENT": "Heat Exchanger",
+    "TYPE": "Plate Type"
+  },
+  "Heat Exchanger, Plate Type - 400 GPM": {
+    "EQUIPMENT": "Heat Exchanger",
+    "FLOWRATE": 400,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Plate Type"
+  },
+  "Heat Exchanger, Plate Type - 800 GPM": {
+    "EQUIPMENT": "Heat Exchanger",
+    "FLOWRATE": 800,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Plate Type"
+  },
+  "Heat Exchanger, Plate Type - 1200 GPM": {
+    "EQUIPMENT": "Heat Exchanger",
+    "FLOWRATE": 1200,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Plate Type"
+  },
+  "Heat Exchanger, Plate Type - 1800 GPM": {
+    "EQUIPMENT": "Heat Exchanger",
+    "FLOWRATE": 1800,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Plate Type"
+  },
+  "Heat Exchanger, Shell & Tube": {
+    "EQUIPMENT": "Heat Exchanger",
+    "TYPE": "Shell & Tube"
+  },
+  "Heat Exchanger, Shell & Tube - 40 GPM": {
+    "EQUIPMENT": "Heat Exchanger",
+    "FLOWRATE": 40,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Shell & Tube"
+  },
+  "Heat Exchanger, Shell & Tube - 96 GPM": {
+    "EQUIPMENT": "Heat Exchanger",
+    "FLOWRATE": 96,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Shell & Tube"
+  },
+  "Heat Exchanger, Shell & Tube - 240 GPM": {
+    "EQUIPMENT": "Heat Exchanger",
+    "FLOWRATE": 240,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Shell & Tube"
+  },
+  "Heat Exchanger, Shell & Tube - 600 GPM": {
+    "EQUIPMENT": "Heat Exchanger",
+    "FLOWRATE": 600,
+    "FLOWRATE_UNITS": "gpm",
+    "TYPE": "Shell & Tube"
+  },
+  "Heat Pump Package Condenser/Evaporator/Air Handler - 1.5 TN": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Package Condenser/Evaporator/Air Handler"
+  },
+  "Heat Pump Package Condenser/Evaporator/Air Handler - 2 TN": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Package Condenser/Evaporator/Air Handler"
+  },
+  "Heat Pump Package Condenser/Evaporator/Air Handler - 2.5 TN": {
+    "CAPACITY": 2.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Package Condenser/Evaporator/Air Handler"
+  },
+  "Heat Pump Package Condenser/Evaporator/Air Handler - 3 TN": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Package Condenser/Evaporator/Air Handler"
+  },
+  "Heat Pump Package Condenser/Evaporator/Air Handler - 5 TN": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Package Condenser/Evaporator/Air Handler"
+  },
+  "Heat Pump Package Condenser/Evaporator/Air Handler - 7.5 TN": {
+    "CAPACITY": 7.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Package Condenser/Evaporator/Air Handler"
+  },
+  "Heat Pump Package Condenser/Evaporator/Air Handler -3.5 TN": {
+    "CAPACITY": 3.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Package Condenser/Evaporator/Air Handler"
+  },
+  "Heat Pump Water Source Single Package - 1 TN": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source Single Package"
+  },
+  "Heat Pump Water Source Single Package - 2 TN": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source Single Package"
+  },
+  "Heat Pump Water Source Single Package - 3 TN": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source Single Package"
+  },
+  "Heat Pump Water Source Single Package - 5 TN": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source Single Package"
+  },
+  "Heat Pump Water Source Single Package - 7.5 TN": {
+    "CAPACITY": 7.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source Single Package"
+  },
+  "Heat Pump, Air Source, Roof Top": {
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Air Source, Roof Top"
+  },
+  "Heat Pump, Air Source, Roof Top - 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Air Source, Roof Top"
+  },
+  "Heat Pump, Air Source, Roof Top - 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Air Source, Roof Top"
+  },
+  "Heat Pump, Air Source, Roof Top - 30 ton": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Air Source, Roof Top"
+  },
+  "Heat Pump, Air Source, Roof Top - 40 ton": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Air Source, Roof Top"
+  },
+  "Heat Pump, Air Source, Roof Top - 50 ton": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Air Source, Roof Top"
+  },
+  "Heat Pump, Air Source, Roof Top - 60 ton": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Air Source, Roof Top"
+  },
+  "Heat Pump, Duct Mounted, Horizontal": {
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Duct Mounted, Horizontal"
+  },
+  "Heat Pump, Duct Mounted, Horizontal - 1 ton": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Duct Mounted, Horizontal"
+  },
+  "Heat Pump, Duct Mounted, Horizontal - 1-1/2 ton": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Duct Mounted, Horizontal"
+  },
+  "Heat Pump, Duct Mounted, Horizontal - 2 ton": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Duct Mounted, Horizontal"
+  },
+  "Heat Pump, Duct Mounted, Horizontal - 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Duct Mounted, Horizontal"
+  },
+  "Heat Pump, Duct Mounted, Horizontal - 3-1/2 ton": {
+    "CAPACITY": 3.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Duct Mounted, Horizontal"
+  },
+  "Heat Pump, Thru-Wall": {
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Thru-Wall"
+  },
+  "Heat Pump, Thru-Wall - 1 ton": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Thru-Wall"
+  },
+  "Heat Pump, Thru-Wall - 1-1/2 ton": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Thru-Wall"
+  },
+  "Heat Pump, Thru-Wall - 1/2 ton": {
+    "CAPACITY": 0.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Thru-Wall"
+  },
+  "Heat Pump, Thru-Wall - 2 ton": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Thru-Wall"
+  },
+  "Heat Pump, Thru-Wall - 3/4 ton": {
+    "CAPACITY": 0.75,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Thru-Wall"
+  },
+  "Heat Pump, Water Source, Central Station": {
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Central Station"
+  },
+  "Heat Pump, Water Source, Central Station - 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Central Station"
+  },
+  "Heat Pump, Water Source, Central Station - 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Central Station"
+  },
+  "Heat Pump, Water Source, Central Station - 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Central Station"
+  },
+  "Heat Pump, Water Source, Central Station - 30 ton": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Central Station"
+  },
+  "Heat Pump, Water Source, Central Station - 40 ton": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Central Station"
+  },
+  "Heat Pump, Water Source, Central Station - 50 ton": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Central Station"
+  },
+  "Heat Pump, Water Source, Console": {
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Console"
+  },
+  "Heat Pump, Water Source, Console - 1 ton": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Console"
+  },
+  "Heat Pump, Water Source, Console - 1-1/2 ton": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Console"
+  },
+  "Heat Pump, Water Source, Console - 2 ton": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Console"
+  },
+  "Heat Pump, Water Source, Console - 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Console"
+  },
+  "Heat Pump, Water Source, Console - 3-1/2 ton": {
+    "CAPACITY": 3.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Heat Pump",
+    "TYPE": "Water Source, Console"
+  },
+  "Humidifier": {
+    "EQUIPMENT": "Humidifier"
+  },
+  "Humidifier - 11 lb. per hour": {
+    "CAPACITY": 11,
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Humidifier"
+  },
+  "Humidifier - 22 lb. per hour": {
+    "CAPACITY": 22,
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Humidifier"
+  },
+  "Humidifier - 33 lb. per hour": {
+    "CAPACITY": 33,
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Humidifier"
+  },
+  "Humidifier - 50 lb. per hour": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Humidifier"
+  },
+  "Humidifier - 100 lb. per hour": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Humidifier"
+  },
+  "Humidifier - 150 lb. per hour": {
+    "CAPACITY": 150,
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Humidifier"
+  },
+  "Humidifier - 200 lb. per hour": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "lb/h",
+    "EQUIPMENT": "Humidifier"
+  },
+  "Hydronic": {
+    "EQUIPMENT": "Hydronic"
+  },
+  "Hydronic - 20 MBH": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Hydronic"
+  },
+  "Hydronic - 60 MBH": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Hydronic"
+  },
+  "Hydronic - 100 MBH": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Hydronic"
+  },
+  "Hydronic - 150 MBH": {
+    "CAPACITY": 150,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Hydronic"
+  },
+  "Hydronic - 200 MBH": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Hydronic"
+  },
+  "Hydronic - 300 MBH": {
+    "CAPACITY": 300,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Hydronic"
+  },
+  "Ice Bank": {
+    "EQUIPMENT": "Ice Bank"
+  },
+  "Indoor Modular": {
+    "EQUIPMENT": "Indoor Modular"
+  },
+  "Indoor Modular - 10,000 CFM, 25 TN Central AHU": {
+    "CAPACITY": 25,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Indoor Modular",
+    "FLOWRATE": 10000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Central AHU"
+  },
+  "Indoor Modular - 12,000 CFM, 30 TN Central AHU": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Indoor Modular",
+    "FLOWRATE": 12000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Central AHU"
+  },
+  "Indoor Modular - 3000 CFM, 7.5 TN Central AHU": {
+    "CAPACITY": 7.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Indoor Modular",
+    "FLOWRATE": 3000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Central AHU"
+  },
+  "Indoor Modular - 3200 CFM, 8 TN Central AHU": {
+    "CAPACITY": 8,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Indoor Modular",
+    "FLOWRATE": 3200,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Central AHU"
+  },
+  "Indoor Modular - 4000 CFM, 10 TN Central AHU": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Indoor Modular",
+    "FLOWRATE": 4000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Central AHU"
+  },
+  "Indoor Modular - 4400 CFM, 11 TN Central AHU": {
+    "CAPACITY": 11,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Indoor Modular",
+    "FLOWRATE": 4400,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Central AHU"
+  },
+  "Indoor Modular - 6000 CFM, 15 TN Central AHU": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Indoor Modular",
+    "FLOWRATE": 6000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Central AHU"
+  },
+  "Indoor Modular - 7000 CFM, 17.5 TN Central AHU": {
+    "CAPACITY": 17.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Indoor Modular",
+    "FLOWRATE": 7000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "Central AHU"
+  },
+  "Industrial Exhaust System": {
+    "EQUIPMENT": "Industrial Exhaust System"
+  },
+  "Industrial Exhaust System - 12,000 CFM, 30 H.P.": {
+    "EQUIPMENT": "Industrial Exhaust System",
+    "FLOWRATE": 12000,
+    "FLOWRATE_UNITS": "cfm",
+    "POWER": 30,
+    "POWER_UNITS": "hp"
+  },
+  "Industrial Exhaust System - 15,000 CFM, 50 H.P.": {
+    "EQUIPMENT": "Industrial Exhaust System",
+    "FLOWRATE": 15000,
+    "FLOWRATE_UNITS": "cfm",
+    "POWER": 50,
+    "POWER_UNITS": "hp"
+  },
+  "Industrial Exhaust System - 25,000 CFM, 75 H.P.": {
+    "EQUIPMENT": "Industrial Exhaust System",
+    "FLOWRATE": 25000,
+    "FLOWRATE_UNITS": "cfm",
+    "POWER": 75,
+    "POWER_UNITS": "hp"
+  },
+  "Industrial Exhaust System - 50,000 CFM, 100 H.P.": {
+    "EQUIPMENT": "Industrial Exhaust System",
+    "FLOWRATE": 50000,
+    "FLOWRATE_UNITS": "cfm",
+    "POWER": 100,
+    "POWER_UNITS": "hp"
+  },
+  "Industrial Exhaust System - 1000 CFM, 1-1/2 H.P.": {
+    "EQUIPMENT": "Industrial Exhaust System",
+    "FLOWRATE": 1000,
+    "FLOWRATE_UNITS": "cfm",
+    "POWER": 1.5,
+    "POWER_UNITS": "hp"
+  },
+  "Industrial Exhaust System - 2000 CFM, 3 H.P.": {
+    "EQUIPMENT": "Industrial Exhaust System",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm",
+    "POWER": 3,
+    "POWER_UNITS": "hp"
+  },
+  "Industrial Exhaust System - 4000 CFM, 7-1/2 H.P.": {
+    "EQUIPMENT": "Industrial Exhaust System",
+    "FLOWRATE": 4000,
+    "FLOWRATE_UNITS": "cfm",
+    "POWER": 7.5,
+    "POWER_UNITS": "hp"
+  },
+  "Industrial Exhaust System - 8000 CFM, 15 H.P.": {
+    "EQUIPMENT": "Industrial Exhaust System",
+    "FLOWRATE": 8000,
+    "FLOWRATE_UNITS": "cfm",
+    "POWER": 15,
+    "POWER_UNITS": "hp"
+  },
+  "Infrared": {
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 6 kW, 20,478 BTU": {
+    "CAPACITY": 20478,
+    "CAPACITY_UNITS": "BTU",
+    "EQUIPMENT": "Infrared",
+    "POWER": 6,
+    "POWER_UNITS": "kW"
+  },
+  "Infrared - 13.5 kW, 40,956 BTU": {
+    "CAPACITY": 40956,
+    "CAPACITY_UNITS": "BTU",
+    "EQUIPMENT": "Infrared",
+    "POWER": 13.5,
+    "POWER_UNITS": "kW"
+  },
+  "Infrared - 15 MBH": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 24 kW, 81,912 BTU": {
+    "CAPACITY": 81912,
+    "CAPACITY_UNITS": "BTU",
+    "EQUIPMENT": "Infrared",
+    "POWER": 24,
+    "POWER_UNITS": "kW"
+  },
+  "Infrared - 30 MBH": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 45 MBH": {
+    "CAPACITY": 45,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 50 MBH": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 60 MBH": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 75 MBH": {
+    "CAPACITY": 75,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 90 MBH": {
+    "CAPACITY": 90,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 91,000 BTU": {
+    "CAPACITY": 91000,
+    "CAPACITY_UNITS": "BTU",
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 105 MBH": {
+    "CAPACITY": 105,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 105,000 BTU": {
+    "CAPACITY": 105000,
+    "CAPACITY_UNITS": "BTU",
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 119,000 BTU": {
+    "CAPACITY": 119000,
+    "CAPACITY_UNITS": "BTU",
+    "EQUIPMENT": "Infrared"
+  },
+  "Infrared - 120 MBH": {
+    "CAPACITY": 120,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Infrared"
+  },
+  "Kitchen Exhaust/Make-Up Air": {
+    "EQUIPMENT": "Kitchen Exhaust/Make-Up Air"
+  },
+  "Kitchen Exhaust/Make-Up Air - 12,000 CFM": {
+    "EQUIPMENT": "Kitchen Exhaust/Make-Up Air",
+    "FLOWRATE": 12000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Kitchen Exhaust/Make-Up Air - 16,000 CFM": {
+    "EQUIPMENT": "Kitchen Exhaust/Make-Up Air",
+    "FLOWRATE": 16000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Kitchen Exhaust/Make-Up Air - 2000 CFM": {
+    "EQUIPMENT": "Kitchen Exhaust/Make-Up Air",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Kitchen Exhaust/Make-Up Air - 3000 CFM": {
+    "EQUIPMENT": "Kitchen Exhaust/Make-Up Air",
+    "FLOWRATE": 3000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Kitchen Exhaust/Make-Up Air - 5000 CFM": {
+    "EQUIPMENT": "Kitchen Exhaust/Make-Up Air",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Kitchen Exhaust/Make-Up Air - 8000 CFM": {
+    "EQUIPMENT": "Kitchen Exhaust/Make-Up Air",
+    "FLOWRATE": 8000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Make-Up Air Unit": {
+    "EQUIPMENT": "Make-Up Air Unit"
+  },
+  "Make-Up Air Unit - 10,000 CFM, 838 MBH, includes standard controls": {
+    "CAPACITY": 838,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 10000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 12,000 CFM, 1005 MBH, includes standard controls": {
+    "CAPACITY": 1005,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 12000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 14,000 CFM, 1180 MBH, includes standard controls": {
+    "CAPACITY": 1180,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 14000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 18,000 CFM, 1340 MBH, includes standard controls": {
+    "CAPACITY": 1340,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 18000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 20,000 CFM, 1675 MBH, includes standard controls": {
+    "CAPACITY": 1675,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 20000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 24,000 CFM, 2007 MBH, includes standard controls": {
+    "CAPACITY": 2007,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 24000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 30,000 CFM, 2510 MBH, includes standard controls": {
+    "CAPACITY": 2510,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 30000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 35,000 CFM, 2930 MBH, includes standard controls": {
+    "CAPACITY": 2930,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 35000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 40,000 CFM, 3350 MBH, includes standard controls": {
+    "CAPACITY": 3350,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 40000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 45,000 CFM, 3770 MBH, includes standard controls": {
+    "CAPACITY": 3770,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 45000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 50,000 CFM, 4180 MBH, includes standard controls": {
+    "CAPACITY": 4180,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 50000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 55,000 CFM, 4600 MBH, includes standard controls": {
+    "CAPACITY": 4600,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 55000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 60,000 CFM, 5020 MBH, includes standard controls": {
+    "CAPACITY": 5020,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 60000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 65,000 CFM, 5435 MBH, includes standard controls": {
+    "CAPACITY": 5435,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 65000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 75,000 CFM, 6275 MBH, includes standard controls": {
+    "CAPACITY": 6275,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 75000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 2000 CFM, 168 MBH, includes standard controls": {
+    "CAPACITY": 168,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 3000 CFM, 252 MBH, includes standard controls": {
+    "CAPACITY": 252,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 3000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 4000 CFM, 336 MBH, includes standard controls": {
+    "CAPACITY": 336,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 4000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 6000 CFM, 502 MBH, includes standard controls": {
+    "CAPACITY": 502,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 6000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Make-Up Air Unit - 8000 CFM, 670 MBH, includes standard controls": {
+    "CAPACITY": 670,
+    "CAPACITY_UNITS": "MBH",
+    "EQUIPMENT": "Make-Up Air Unit",
+    "FLOWRATE": 8000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "includes standard controls"
+  },
+  "Oil, 56 MBH": {
+    "CAPACITY": 56,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil"
+  },
+  "Oil, 84 MBH": {
+    "CAPACITY": 84,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil"
+  },
+  "Oil, 95 MBH": {
+    "CAPACITY": 95,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil"
+  },
+  "Oil, 134 MBH": {
+    "CAPACITY": 134,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil"
+  },
+  "Oil, 151 MBH": {
+    "CAPACITY": 151,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil"
+  },
+  "Oil, 200 MBH": {
+    "CAPACITY": 200,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil"
+  },
+  "Oil, 300 MBH": {
+    "CAPACITY": 300,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil"
+  },
+  "Oil, 400 MBH": {
+    "CAPACITY": 400,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil"
+  },
+  "Oil, Fire Tube -   <5000 MBH": {
+    "CAPACITY": "<5000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Fire Tube"
+  },
+  "Oil, Fire Tube -   5000-7500 MBH": {
+    "CAPACITY": "5000-7500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Fire Tube"
+  },
+  "Oil, Fire Tube -  12500-20000 MBH": {
+    "CAPACITY": "12500-20000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Fire Tube"
+  },
+  "Oil, Fire Tube - >20000 MBH": {
+    "CAPACITY": ">20000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Fire Tube"
+  },
+  "Oil, HW": {
+    "FUEL_TYPE": "Oil",
+    "TYPE": "HW"
+  },
+  "Oil, HW -   <150 MBH": {
+    "CAPACITY": "<150",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "HW"
+  },
+  "Oil, HW -   150-200 MBH": {
+    "CAPACITY": "150-200",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "HW"
+  },
+  "Oil, HW -   200-700 MBH": {
+    "CAPACITY": "200-700",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "HW"
+  },
+  "Oil, HW -   700-1300 MBH": {
+    "CAPACITY": "700-1300",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "HW"
+  },
+  "Oil, HW -  1300-2000 MBH": {
+    "CAPACITY": "1300-2000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "HW"
+  },
+  "Oil, HW -  2000-3000 MBH": {
+    "CAPACITY": "2000-3000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "HW"
+  },
+  "Oil, HW - >3000 MBH": {
+    "CAPACITY": ">3000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "HW"
+  },
+  "Oil, Steam -   <150 MBH": {
+    "CAPACITY": "<150",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Steam"
+  },
+  "Oil, Steam -   150-200 MBH": {
+    "CAPACITY": "150-200",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Steam"
+  },
+  "Oil, Steam -   200-700 MBH": {
+    "CAPACITY": "200-700",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Steam"
+  },
+  "Oil, Steam -   700-1300 MBH": {
+    "CAPACITY": "700-1300",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Steam"
+  },
+  "Oil, Steam -  1300-2000 MBH": {
+    "CAPACITY": "1300-2000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Steam"
+  },
+  "Oil, Steam -  2000-3000 MBH": {
+    "CAPACITY": "2000-3000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Steam"
+  },
+  "Oil, Steam - >3000 MBH": {
+    "CAPACITY": ">3000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Steam"
+  },
+  "Oil, Water Tube -  1500-2000 MBH": {
+    "CAPACITY": "1500-2000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Water Tube"
+  },
+  "Oil, Water Tube -  2000-2700 MBH": {
+    "CAPACITY": "2000-2700",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Water Tube"
+  },
+  "Oil, Water Tube - >4000 MBH": {
+    "CAPACITY": ">4000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Oil",
+    "TYPE": "Water Tube"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat": {
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 10 ton, VAV": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 20 ton, VAV": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 30 ton": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 30 ton, VAV": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 40 ton": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 40 ton, VAV": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 50 ton": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 50 ton, VAV": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Air Cooled, Elec Heat - 60 ton, VAV": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Air Cooled, HW Heat": {
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 10 ton, VAV": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 20 ton, VAV": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 30 ton": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 30 ton, VAV": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 40 ton": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 40 ton, VAV": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 50 ton": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 50 ton, VAV": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Air Cooled, HW Heat - 60 ton, VAV": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Water Cooled, Elec Heat": {
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Water Cooled, Elec Heat - 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Water Cooled, Elec Heat - 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Water Cooled, Elec Heat - 10 ton, VAV": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Water Cooled, Elec Heat - 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Water Cooled, Elec Heat - 30 ton": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Water Cooled, Elec Heat - 40 ton": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Water Cooled, Elec Heat - 40 ton, VAV": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Water Cooled, Elec Heat - 50 ton": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat"
+  },
+  "Packaged A/C, Water Cooled, Elec Heat - 60 ton, VAV": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "Elec Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Water Cooled, HW Heat": {
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 10 ton, VAV": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 20 ton, VAV": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 30 ton": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 30 ton, VAV": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 40 ton": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 40 ton, VAV": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 50 ton": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 50 ton, VAV": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged A/C, Water Cooled, HW Heat - 60 ton, VAV": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged A/C",
+    "HEATING_TYPE": "HW Heat",
+    "TYPE": "VAV"
+  },
+  "Packaged DX Refrigerant System": {
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 1.5 ton": {
+    "CAPACITY": 1.5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 2 ton": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 2.5 ton": {
+    "CAPACITY": 2.5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 3 ton": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 3.5 ton": {
+    "CAPACITY": 3.5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 4 ton": {
+    "CAPACITY": 4,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 5 Ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 7.5 ton": {
+    "CAPACITY": 7.5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 8.5 ton": {
+    "CAPACITY": 8.5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 11 ton": {
+    "CAPACITY": 11,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 15 ton": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 25 ton": {
+    "CAPACITY": 25,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 30 ton": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 40 ton": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 50 ton": {
+    "CAPACITY": 50,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 60 ton": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 75 ton": {
+    "CAPACITY": 75,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 80 ton": {
+    "CAPACITY": 80,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Air Cooled, 100 ton": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Air Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Water Cooled, 5 Ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Water Cooled, 10 ton": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Water Cooled, 15 ton": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Water Cooled, 20 ton": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Water Cooled, 30 ton": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Water Cooled, 40 ton": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Water Cooled, 60 ton": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Water Cooled, 80 ton": {
+    "CAPACITY": 80,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Water Cooled, 100 ton": {
+    "CAPACITY": 100,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Packaged DX Refrigerant System - Water Cooled, 120 ton": {
+    "CAPACITY": 120,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "Water Cooled",
+    "EQUIPMENT": "Packaged DX Refrigerant System"
+  },
+  "Rooftop": {
+    "EQUIPMENT": "Rooftop"
+  },
+  "Rooftop -  2000 CFM": {
+    "EQUIPMENT": "Rooftop",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Rooftop -  5000 CFM": {
+    "EQUIPMENT": "Rooftop",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Rooftop -  5000 CFM, VAV": {
+    "EQUIPMENT": "Rooftop",
+    "FLOWRATE": 5000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Rooftop - 10000 CFM": {
+    "EQUIPMENT": "Rooftop",
+    "FLOWRATE": 10000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Rooftop - 10000 CFM, VAV": {
+    "EQUIPMENT": "Rooftop",
+    "FLOWRATE": 10000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Rooftop - 15000 CFM": {
+    "EQUIPMENT": "Rooftop",
+    "FLOWRATE": 15000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Rooftop - 15000 CFM, VAV": {
+    "EQUIPMENT": "Rooftop",
+    "FLOWRATE": 15000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Rooftop - 20000 CFM": {
+    "EQUIPMENT": "Rooftop",
+    "FLOWRATE": 20000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Rooftop - 20000 CFM, VAV": {
+    "EQUIPMENT": "Rooftop",
+    "FLOWRATE": 20000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Rooftop - 30000 CFM, VAV": {
+    "EQUIPMENT": "Rooftop",
+    "FLOWRATE": 30000,
+    "FLOWRATE_UNITS": "cfm",
+    "TYPE": "VAV"
+  },
+  "Rooftop Air Conditioning Unit": {
+    "EQUIPMENT": "Rooftop Air Conditioning Unit"
+  },
+  "Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 15 ton cooling": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "multizone"
+  },
+  "Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 20 ton cooling": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "multizone"
+  },
+  "Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 25 ton cooling": {
+    "CAPACITY": 25,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "multizone"
+  },
+  "Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 30 ton cooling": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "multizone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat": {
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 2 ton cooling": {
+    "CAPACITY": 2,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 3 ton cooling": {
+    "CAPACITY": 3,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 4 ton cooling": {
+    "CAPACITY": 4,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 5 ton cooling": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 6 ton cooling": {
+    "CAPACITY": 6,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 7.5 ton cooling": {
+    "CAPACITY": 7.5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 10 ton cooling": {
+    "CAPACITY": 10,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 12.5 ton cooling": {
+    "CAPACITY": 12.5,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 15 ton cooling": {
+    "CAPACITY": 15,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 18 ton cooling": {
+    "CAPACITY": 18,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 20 ton cooling": {
+    "CAPACITY": 20,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 25 ton cooling": {
+    "CAPACITY": 25,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 30 ton cooling": {
+    "CAPACITY": 30,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 40 ton cooling": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "COOLING_TYPE": "electric cool",
+    "EQUIPMENT": "Rooftop Air Conditioning Unit",
+    "HEATING_TYPE": "gas heat",
+    "TYPE": "single zone"
+  },
+  "Rooftop Unit": {
+    "EQUIPMENT": "Rooftop Unit"
+  },
+  "Rooftop Unit - 5 ton": {
+    "CAPACITY": 5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit"
+  },
+  "Rooftop Unit - 7-1/2 ton": {
+    "CAPACITY": 7.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit"
+  },
+  "Rooftop Unit - 12-1/2 ton": {
+    "CAPACITY": 12.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit"
+  },
+  "Rooftop Unit - 12-1/2 ton, VAV": {
+    "CAPACITY": 12.5,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit",
+    "TYPE": "VAV"
+  },
+  "Rooftop Unit - 18 ton": {
+    "CAPACITY": 18,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit"
+  },
+  "Rooftop Unit - 18 ton, VAV": {
+    "CAPACITY": 18,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit",
+    "TYPE": "VAV"
+  },
+  "Rooftop Unit - 25 ton": {
+    "CAPACITY": 25,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit"
+  },
+  "Rooftop Unit - 25 ton, VAV": {
+    "CAPACITY": 25,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit",
+    "TYPE": "VAV"
+  },
+  "Rooftop Unit - 40 ton": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit"
+  },
+  "Rooftop Unit - 40 ton, VAV": {
+    "CAPACITY": 40,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit",
+    "TYPE": "VAV"
+  },
+  "Rooftop Unit - 60 ton, VAV": {
+    "CAPACITY": 60,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit",
+    "TYPE": "VAV"
+  },
+  "Rooftop Unit - 80 ton, VAV": {
+    "CAPACITY": 80,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Rooftop Unit",
+    "TYPE": "VAV"
+  },
+  "Solar Inverter": {
+    "EQUIPMENT": "Solar Inverter"
+  },
+  "Solar Panel - Aluminum Monocrystalline Silicon": {
+    "EQUIPMENT": "Solar Panel",
+    "TYPE": "Aluminum Monocrystalline Silicon"
+  },
+  "Solar Panel - Aluminum Polycrystalline Silicon": {
+    "EQUIPMENT": "Solar Panel",
+    "TYPE": "Aluminum Polycrystalline Silicon"
+  },
+  "Solar Panel - Thin Film AMORPHOUS": {
+    "EQUIPMENT": "Solar Panel",
+    "TYPE": "Thin Film AMORPHOUS"
+  },
+  "Solar Panel - Thin Film Cadmium Telluride": {
+    "EQUIPMENT": "Solar Panel",
+    "TYPE": "Thin Film Cadmium Telluride"
+  },
+  "Solar Panel - Thin Film Monocrystalline": {
+    "EQUIPMENT": "Solar Panel",
+    "TYPE": "Thin Film Monocrystalline"
+  },
+  "Solar Panel Battery - Gel Acid": {
+    "EQUIPMENT": "Solar Panel Battery",
+    "TYPE": "Gel Acid"
+  },
+  "Solar Panel Battery - Lead Acid": {
+    "EQUIPMENT": "Solar Panel Battery",
+    "TYPE": "Lead Acid"
+  },
+  "Solar Panel System": {
+    "EQUIPMENT": "Solar Panel System"
+  },
+  "Solid Fuel": {
+    "FUEL_TYPE": "Solid Fuel"
+  },
+  "Solid Fuel - Natural Draft,   <1500 MBH": {
+    "CAPACITY": "<1500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Natural Draft"
+  },
+  "Solid Fuel - Natural Draft,   1700-2000 MBH": {
+    "CAPACITY": "1700-2000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Natural Draft"
+  },
+  "Solid Fuel - Natural Draft,   2400-2800 MBH": {
+    "CAPACITY": "2400-2800",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Natural Draft"
+  },
+  "Solid Fuel - Natural Draft,   2800-3300 MBH": {
+    "CAPACITY": "2800-3300",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Natural Draft"
+  },
+  "Solid Fuel - Natural Draft,   4000-5000 MBH": {
+    "CAPACITY": "4000-5000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Natural Draft"
+  },
+  "Solid Fuel - Natural Draft,  12000-14000 MBH": {
+    "CAPACITY": "12000-14000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Natural Draft"
+  },
+  "Solid Fuel - Stoker Fired,   148 MBH": {
+    "CAPACITY": 148,
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Stoker Fired"
+  },
+  "Solid Fuel - Stoker Fired,   275-350 MBH": {
+    "CAPACITY": "275-350",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Stoker Fired"
+  },
+  "Solid Fuel - Stoker Fired,   350-450 MBH": {
+    "CAPACITY": "350-450",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Stoker Fired"
+  },
+  "Solid Fuel - Stoker Fired,   450-550 MBH": {
+    "CAPACITY": "450-550",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Stoker Fired"
+  },
+  "Solid Fuel - Stoker Fired,   550-1000 MBH": {
+    "CAPACITY": "550-1000",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Stoker Fired"
+  },
+  "Solid Fuel - Stoker Fired,  1900-2200 MBH": {
+    "CAPACITY": "1900-2200",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Stoker Fired"
+  },
+  "Solid Fuel - Stoker Fired,  3100-3400 MBH": {
+    "CAPACITY": "3100-3400",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Stoker Fired"
+  },
+  "Solid Fuel - Stoker Fired,  4300-4500 MBH": {
+    "CAPACITY": "4300-4500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Stoker Fired"
+  },
+  "Solid Fuel - Stoker Fired, >4500 MBH": {
+    "CAPACITY": ">4500",
+    "CAPACITY_UNITS": "MBH",
+    "FUEL_TYPE": "Solid Fuel",
+    "TYPE": "Stoker Fired"
+  },
+  "Thermal Storage Tank": {
+    "EQUIPMENT": "Thermal Storage Tank"
+  },
+  "VAV boxes": {
+    "EQUIPMENT": "VAV boxes"
+  },
+  "VAV Terminal": {
+    "EQUIPMENT": "VAV Terminal"
+  },
+  "VAV Terminal - 200 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 200,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only"
+  },
+  "VAV Terminal - 200 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 200,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat"
+  },
+  "VAV Terminal - 400 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 400,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only"
+  },
+  "VAV Terminal - 400 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 400,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat"
+  },
+  "VAV Terminal - 600 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 600,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only"
+  },
+  "VAV Terminal - 600 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 600,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat"
+  },
+  "VAV Terminal - 800 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 800,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only"
+  },
+  "VAV Terminal - 800 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 800,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat"
+  },
+  "VAV Terminal - 1000 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 1000,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only"
+  },
+  "VAV Terminal - 1000 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 1000,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat"
+  },
+  "VAV Terminal - 1250 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 1250,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only"
+  },
+  "VAV Terminal - 1250 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 1250,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat"
+  },
+  "VAV Terminal - 1500 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 1500,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only"
+  },
+  "VAV Terminal - 1500 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 1500,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat"
+  },
+  "VAV Terminal - 2000 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only"
+  },
+  "VAV Terminal - 2000 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat"
+  },
+  "VAV Terminal, Fan Powered": {
+    "EQUIPMENT": "VAV Terminal",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 200 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 200,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 400 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 400,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 400 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 400,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 600 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 600,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 600 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 600,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 800 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 800,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 1000 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 1000,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 1000 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 1000,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 1250 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 1250,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 1500 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 1500,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 1500 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 1500,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 2000 CFM, Cooling Only": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Cooling Only",
+    "TYPE": "Fan Powered"
+  },
+  "VAV Terminal, Fan Powered - 2000 CFM, Hot Water Reheat": {
+    "EQUIPMENT": "VAV Terminal",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm",
+    "HEATING_TYPE": "Hot Water Reheat",
+    "TYPE": "Fan Powered"
+  },
+  "Ventilation/Heat Recovery System": {
+    "EQUIPMENT": "Ventilation/Heat Recovery System"
+  },
+  "Ventilation/Heat Recovery System - 1000 CFM": {
+    "EQUIPMENT": "Ventilation/Heat Recovery System",
+    "FLOWRATE": 1000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Ventilation/Heat Recovery System - 2000 CFM": {
+    "EQUIPMENT": "Ventilation/Heat Recovery System",
+    "FLOWRATE": 2000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Ventilation/Heat Recovery System - 4000 CFM": {
+    "EQUIPMENT": "Ventilation/Heat Recovery System",
+    "FLOWRATE": 4000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Ventilation/Heat Recovery System - 6000 CFM": {
+    "EQUIPMENT": "Ventilation/Heat Recovery System",
+    "FLOWRATE": 6000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Ventilation/Heat Recovery System - 8000 CFM": {
+    "EQUIPMENT": "Ventilation/Heat Recovery System",
+    "FLOWRATE": 8000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "Ventilation/Heat Recovery System - 10000 CFM": {
+    "EQUIPMENT": "Ventilation/Heat Recovery System",
+    "FLOWRATE": 10000,
+    "FLOWRATE_UNITS": "cfm"
+  },
+  "VFD, 5 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 5,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 7.5 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 7.5,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 10 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 10,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 15 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 15,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 20 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 20,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 25 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 25,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 30 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 30,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 40 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 40,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 50 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 50,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 60 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 60,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 75 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 75,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 100 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 100,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 125 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 125,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 150 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 150,
+    "POWER_UNITS": "hp"
+  },
+  "VFD, 200 HP": {
+    "EQUIPMENT": "VFD",
+    "POWER": 200,
+    "POWER_UNITS": "hp"
+  },
+  "Window Unit Air Conditioner - 1 TN": {
+    "CAPACITY": 1,
+    "CAPACITY_UNITS": "ton",
+    "EQUIPMENT": "Window Unit Air Conditioner"
+  }
+}

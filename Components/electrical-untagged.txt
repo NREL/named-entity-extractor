@@ -1,0 +1,364 @@
+6 outlets
+6 stations
+12 outlets
+12 stations
+25 stations
+30 outlets
+50 stations
+100 outlets
+100 stations
+Buck-boost, 120/240 V primary 12/24 V secondary, 0.10 kVA
+Buck-boost, 120/240 V primary 12/24 V secondary, 0.25 kVA
+Buck-boost, 120/240 V primary 12/24 V secondary, 0.50 kVA
+Buck-boost, 120/240 V primary 12/24 V secondary, 0.75 kVA
+Buck-boost, 120/240 V primary 12/24 V secondary, 1.0 kVA
+Buck-boost, 120/240 V primary 12/24 V secondary, 1.5 kVA
+Buck-boost, 120/240 V primary 12/24 V secondary, 2.0 kVA
+Buck-boost, 120/240 V primary 12/24 V secondary, 3.0 kVA
+Buck-boost, 120/240 V primary 12/24 V secondary, 5.0 kVA
+Buck-boost, 240 V primary 208/120 V secondary, 15 kVA
+Buck-boost, 240 V primary 208/120 V secondary, 30 kVA
+Buck-boost, 240 V primary 208/120 V secondary, 45 kVA
+Buck-boost, 240 V primary 208/120 V secondary, 75 kVA
+Buck-boost, 240 V primary 208/120 V secondary, 112.5 kVA
+Buck-boost, 240 V primary 208/120 V secondary, 150 kVA
+Buck-boost, 240 V primary 208/120 V secondary, 225 kVA
+Buck-boost, 240 V primary 208/120 V secondary, 300 kVA
+Capacitor Bank
+Capacitor Bank - 240 V, 0.5 kVAR
+Capacitor Bank - 240 V, 1.0 kVAR
+Capacitor Bank - 240 V, 2.5 kVAR
+Capacitor Bank - 240 V, 5.0 kVAR
+Capacitor Bank - 240 V, 7.5 kVAR
+Capacitor Bank - 240 V, 10 kVAR
+Capacitor Bank - 240 V, 15 kVAR
+Capacitor Bank - 240 V, 20 kVAR
+Capacitor Bank - 240 V, 25 kVAR
+Capacitor Bank - 480 V, 1 kVAR
+Capacitor Bank - 480 V, 2 kVAR
+Capacitor Bank - 480 V, 5 kVAR
+Capacitor Bank - 480 V, 7.5 kVAR
+Capacitor Bank - 480 V, 10 kVAR
+Capacitor Bank - 480 V, 15 kVAR
+Capacitor Bank - 480 V, 20 kVAR
+Capacitor Bank - 480 V, 30 kVAR
+Capacitor Bank - 480 V, 40 kVAR
+Capacitor Bank - 480 V, 50 kVAR
+Capacitor Bank - 600 V, 5 kVAR
+Capacitor Bank - 600 V, 7.5 kVAR
+Capacitor Bank - 600 V, 10 kVAR
+Capacitor Bank - 600 V, 15 kVAR
+Capacitor Bank - 600 V, 20 kVAR
+Capacitor Bank - 600 V, 25 kVAR
+Capacitor Bank - 600 V, 35 kVAR
+Capacitor Bank - 600 V, 50 kVAR
+Direct Buried Electrical Service Lateral
+Direct Buried Telecommunications Service Lateral
+dry-type, 5 kV primary 277/480 volt secondary, 112.5 kVA
+dry-type, 5 kV primary 277/480 volt secondary, 150 kVA
+dry-type, 5 kV primary 277/480 volt secondary, 225 kVA
+dry-type, 5 kV primary 277/480 volt secondary, 300 kVA
+dry-type, 5 kV primary 277/480 volt secondary, 500 kVA
+dry-type, 5 kV primary 277/480 volt secondary, 750 kVA
+dry-type, 5 kV primary 277/480 volt secondary, 1000 kVA
+dry-type, 5 kV primary 277/480 volt secondary, 1500 kVA
+dry-type, 5 kV primary 277/480 volt secondary, 2000 kVA
+dry-type, 5 kV primary 277/480 volt secondary, 2500 kVA
+dry-type, 5 kV primary 277/480 volt secondary, 3000 kVA
+dry-type, 15 kV primary 277/480 volt secondary, 112.5 kVA
+dry-type, 15 kV primary 277/480 volt secondary, 150 kVA
+dry-type, 15 kV primary 277/480 volt secondary, 225 kVA
+dry-type, 15 kV primary 277/480 volt secondary, 300 kVA
+dry-type, 15 kV primary 277/480 volt secondary, 500 kVA
+dry-type, 15 kV primary 277/480 volt secondary, 750 kVA
+dry-type, 15 kV primary 277/480 volt secondary, 1000 kVA
+dry-type, 15 kV primary 277/480 volt secondary, 1500 kVA
+dry-type, 15 kV primary 277/480 volt secondary, 2000 kVA
+dry-type, 15 kV primary 277/480 volt secondary, 2500 kVA
+dry-type, 15 kV primary 277/480 volt secondary, 3000 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 1 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 2 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 3 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 5 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 7.5 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 10 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 15 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 25 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 37.5 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 50 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 75 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 100 kVA
+dry-type, 240/480 V primary 120/240 V secondary, 167 kVA
+dry-type, 480 V primary 120/208 V secondary, 3 kVA
+dry-type, 480 V primary 120/208 V secondary, 6 kVA
+dry-type, 480 V primary 120/208 V secondary, 9 kVA
+dry-type, 480 V primary 120/208 V secondary, 15 kVA
+dry-type, 480 V primary 120/208 V secondary, 15 kVA, K-4 rated
+dry-type, 480 V primary 120/208 V secondary, 15 kVA, K-13 rated
+dry-type, 480 V primary 120/208 V secondary, 15 kVA, non-ventilated
+dry-type, 480 V primary 120/208 V secondary, 30 kVA
+dry-type, 480 V primary 120/208 V secondary, 30 kVA, K-4 rated
+dry-type, 480 V primary 120/208 V secondary, 30 kVA, K-13 rated
+dry-type, 480 V primary 120/208 V secondary, 30 kVA, non-ventilated
+dry-type, 480 V primary 120/208 V secondary, 45 kVA
+dry-type, 480 V primary 120/208 V secondary, 45 kVA, K-4 rated
+dry-type, 480 V primary 120/208 V secondary, 45 kVA, K-13 rated
+dry-type, 480 V primary 120/208 V secondary, 45 kVA, non-ventilated
+dry-type, 480 V primary 120/208 V secondary, 75 kVA
+dry-type, 480 V primary 120/208 V secondary, 75 kVA, K-4 rated
+dry-type, 480 V primary 120/208 V secondary, 75 kVA, K-13 rated
+dry-type, 480 V primary 120/208 V secondary, 75 kVA, non-ventilated
+dry-type, 480 V primary 120/208 V secondary, 112.5 kVA
+dry-type, 480 V primary 120/208 V secondary, 112.5 kVA, K-4 rated
+dry-type, 480 V primary 120/208 V secondary, 112.5 kVA, K-13 rated
+dry-type, 480 V primary 120/208 V secondary, 112.5 kVA, non-ventilated
+dry-type, 480 V primary 120/208 V secondary, 150 kVA
+dry-type, 480 V primary 120/208 V secondary, 150 kVA, K-4 rated
+dry-type, 480 V primary 120/208 V secondary, 150 kVA, K-13 rated
+dry-type, 480 V primary 120/208 V secondary, 150 kVA, non-ventilated
+dry-type, 480 V primary 120/208 V secondary, 225 kVA
+dry-type, 480 V primary 120/208 V secondary, 225 kVA, K-4 rated
+dry-type, 480 V primary 120/208 V secondary, 225 kVA, K-13 rated
+dry-type, 480 V primary 120/208 V secondary, 225 kVA, non-ventilated
+dry-type, 480 V primary 120/208 V secondary, 300 kVA
+dry-type, 480 V primary 120/208 V secondary, 300 kVA, K-4 rated
+dry-type, 480 V primary 120/208 V secondary, 300 kVA, K-13 rated
+dry-type, 480 V primary 120/208 V secondary, 300 kVA, non-ventilated
+dry-type, 480 V primary 120/208 V secondary, 500 kVA
+dry-type, 480 V primary 120/208 V secondary, 500 kVA, K-4 rated
+dry-type, 480 V primary 120/208 V secondary, 500 kVA, K-13 rated
+dry-type, 480 V primary 120/208 V secondary, 750 kVA
+dry-type, 480 V primary 120/208 V secondary, 1000 kVA
+Ducted Electrical Service Lateral
+Ducted Telecommunications Service Lateral
+Electrical Service - 3 Phase, 5 KV, 100 A
+Electrical Service - 3 Phase, 5 KV, 200 A
+Electrical Service - 3 Phase, 5 KV, 400 A
+Electrical Service - 3 Phase, 5 KV, 600 A
+Electrical Service - 3 Phase, 5 KV, 800 A
+Electrical Service - 3 Phase, 5 KV, 1000 A
+Electrical Service - 3 Phase, 5 KV, 1200 A
+Electrical Service - 3 Phase, 5 KV, 1600 A
+Electrical Service - 3 Phase, 5 KV, 2000 A
+Electrical Service - 3 Phase, 15 KV, 60 A
+Electrical Service - 3 Phase, 15 KV, 100 A
+Electrical Service - 3 Phase, 15 KV, 200 A
+Electrical Service - 3 Phase, 15 KV, 400 A
+Electrical Service - 3 Phase, 15 KV, 600 A
+Electrical Service - 3 Phase, 15 KV, 800 A
+Electrical Service - 3 Phase, 15 KV, 1000 A
+Electrical Service - 3 Phase, 15 KV, 1200 A
+Electrical Service - 3 Phase, 15 KV, 1600 A
+Electrical Service - 3 Phase, 15 KV, 2000 A
+Electrical Service - 3 Phase, 120/208 V, 60 A
+Electrical Service - 3 Phase, 120/208 V, 100 A
+Electrical Service - 3 Phase, 120/208 V, 200 A
+Electrical Service - 3 Phase, 120/208 V, 400 A
+Electrical Service - 3 Phase, 120/208 V, 600 A
+Electrical Service - 3 Phase, 120/208 V, 800 A
+Electrical Service - 3 Phase, 120/208 V, 1000 A
+Electrical Service - 3 Phase, 120/208 V, 1200 A
+Electrical Service - 3 Phase, 120/208 V, 1600 A
+Electrical Service - 3 Phase, 120/208 V, 2000 A
+Electrical Service - 3 Phase, 480 V, 60 A
+Electrical Service - 3 Phase, 480 V, 100 A
+Electrical Service - 3 Phase, 480 V, 200 A
+Electrical Service - 3 Phase, 480 V, 400 A
+Electrical Service - 3 Phase, 480 V, 600 A
+Electrical Service - 3 Phase, 480 V, 800 A
+Electrical Service - 3 Phase, 480 V, 1000 A
+Electrical Service - 3 Phase, 480 V, 1200 A
+Electrical Service - 3 Phase, 480 V, 1600 A
+Electrical Service - 3 Phase, 480 V, 2000 A
+Electrical Service - Distribution Circuit Breaker - For MV/HV Transformer
+Electrical Service - Distribution Circuit Breaker - General
+Electrical Service - Main-Tie-Main Switch 5 KV
+Electrical Service - Main-Tie-Main Switch 15 KV
+Electrical Service - Main-Tie-Main Switch 480 V
+Electrical Service - Single Phase, 120/240 V, 100 A
+Electrical Service - Single Phase, 120/240 V, 200 A
+Enclosed Circuit Breaker, 30-100 Amp
+Enclosed Circuit Breaker, 100 Amp
+Enclosed Circuit Breaker, 200 Amp
+Enclosed Circuit Breaker, 400 Amp
+Enclosed Circuit Breaker, 600 Amp
+Enclosed Circuit Breaker, 800 Amp
+Exit/Emergency Lighting (EME Combo Fixture)
+General
+GFCI Receptacle
+Isolation, 120/240 V primary 120/208 V secondary, 112.5 kVA
+Isolation, 120/240 V primary 120/208 V secondary, 150 kVA
+Isolation, 120/240 V primary 120/208 V secondary, 225 kVA
+Isolation, 120/240 V primary 120/208 V secondary, 300 kVA
+Isolation, 120/240 V primary 120/208 V secondary, 500 kVA
+Isolation, 120/240 V primary 120/208 V secondary, 750 kVA
+Isolation, 120/240 V primary 120/240 V secondary, 0.50 kVA
+Isolation, 120/240 V primary 120/240 V secondary, 1 kVA
+Isolation, 120/240 V primary 120/240 V secondary, 2 kVA
+Isolation, 120/240 V primary 120/240 V secondary, 3 kVA
+Isolation, 120/240 V primary 120/240 V secondary, 5 kVA
+Isolation, 120/240 V primary 120/240 V secondary, 7.5 kVA
+Isolation, 120/240 V primary 120/240 V secondary, 10 kVA
+Isolation, 120/240 V primary 120/240 V secondary, 15 kVA
+Isolation, 120/240 V primary 120/240 V secondary, 25 kVA
+Isolation, 120/240 V primary 120/240 V secondary, 37.5 kVA
+Isolation, 120/240 V primary 120/240 V secondary, 75 kVA
+Lighting Control Panel
+liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 225 kVA
+liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 300 kVA
+liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 500 kVA
+liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 750 kVA
+liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 1000 kVA
+liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 1500 kVA
+liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 2000 kVA
+liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 2500 kVA
+Main Circuit Breaker, 120/208 V, 100 amp
+Main circuit breaker, 120/208 V, 100 amp, NQOD
+Main Circuit Breaker, 120/208 V, 125 amp
+Main Circuit Breaker, 120/208 V, 150 amp
+Main Circuit Breaker, 120/208 V, 200 amp
+Main Circuit Breaker, 120/208 V, 225 amp
+Main circuit breaker, 120/208 V, 225 amp, NQOD
+Main Circuit Breaker, 120/208 V, 250 amp
+Main Circuit Breaker, 120/208 V, 400 amp
+Main circuit breaker, 120/208 V, 400 amp, NQOD
+Main Circuit Breaker, 120/208 V, 600 amp
+Main circuit breaker, 120/208 V, 600 amp, NQOD
+Main Circuit Breaker, 120/208 V, 800 amp
+Main Circuit Breaker, 120/240 V, 100 amp
+Main circuit breaker, 120/240 V, 100 amp, NQOD
+Main Circuit Breaker, 120/240 V, 125 amp
+Main Circuit Breaker, 120/240 V, 150 amp
+Main Circuit Breaker, 120/240 V, 200 amp
+Main Circuit Breaker, 120/240 V, 225 amp
+Main circuit breaker, 120/240 V, 225 amp, NQOD
+Main Circuit Breaker, 120/240 V, 250 amp
+Main Circuit Breaker, 120/240 V, 400 amp
+Main circuit breaker, 120/240 V, 400 amp, NQOD
+Main Circuit Breaker, 120/240 V, 600 amp
+Main Circuit Breaker, 120/240 V, 800 amp
+Main Circuit Breaker, 277/480 V, 100 amp
+Main circuit breaker, 277/480 V, 100 amp, NEHB
+Main Circuit Breaker, 277/480 V, 125 amp
+Main Circuit Breaker, 277/480 V, 150 amp
+Main Circuit Breaker, 277/480 V, 200 amp
+Main Circuit Breaker, 277/480 V, 225 amp
+Main circuit breaker, 277/480 V, 225 amp, NEHB
+Main Circuit Breaker, 277/480 V, 250 amp
+Main Circuit Breaker, 277/480 V, 400 amp
+Main circuit breaker, 277/480 V, 400 amp, NEHB
+Main Circuit Breaker, 277/480 V, 600 amp
+Main circuit breaker, 277/480 V, 600 amp, NEHB
+Main Circuit Breaker, 277/480 V, 800 amp
+Main Circuit Breaker, 277/480 V, 1200 amp
+Main Circuit Breaker, 277/480 V, 1600 amp
+Main Circuit Breaker, 277/480 V, 2000 amp
+Main Circuit Breaker, 600 V, 200 amp
+Main Circuit Breaker, 600 V, 400 amp
+Main Circuit Breaker, 600 V, 600 amp
+Main Circuit Breaker, 600 V, 800 amp
+Main Circuit Breaker, 600 V, 1000 amp
+Main Circuit Breaker, 600 V, 1200  amp
+Main Circuit Breaker, 600 V, 1600 amp
+Main Circuit Breaker, 600 V, 2000 amp
+Main lugs,  50 amp
+Main lugs, 120/208 V, 100 amp, NQOD
+Main lugs, 120/208 V, 225 amp, NQOD
+Main lugs, 120/208 V, 225 amp, NQOD, NEMA 7
+Main lugs, 120/240 V, 100 amp, NQOD
+Main lugs, 120/240 V, 225 amp, NQOD
+Main lugs, 125 amp
+Main lugs, 150 amp
+Main lugs, 200 amp
+Main lugs, 250 amp
+Main lugs, 277/480 V, 100 amp, NEHB
+Main lugs, 277/480 V, 225 amp, NEHB
+Main lugs, 277/480 V, 225 amp, NEHB, NEMA 7
+Main lugs, 400 amp
+Main lugs, 600 amp
+Main lugs, 800 amp
+Motor Control Center - Size 1, 10 HP, 12" high
+Motor Control Center - Size 2, 25 HP, 18" high
+Motor Control Center - Size 3, 50 HP, 24" high
+Motor Control Center - Size 4, 75 HP, 24" high
+Motor Control Center - Size 4, 100 HP, 30" high
+Motor Control Center - Size 5, 200 HP, 48" high
+Motor Control Center - Size 6, 400 HP, 72" high
+Motor Starter/Disconnect
+oil-filled, 15 kV primary, 277/480 V secondary, 150 kVA
+oil-filled, 15 kV primary, 277/480 V secondary, 225 kVA
+oil-filled, 15 kV primary, 277/480 V secondary, 300 kVA
+oil-filled, 15 kV primary, 277/480 V secondary, 500 kVA
+oil-filled, 15 kV primary, 277/480 V secondary, 750 kVA
+oil-filled, 15 kV primary, 277/480 V secondary, 1000 kVA
+oil-filled, 15 kV primary, 277/480 V secondary, 1500 kVA
+oil-filled, 15 kV primary, 277/480 V secondary, 2000 kVA
+oil-filled, 15 kV primary, 277/480 V secondary, 2500 kVA
+oil-filled, 15 kV primary, 277/480 V secondary, 3000 kVA
+oil-filled, 15 kV primary, 277/480 V secondary, 3750 kVA
+oil-filled, 2400 V primary, 120/240 V secondary, 10 kVA
+oil-filled, 2400 V primary, 120/240 V secondary, 15 kVA
+oil-filled, 2400 V primary, 120/240 V secondary, 25 kVA
+oil-filled, 2400 V primary, 120/240 V secondary, 37.5 kVA
+oil-filled, 2400 V primary, 120/240 V secondary, 50 kVA
+oil-filled, 2400 V primary, 120/240 V secondary, 75 kVA
+oil-filled, 2400 V primary, 120/240 V secondary, 100 kVA
+Other
+Overhead Telecommunications Service Lateral
+Safety Switch
+Safety Switch, < 30 Amp
+Safety Switch, >100 Amp
+Safety Switch, 30-100 Amp
+Safety Switch, 100 Amp
+Safety Switch, 200 Amp
+Safety Switch, 400 Amp
+Safety Switch, 600 Amp
+Safety Switch, 800 Amp
+Switchgear
+Switchgear - 400 Amp
+Switchgear - 600 Amp
+Switchgear - 800 Amp
+Switchgear - 1200 Amp
+Switchgear - 1600 Amp
+Switchgear - 2000 Amp
+Switchgear - 3000 Amp
+Transfer Switch
+Transfer Switch - Automatic, 30 amp
+Transfer Switch - Automatic, 60 amp
+Transfer Switch - Automatic, 100 amp
+Transfer Switch - Automatic, 150 amp
+Transfer Switch - Automatic, 225 amp
+Transfer Switch - Automatic, 260 amp
+Transfer Switch - Automatic, 400 amp
+Transfer Switch - Automatic, 600 amp
+Transfer Switch - Automatic, 800 amp
+Transfer Switch - Automatic, 1000 amp
+Transfer Switch - Automatic, 1200 amp
+Transfer Switch - Automatic, 1600 amp
+Transfer Switch - Automatic, 2000 amp
+Transfer Switch - Bypass Isolation, 30 amp
+Transfer Switch - Bypass Isolation, 60 amp
+Transfer Switch - Bypass Isolation, 100 amp
+Transfer Switch - Bypass Isolation, 150 amp
+Transfer Switch - Bypass Isolation, 225 amp
+Transfer Switch - Bypass Isolation, 260 amp
+Transfer Switch - Bypass Isolation, 400 amp
+Transfer Switch - Bypass Isolation, 600 amp
+Transfer Switch - Bypass Isolation, 800 amp
+Transfer Switch - Bypass Isolation, 1000 amp
+Transfer Switch - Bypass Isolation, 1200 amp
+Transfer Switch - Bypass Isolation, 1600 amp
+Transfer Switch - Bypass Isolation, 2000 amp
+Transfer Switch - Non-automatic, 30 Amp, Electric
+Transfer Switch - Non-automatic, 30 Amp, Manual
+Transfer Switch - Non-automatic, 60 Amp, Electric
+Transfer Switch - Non-automatic, 60 Amp, Manual
+Transfer Switch - Non-automatic, 100 Amp, Electric
+Transfer Switch - Non-automatic, 100 Amp, Manual
+Transfer Switch - Non-automatic, 200 Amp, Electric
+Transfer Switch - Non-automatic, 200 Amp, Manual
+Transfer Switch - Non-automatic, 400 Amp, Electric
+Transfer Switch - Non-automatic, 400 Amp, Manual
+Transfer Switch - Non-automatic, 600 Amp, Electric
+Transfer Switch - Non-automatic, 600 Amp, Manual
+Unknown

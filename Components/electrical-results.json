@@ -1,0 +1,701 @@
+{
+  "Emergency Lighting": {
+    "EQUIPMENT": "Emergency Lighting"
+  },
+  "Emergency Lighting - Bugeye": {
+    "EQUIPMENT": "Emergency Lighting",
+    "LIGHTING_TYPE": "Bugeye"
+  },
+  "Emergency Lighting - Lead battery, twin sealed beam light": {
+    "EQUIPMENT": "Emergency Lighting",
+    "LIGHTING_TYPE": "twin sealed beam light",
+    "TYPE": "Lead battery"
+  },
+  "Emergency Lighting - Nickel cadmium battery, twin sealed beam light": {
+    "EQUIPMENT": "Emergency Lighting",
+    "LIGHTING_TYPE": "twin sealed beam light",
+    "TYPE": "Nickel cadmium battery"
+  },
+  "Emergency Lighting - Self-contained, fluorescent lamp pack": {
+    "EQUIPMENT": "Emergency Lighting",
+    "LIGHTING_TYPE": "fluorescent lamp pack",
+    "TYPE": "Self-contained"
+  },
+  "Exit Lighting": {
+    "EQUIPMENT": "Exit Lighting"
+  },
+  "Explosion Proof Lighting": {
+    "EQUIPMENT": "Explosion Proof Lighting"
+  },
+  "Explosion Proof Lighting - Fluorescent, ceiling mounted, 2-40 W, 4' L": {
+    "EQUIPMENT": "Explosion Proof Lighting",
+    "LENGTH": 4,
+    "LENGTH_UNITS": "ft",
+    "MOUNTING_TYPE": "ceiling mounted",
+    "POWER": "2-40",
+    "POWER_UNITS": "W",
+    "TYPE": "Fluorescent"
+  },
+  "Explosion Proof Lighting - Fluorescent, ceiling mounted, 3-40 W, 4' L": {
+    "EQUIPMENT": "Explosion Proof Lighting",
+    "LENGTH": 4,
+    "LENGTH_UNITS": "ft",
+    "MOUNTING_TYPE": "ceiling mounted",
+    "POWER": "3-40",
+    "POWER_UNITS": "W",
+    "TYPE": "Fluorescent"
+  },
+  "Explosion Proof Lighting - Fluorescent, ceiling mounted, 4-40 W, 4' L": {
+    "EQUIPMENT": "Explosion Proof Lighting",
+    "LENGTH": 4,
+    "LENGTH_UNITS": "ft",
+    "MOUNTING_TYPE": "ceiling mounted",
+    "POWER": "4-40",
+    "POWER_UNITS": "W",
+    "TYPE": "Fluorescent"
+  },
+  "Explosion Proof Lighting - High pressure sodium, ceiling, pendent mounted, 100 W": {
+    "EQUIPMENT": "Explosion Proof Lighting",
+    "MOUNTING": "ceiling",
+    "MOUNTING_TYPE": "pendent mounted",
+    "POWER": 100,
+    "POWER_UNITS": "W",
+    "TYPE": "High pressure sodium"
+  },
+  "Explosion Proof Lighting - Incandescent, ceiling mounted, 200 W": {
+    "EQUIPMENT": "Explosion Proof Lighting",
+    "MOUNTING_TYPE": "ceiling mounted",
+    "POWER": 200,
+    "POWER_UNITS": "W",
+    "TYPE": "Incandescent"
+  },
+  "Explosion Proof Lighting - Metal halide, ceiling, pendent mounted, 200 W": {
+    "EQUIPMENT": "Explosion Proof Lighting",
+    "MOUNTING": "ceiling",
+    "MOUNTING_TYPE": "pendent mounted",
+    "POWER": 200,
+    "POWER_UNITS": "W",
+    "TYPE": "Metal halide"
+  },
+  "Exterior Fluorescent Lighting": {
+    "EQUIPMENT": "Exterior Fluorescent Lighting"
+  },
+  "Exterior LED Lighting": {
+    "EQUIPMENT": "Exterior LED Lighting"
+  },
+  "Exterior Lighting": {
+    "EQUIPMENT": "Exterior Lighting"
+  },
+  "Exterior Lighting - High pressure sodium, wall pack, 70 W": {
+    "EQUIPMENT": "Exterior Lighting",
+    "MOUNTING_TYPE": "wall pack",
+    "POWER": 70,
+    "POWER_UNITS": "W",
+    "TYPE": "High pressure sodium"
+  },
+  "Exterior Lighting - High pressure sodium, wall pack, 150 W": {
+    "EQUIPMENT": "Exterior Lighting",
+    "MOUNTING_TYPE": "wall pack",
+    "POWER": 150,
+    "POWER_UNITS": "W",
+    "TYPE": "High pressure sodium"
+  },
+  "Exterior Lighting - Incandescent, wall mounted, 100 W": {
+    "EQUIPMENT": "Exterior Lighting",
+    "MOUNTING_TYPE": "wall mounted",
+    "POWER": 100,
+    "POWER_UNITS": "W",
+    "TYPE": "Incandescent"
+  },
+  "Exterior Lighting - Low pressure sodium, wall pack, 35 W": {
+    "EQUIPMENT": "Exterior Lighting",
+    "MOUNTING_TYPE": "wall pack",
+    "POWER": 35,
+    "POWER_UNITS": "W",
+    "TYPE": "Low pressure sodium"
+  },
+  "Exterior Lighting - Low pressure sodium, wall pack, 55 W": {
+    "EQUIPMENT": "Exterior Lighting",
+    "MOUNTING_TYPE": "wall pack",
+    "POWER": 55,
+    "POWER_UNITS": "W",
+    "TYPE": "Low pressure sodium"
+  },
+  "Exterior Lighting - Metal halide, wall pack, 175 W": {
+    "EQUIPMENT": "Exterior Lighting",
+    "MOUNTING_TYPE": "wall pack",
+    "POWER": 175,
+    "POWER_UNITS": "W",
+    "TYPE": "Metal halide"
+  },
+  "Exterior Lighting - Metal halide, wall pack, 250 W": {
+    "EQUIPMENT": "Exterior Lighting",
+    "MOUNTING_TYPE": "wall pack",
+    "POWER": 250,
+    "POWER_UNITS": "W",
+    "TYPE": "Metal halide"
+  },
+  "Exterior Lighting - Quartz, wall mounted, 500 W": {
+    "EQUIPMENT": "Exterior Lighting",
+    "MOUNTING_TYPE": "wall mounted",
+    "POWER": 500,
+    "POWER_UNITS": "W",
+    "TYPE": "Quartz"
+  },
+  "Exterior Lighting - Quartz, wall mounted, 1500 W": {
+    "EQUIPMENT": "Exterior Lighting",
+    "MOUNTING_TYPE": "wall mounted",
+    "POWER": 1500,
+    "POWER_UNITS": "W",
+    "TYPE": "Quartz"
+  },
+  "Generators": {
+    "EQUIPMENT": "Generators"
+  },
+  "Generators - Diesel, 30 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 30,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 50 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 50,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 60 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 60,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 75 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 75,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 100 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 100,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 125 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 125,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 150 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 150,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 175 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 175,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 200 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 200,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 250 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 250,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 275 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 275,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 300 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 300,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 350 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 350,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 400 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 400,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 500 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 500,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 600 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 600,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 650 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 650,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 750 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 750,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 800 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 800,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 900 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 900,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 1000 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 1000,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 1500 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 1500,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 2000 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 2000,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 2500 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 2500,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Diesel, 3000 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Diesel",
+    "POWER": 3000,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 7.5 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 7.5,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 11.5 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 11.5,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 20 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 20,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 35 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 35,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 60 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 60,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 80 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 80,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 100 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 100,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 125 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 125,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 185 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 185,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 200 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 200,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 500 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 500,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 750 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 750,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 1000 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 1000,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 1250 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 1250,
+    "POWER_UNITS": "kW"
+  },
+  "Generators - Gas, 1500 kW": {
+    "EQUIPMENT": "Generators",
+    "FUEL_TYPE": "Gas",
+    "POWER": 1500,
+    "POWER_UNITS": "kW"
+  },
+  "Interior Lighting, FL - 1 Lamp T8": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "1 Lamp T8",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, FL - 1 Lamp T12": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "1 Lamp T12",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, FL - 2 Lamp T8": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "2 Lamp T8",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, FL - 2 Lamp T12": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "2 Lamp T12",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, FL - 3 Lamp T8": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "3 Lamp T8",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, FL - 3 Lamp T12": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "3 Lamp T12",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, FL - 4 Lamp T5, HO": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "4 Lamp T5, HO",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, FL - 4 Lamp T8": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "4 Lamp T8",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, FL - 4 Lamp T8, HO": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "4 Lamp T8, HO",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, FL - 4 Lamp T12": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "4 Lamp T12",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, FL - 6 Lamp T5, HO": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "6 Lamp T5, HO",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, FL - 6 Lamp T8, HO": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "6 Lamp T8, HO",
+    "TYPE": "FL"
+  },
+  "Interior Lighting, Fluorescent": {
+    "EQUIPMENT": "Interior Lighting",
+    "TYPE": "Fluorescent"
+  },
+  "Interior Lighting, Fluorescent - Pendant Mounted (Type D)": {
+    "EQUIPMENT": "Interior Lighting",
+    "MOUNTING_TYPE": "Pendant Mounted",
+    "SHAPE": "Type D",
+    "TYPE": "Fluorescent"
+  },
+  "Interior Lighting, Fluorescent - Recessed Fixture (Type C)": {
+    "EQUIPMENT": "Interior Lighting",
+    "MOUNTING_TYPE": "Recessed Fixture",
+    "SHAPE": "Type C",
+    "TYPE": "Fluorescent"
+  },
+  "Interior Lighting, Fluorescent - Strip Fixture (Type A)": {
+    "EQUIPMENT": "Interior Lighting",
+    "MOUNTING_TYPE": "Strip Fixture",
+    "SHAPE": "Type A",
+    "TYPE": "Fluorescent"
+  },
+  "Interior Lighting, Fluorescent - Surface Mounted (Type B)": {
+    "EQUIPMENT": "Interior Lighting",
+    "MOUNTING_TYPE": "Surface Mounted",
+    "SHAPE": "Type B",
+    "TYPE": "Fluorescent"
+  },
+  "Interior Lighting, High Intensity": {
+    "EQUIPMENT": "Interior Lighting",
+    "TYPE": "High Intensity"
+  },
+  "Interior Lighting, High Intensity - High Pressure Sodium 150 W (Type K)": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "High Pressure Sodium",
+    "POWER": 150,
+    "POWER_UNITS": "W",
+    "SHAPE": "Type K",
+    "TYPE": "High Intensity"
+  },
+  "Interior Lighting, High Intensity - High Pressure Sodium 400 W (Type C)": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "High Pressure Sodium",
+    "POWER": 400,
+    "POWER_UNITS": "W",
+    "SHAPE": "Type C",
+    "TYPE": "High Intensity"
+  },
+  "Interior Lighting, High Intensity - High Pressure Sodium 1000 W (Type F)": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "High Pressure Sodium",
+    "POWER": 1000,
+    "POWER_UNITS": "W",
+    "SHAPE": "Type F",
+    "TYPE": "High Intensity"
+  },
+  "Interior Lighting, High Intensity - Metal Halide 250 W (Type J)": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "Metal Halide",
+    "POWER": 250,
+    "POWER_UNITS": "W",
+    "SHAPE": "Type J",
+    "TYPE": "High Intensity"
+  },
+  "Interior Lighting, High Intensity - Metal Halide 400 W (Type B)": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "Metal Halide",
+    "POWER": 400,
+    "POWER_UNITS": "W",
+    "SHAPE": "Type B",
+    "TYPE": "High Intensity"
+  },
+  "Interior Lighting, High Intensity - Metal Halide 1000 W (Type G)": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "Metal Halide",
+    "POWER": 1000,
+    "POWER_UNITS": "W",
+    "SHAPE": "Type G",
+    "TYPE": "High Intensity"
+  },
+  "Interior Lighting, Incandescent": {
+    "EQUIPMENT": "Interior Lighting",
+    "TYPE": "Incandescent"
+  },
+  "Interior Lighting, Incandescent - Recessed downlight w/baffles 150 W (Type B)": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "Recessed downlight w/baffles",
+    "POWER": 150,
+    "POWER_UNITS": "W",
+    "SHAPE": "Type B",
+    "TYPE": "Incandescent"
+  },
+  "Interior Lighting, Incandescent - Recessed PAR-38 flood lamp w/louver 150 W (Type C)": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "Recessed PAR-38 flood lamp w/louver",
+    "POWER": 150,
+    "POWER_UNITS": "W",
+    "SHAPE": "Type C",
+    "TYPE": "Incandescent"
+  },
+  "Interior Lighting, Incandescent - Recessed R-40 flood lamp w/flat reflector 150 W (Type D)": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "Recessed R-40 flood lamp w/flat reflector",
+    "POWER": 150,
+    "POWER_UNITS": "W",
+    "SHAPE": "Type D",
+    "TYPE": "Incandescent"
+  },
+  "Interior Lighting, Incandescent - Recessed reflector w/flat glass lens 150 W (Type A)": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "Recessed reflector w/flat glass lens",
+    "POWER": 150,
+    "POWER_UNITS": "W",
+    "SHAPE": "Type A",
+    "TYPE": "Incandescent"
+  },
+  "Interior Lighting, LED": {
+    "EQUIPMENT": "Interior Lighting",
+    "TYPE": "LED"
+  },
+  "Interior Lighting, LED - Canlight": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "Canlight",
+    "TYPE": "LED"
+  },
+  "Interior Lighting, LED - Downlight/Sconce/Pendant": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "Downlight/Sconce/Pendant",
+    "TYPE": "LED"
+  },
+  "Interior Lighting, LED - High Bay": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "High Bay",
+    "TYPE": "LED"
+  },
+  "Interior Lighting, LED - Strip": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "Strip",
+    "TYPE": "LED"
+  },
+  "Interior Lighting, LED - Troffer": {
+    "EQUIPMENT": "Interior Lighting",
+    "LIGHTING_TYPE": "Troffer",
+    "TYPE": "LED"
+  },
+  "Interior Rope Light": {
+    "EQUIPMENT": "Interior Rope Light"
+  },
+  "Uninterruptible Power Supply": {
+    "EQUIPMENT": "Uninterruptible Power Supply"
+  },
+  "Uninterruptible Power Supply - 0.5 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 0.5,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 0.35 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 0.35,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 0.75 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 0.75,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 1.0 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 1,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 1.5 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 1.5,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 2 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 2,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 3 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 3,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 5 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 5,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 7.5 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 7.5,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 10 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 10,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 15 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 15,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 30 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 30,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 45 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 45,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 60 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 60,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 75 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 75,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 100 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 100,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 150 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 150,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 200 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 200,
+    "POWER_UNITS": "kVA"
+  },
+  "Uninterruptible Power Supply - 250 kVA": {
+    "EQUIPMENT": "Uninterruptible Power Supply",
+    "POWER": 250,
+    "POWER_UNITS": "kVA"
+  }
+}

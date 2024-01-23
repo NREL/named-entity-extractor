@@ -1,0 +1,177 @@
+Electric, Hot Water -    <22 KW, <78 MBH
+Electric, Hot Water -   135-180 KW, 460-613 MBH
+Electric, Hot Water -   783-1110 KW, 2672-3788 MBH
+Electric, Steam -   255-405 KW, 870-1382 MBH
+Electric, Steam -   405-615 KW, 1382-2098 MBH
+Electric, Steam - >2205 KW, >7524 MBH
+Gas, Hot Water
+Gas, Hot Water -   500-650 MBH
+Gas, Hot Water -  2500-3500 MBH
+Gas, Hot Water - >6500 MBH
+Gas, Steam -   <150 MBH
+Gas, Steam -   650-1000 MBH
+Gas, Steam -  2000-3000 MBH
+Gas/Oil, Hot Water
+Gas/Oil, Hot Water -   1,750-2,250 MBH
+Gas/Oil, Hot Water -   4,250-5,000 MBH
+Gas/Oil, Steam -  300-3500 MBH
+Gas/Oil, Steam -  3500-4250 MBH
+Oil, HW
+Oil, HW -  1300-2000 MBH
+Oil, Steam -   200-700 MBH
+Oil, Steam -  1300-2000 MBH
+Solid Fuel - Natural Draft,   240-2800 MBH
+Solid Fuel - Natural Draft,   2800-3300 MBH
+Solid Fuel - Stoker Fired,   275-350 MBH
+Solid Fuel - Stoker Fired,  3100-3400 MBH
+Electric, 34.1 MBH
+Electric, 51.6 MBH
+Gas, 400 MBH
+Gas, 45 MBH
+Oil, 400 MBH
+Oil, 56 MBH
+Gas - 20 MBH
+Gas - 200 MBH
+Boiler Feedwater Tank
+Boiler Feedwater Tank - Shot chemical feeder, by pass, floor mount, 10 gal
+Chemical Feedwater - 150 lb., 5 gallon, ASME
+Chemical Feedwater - 175 PSIG, 12 gallon
+Expansion Tank - 240 gal
+Expansion Tank - 30 gal
+Chiller, Absorption, Gas, Water Cooled - 1000 TN
+Chiller, Absorption, Gas, Water Cooled - 100 TN
+Chiller, Absorption, Steam, Water Cooled -  70 TN
+Chiller, Absorption, Steam, Water Cooled -  750 TN
+Chiller, Centrifugal, Water Cooled
+Chiller, Centrifugal, Water Cooled -  200 TN
+Chiller, Reciprocating, Air Cooled -  90 TN
+Chiller, Reciprocating, Air Cooled - 100 TN
+Chiller, Reciprocating, Water Cooled
+Chiller, Reciprocating, Water Cooled -  60 TN
+Cooling Tower, Fiberglass -   60 TN
+Cooling Tower, Fiberglass -  125 TN
+Cooling Tower, Galvanized -   60 TN
+Cooling Tower, Galvanized -  110 TN
+Cooling Tower, Stainless Steel -   60 TN
+Cooling Tower, Stainless Steel -  110 TN
+Condenser, DX, Air Cooled - Belt Drive, 45 ton
+Condenser, DX, Air Cooled - Belt Drive, 471 ton
+Condenser, DX, Air Cooled - Direct Drive, 3-1/2 ton
+Condenser, DX, Air Cooled - Direct Drive, 118 ton
+Condenser, DX, Air Cooled - Direct Drive, 12 ton
+Condenser, DX, Evaporative - 185 ton
+Condenser, DX, Evaporative - 20 ton
+Dehumidifier - 66.5 lb./Hr., 500 CFM
+Dehumidifier - 33 lb./Hr., 1500 CFM
+Dehumidifier - 33 to 40 lb./Hr., 125 CFM
+Dehumidifier - 4000 to 5150 lb./Hr., 1,000 CFM
+Dehumidifier - 53 to 69 lb./Hr., 2,000 CFM
+Humidifier - 10 lb. per hour
+Humidifier - 220 lb. per hour
+VAV Terminal - 200 CFM, Cooling Only
+VAV Terminal - 200 CFM, Hot Water Reheat
+VAV Terminal - 40 CFM, Cooling Only
+VAV Terminal - 40 CFM, Hot Water Reheat
+VAV Terminal, Fan Powered - 200 CFM, Cooling Only
+VAV Terminal, Fan Powered - 200 CFM, Hot Water Reheat
+VAV Terminal, Fan Powered - 4000 CFM, Cooling Only
+VAV Terminal, Fan Powered - 4000 CFM, Hot Water Reheat
+Heat Exchanger, Plate Type - 40 GPM
+Heat Exchanger, Plate Type - 80 GPM
+Heat Exchanger, Shell & Tube
+Heat Exchanger, Shell & Tube - 24 GPM
+Heat Exchanger, Shell & Tube - 4000 GPM
+Circulating Pump, Double Suction - 3" size, 100 HP, to 3000 GPM
+Circulating Pump, Double Suction - 4" size, 75 HP, to 2500 GPM
+Circulating Pump, End Suction
+Circulating Pump, End Suction - 1-1/2" size, 3 HP, to 150 GPM
+Circulating Pump, End Suction - 6" size, 5 HP, to 225 GPM
+Commercial/Industrial Vacuum Dust Collection - 3000 CFM
+Commercial/Industrial Vacuum Dust Collection - 500 CFM
+Fan System, Roof Exhaust - 350 CFM
+Fan System, Roof Exhaust - 50 CFM
+Fume Hood Exhaust System - 5', 200 CFM
+Fume Hood Exhaust System - 7', 4500 CFM
+Garage Exhaust Systems - Dual exhaust, 3" outlets, pair of adjoining bays
+Garage Exhaust Systems - Single exhaust, 3" outlet, 1 bay
+Industrial Exhaust System - 1060 CFM, 2-1/2 H.P.
+Industrial Exhaust System - 12,000 CFM, 30 H.P.
+Industrial Exhaust System - 300 CFM, 3 H.P.
+Industrial Exhaust System - 4000 CFM, 6-1/2 H.P.
+Kitchen Exhaust/Make-Up Air - 6,000 CFM
+Kitchen Exhaust/Make-Up Air - 200 CFM
+Central Station - 1030 CFM, VAV
+Central Station - 15002 CFM
+Field Fabricated - 150400 CFM, VAV
+Field Fabricated - 40030 CFM
+Rooftop -  5020 CFM, VAV
+Rooftop - 1040 CFM
+Fan System, Centrifugal In-Line - 3500 CFM
+Fan System, Centrifugal In-Line - 500 CFM
+Fan System, Utility Set - 20,000 CFM
+Fan System, Utility Set - 2000 CFM
+Hydronic - 20 MBH
+Infrared - 105 MBH
+Infrared - 119,000 BTU
+Infrared - 13.5 kW, 40,956 BTU
+Cab Mount, Four Pipe - 2-7/8 ton
+Cab Mount, Four Pipe - 3 ton
+Cab Mount, Two Pipe - 1 ton
+Cab Mount, Two Pipe - 4-3/4 ton, Elec. Heat
+Duct Mount, 4 Pipe - 11 ton
+Duct Mount, 4 Pipe - 5-1/2 ton
+Duct Mount, 4 Pipe - 3.5 ton
+DX - 1.5 ton
+DX - 10 ton
+Baseboard Heating - 3' long
+208-240 volt, 13 kW
+480 volt, 21 kW
+A/C Unit, Computer Room - Air Cooled, 7 ton
+A/C Unit, Computer Room - Chilled Water, 11 ton
+A/C Unit, Computer Room - Glycol System, 7 ton
+A/C Unit, Computer Room - Water Cooled, 23 ton
+A/C Unit, Thru-Wall - 7-1/2 ton
+Heat Pump, Air Source, Roof Top - 44 ton
+Heat Pump, Duct Mounted, Horizontal - 7-1/2 ton
+Heat Pump, Thru-Wall - 9/10 ton
+Heat Pump, Water Source, Central Station - 44 ton
+Heat Pump, Water Source, Console - 3-7/8 ton
+Packaged A/C, Air Cooled, Elec Heat - 52 ton
+Packaged A/C, Air Cooled, Elec Heat - 21 ton, VAV
+Packaged A/C, Air Cooled, HW Heat - 4 ton
+Packaged A/C, Air Cooled, HW Heat - 63 ton, VAV
+Packaged A/C, Water Cooled, Elec Heat - 20 ton
+Packaged A/C, Water Cooled, Elec Heat - 64 ton, VAV
+Packaged A/C, Water Cooled, HW Heat - 40 ton
+Packaged A/C, Water Cooled, HW Heat - 40 ton, VAV
+Packaged DX Refrigerant System - Air Cooled, 7.5 ton
+Packaged DX Refrigerant System - Air Cooled, 75 ton
+Packaged DX Refrigerant System - Water Cooled, 43 ton
+Packaged DX Refrigerant System - Water Cooled, 5 Ton
+Rooftop Unit - 7-1/2 ton
+Rooftop Unit - 6-3/4 ton, VAV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
