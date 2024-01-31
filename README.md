@@ -37,8 +37,8 @@ To set up the environment for this project, follow these steps:
 Contributions to this project are welcome. Please ensure to follow the coding standards and submit pull requests for any new features or bug fixes.
 
 ## License
-This project is distributed under the OpenStudio® License. For more details, see the [LICENSE.md](LICENSE.md) file.
+This project is distributed under a BSD-3 type License. For more details, see the [LICENSE.md](LICENSE.md) file.
 
-## Contact
-- **Author**: [Your Name]
-- **Email**: [Your Email]
+## Corresponding Author
+- **Author**: Brian L Ball
+- **Email**: Brian.Ball at NREL.gov
