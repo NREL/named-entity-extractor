@@ -112,3 +112,24 @@ def disaggregate_units(record):
 
     # Sort properties
     return dict(sorted(record.items()))
+
+
+def disaggregate_capacity(record, uniformat):
+    # HEAT GENERATING SYSTEMS
+    if uniformat == 'D3020' and record.get('CAPACITY_UNITS') in ['BTU', 'MBH']:
+        record['CAPACITY_HEATING'] = record.pop('CAPACITY')
+        record['CAPACITY_HEATING_UNITS'] = record.pop('CAPACITY_UNITS')
+    # COOLING GENERATING SYSTEMS
+    elif uniformat == 'D3030' and record.get('CAPACITY_UNITS') == 'ton' and record.get('EQUIPMENT') != 'Cooling Tower':
+        record['CAPACITY_COOLING'] = record.pop('CAPACITY')
+        record['CAPACITY_COOLING_UNITS'] = record.pop('CAPACITY_UNITS')
+    # TERMINAL & PACKAGE UNITS
+    elif uniformat == 'D3050':
+        if record.get('CAPACITY_UNITS') == 'ton':
+            record['CAPACITY_COOLING'] = record.pop('CAPACITY')
+            record['CAPACITY_COOLING_UNITS'] = record.pop('CAPACITY_UNITS')
+        elif record.get('CAPACITY_UNITS') in ['BTU', 'MBH']:
+            record['CAPACITY_HEATING'] = record.pop('CAPACITY')
+            record['CAPACITY_HEATING_UNITS'] = record.pop('CAPACITY_UNITS')
+
+    return record

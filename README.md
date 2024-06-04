@@ -1,4 +1,3 @@
-
 # Named Entity Extractor
 
 ## Overview
