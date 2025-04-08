@@ -90,6 +90,10 @@ Air Separator - Air control, air separator, 8" diameter, includes strainer
 Air Separator - Air control, air separator, 10" diameter, includes strainer
 Air Separator - Air control, air separator, 12" diameter, includes strainer
 Air supply for pneumatic, tank mounted duplex compressor
+Air supply for pneumatic, tank mounted duplex compressor, 1 HP
+Air supply for pneumatic, tank mounted duplex compressor, 1.5 HP
+Air supply for pneumatic, tank mounted duplex compressor, 3 HP
+Air supply for pneumatic, tank mounted duplex compressor, 5 HP
 Analog inputs, sensors, CFM/transducer
 Analog inputs, sensors, duct temperature
 Analog inputs, sensors, space temperature
@@ -241,7 +245,7 @@ Commercial/Industrial Vacuum Dust Collection - 1000 CFM
 Commercial/Industrial Vacuum Dust Collection - 1500 CFM
 Commercial/Industrial Vacuum Dust Collection - 3000 CFM
 Commercial/Industrial Vacuum Dust Collection - 5000 CFM
-Compensated hot water from valve control, readout & reset at panel
+Compensated hot water from boiler, valve control, readout & reset at panel, 120 GPM
 Condensate Pumping System - Steam Powered
 Condensate Pumping System > 25 HP (Single and Duplex)
 Condensate Pumping System 1 - 5 HP (Single and Duplex)
@@ -270,7 +274,6 @@ Condenser, DX, Air Cooled - Belt Drive, 81 ton
 Condenser, DX, Air Cooled - Belt Drive, 86 ton
 Condenser, DX, Air Cooled - Belt Drive, 88 ton
 Condenser, DX, Air Cooled - Belt Drive, 101 ton
-Condenser, DX, Air Cooled - Belt Drive, 159 ton
 Condenser, DX, Air Cooled - Belt Drive, 228 ton
 Condenser, DX, Air Cooled - Belt Drive, 314 ton
 Condenser, DX, Air Cooled - Belt Drive, 471 ton
@@ -306,7 +309,6 @@ Condenser, DX, Evaporative - 25 ton
 Condenser, DX, Evaporative - 30 ton
 Condenser, DX, Evaporative - 40 ton
 Condenser, DX, Evaporative - 50 ton
-Condenser, DX, Evaporative - 65 ton
 Condenser, DX, Evaporative - 80 ton
 Condenser, DX, Evaporative - 100 ton
 Condenser, DX, Evaporative - 150 ton
@@ -401,7 +403,6 @@ Ductwork - Metal Ductwork, 22" Diameter (390 SQ IN)
 Ductwork - Metal Ductwork, 24" Diameter (460 SQ IN)
 Ductwork - Metal Ductwork, 30" Diameter (710 SQ IN)
 Ductwork - Metal Ductwork, 36" Diameter (1020 SQ IN)
-Ductwork - Non-Metal Ductwork, 8" Diameter (60 SQ IN)
 Ductwork - Non-Metal Ductwork, 10" Diameter (80 SQ IN)
 Ductwork - Non-Metal Ductwork, 12" Diameter (120 SQ IN)
 Ductwork - Non-Metal Ductwork, 18" Diameter (260 SQ IN)
@@ -441,9 +442,8 @@ Electric, Hot Water -   555-783 KW, 1894-2672 MBH
 Electric, Hot Water -   783-1110 KW, 2672-3788 MBH
 Electric, Hot Water -  1110-1710 KW, 3788-5836 MBH
 Electric, Hot Water -  1710-2355 KW, 5836-8036 MBH
-Electric, Hot Water -  2355-3105 KW, 8036-10594 MBH
+Electric, Hot Water -  2355-3105 KW, 8036-10595 MBH
 Electric, Hot Water - >3105 KW, >10594 MBH
-Electric, Steam
 Electric, Steam -    25-48 KW, 92-164 MBH
 Electric, Steam -    48-90 KW, 164-307 MBH
 Electric, Steam -    90-135 KW, 307-461 MBH
@@ -452,10 +452,7 @@ Electric, Steam -   135-180 KW, 461-614 MBH
 Electric, Steam -   180-255 KW, 614-870 MBH
 Electric, Steam -   255-405 KW, 870-1382 MBH
 Electric, Steam -   405-615 KW, 1382-2098 MBH
-Electric, Steam -   615-900 KW, 2098-3071 MBH
 Electric, Steam -   900-1170 KW, 3071-3993 MBH
-Electric, Steam -  1440-1845 KW, 4914-6295 MBH
-Electric, Steam - >2205 KW, >7524 MBH
 Evaporative Cooler
 Evaporative Cooler -  1785 CFM
 Evaporative Cooler -  2740 CFM
@@ -617,10 +614,10 @@ Gas, Water Tube - Water Tube  2000-2700 MBH
 Gas, Water Tube - Water Tube  2700-4000 MBH
 Gas, Water Tube - Water Tube >4000 MBH
 Gas/Oil, Fire Tube - Fire Tube   <5,000 MBH
-Gas/Oil, Fire Tube - Fire Tube   5,000-7,500 
 Gas/Oil, Fire Tube - Fire Tube   7,500-12,500
 Gas/Oil, Fire Tube - Fire Tube  12,500-20,000
 Gas/Oil, Fire Tube - Fire Tube >20,000 MBH
+Gas/Oil, Fire Tube - Fire Tube 5,000-7,500
 Gas/Oil, Hot Water
 Gas/Oil, Hot Water -    <750 MBH
 Gas/Oil, Hot Water -    750-1,000 MBH
@@ -894,11 +891,8 @@ Packaged DX Refrigerant System - Water Cooled, 60 ton
 Packaged DX Refrigerant System - Water Cooled, 80 ton
 Packaged DX Refrigerant System - Water Cooled, 100 ton
 Packaged DX Refrigerant System - Water Cooled, 120 ton
-pneumatic air supply, tank mount duplex compressor, 1 HP
-pneumatic air supply, tank mount duplex compressor, 1.5 HP
-pneumatic air supply, tank mount duplex compressor, 3 HP
-pneumatic air supply, tank mount duplex compressor, 5 HP
 Pneumatic thermostat
+pump control system
 PV Module
 Radon Management System
 Refrigeration Compressor
@@ -949,7 +943,7 @@ Rooftop Unit - 80 ton, VAV
 Solar Inverter
 Solar Panel - Aluminum Monocrystalline Silicon
 Solar Panel - Aluminum Polycrystalline Silicon
-Solar Panel - Thin Film AMORPHOUS 
+Solar Panel - Thin Film AMORPHOUS
 Solar Panel - Thin Film Cadmium Telluride
 Solar Panel - Thin Film Monocrystalline
 Solar Panel Battery - Gel Acid
@@ -968,16 +962,14 @@ Solid Fuel - Stoker Fired,   350-450 MBH
 Solid Fuel - Stoker Fired,   450-550 MBH
 Solid Fuel - Stoker Fired,   550-1000 MBH
 Solid Fuel - Stoker Fired,  1900-2200 MBH
-Solid Fuel - Stoker Fired,  3100-3400 MBH
 Solid Fuel - Stoker Fired,  4300-4500 MBH
 Solid Fuel - Stoker Fired, >4500 MBH
-Status alarms, digital inputs, differential pressure
+status (alarms), digital inputs, differential pressure
 Steam Generator
 Steam Powered Trap
 Steel Pipe Steam Distribution Service Lateral
 Thermal Storage Tank
 Unknown
-VAV boxes
 VAV Terminal
 VAV Terminal - 200 CFM, Cooling Only
 VAV Terminal - 200 CFM, Hot Water Reheat
@@ -996,6 +988,7 @@ VAV Terminal - 1500 CFM, Hot Water Reheat
 VAV Terminal - 2000 CFM, Cooling Only
 VAV Terminal - 2000 CFM, Hot Water Reheat
 VAV Terminal, Fan Powered
+VAV Terminal, Fan Powered - 200 CFM, Cooling Only
 VAV Terminal, Fan Powered - 200 CFM, Hot Water Reheat
 VAV Terminal, Fan Powered - 400 CFM, Cooling Only
 VAV Terminal, Fan Powered - 400 CFM, Hot Water Reheat

@@ -2,13 +2,9 @@ Backflow Preventer
 Backflow Preventer - 1.5" pipe
 Backflow Preventer - 1" pipe
 Backflow Preventer - 2" pipe
-Backflow Preventer - 2" Pipe
 Backflow Preventer - 3" pipe
-Backflow Preventer - 3" Pipe
 Backflow Preventer - 4" pipe
-Backflow Preventer - 4" Pipe
 Backflow Preventer - 6" pipe
-Backflow Preventer - 6" Pipe
 Backflow Preventer - 8" pipe
 Bathtub
 Black / Galvanized Steel  <1" Pipe
@@ -33,11 +29,11 @@ Combo Unit (Shower / Tub)
 Copper  <1" Pipe
 Copper  1"-2" Pipe
 Copper  2"-4" Pipe
+Copper  4"-6" Pipe
 CPVC  <1" Pipe
 CPVC  1"-2" Pipe
 CPVC  2"-4" Pipe
 Drinking Fountain
-Ductile Iron  4" Pipe
 Ductile Iron  6" Pipe
 Emergency Eye Wash
 Emergency Shower

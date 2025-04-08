@@ -44,6 +44,7 @@ Capacitor Bank - 480 V, 20 kVAR
 Capacitor Bank - 480 V, 30 kVAR
 Capacitor Bank - 480 V, 40 kVAR
 Capacitor Bank - 480 V, 50 kVAR
+Capacitor Bank - 600 V, 1 kVAR
 Capacitor Bank - 600 V, 5 kVAR
 Capacitor Bank - 600 V, 7.5 kVAR
 Capacitor Bank - 600 V, 10 kVAR
@@ -314,7 +315,7 @@ liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 1000 kVA
 liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 1500 kVA
 liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 2000 kVA
 liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 2500 kVA
-Main Circuit Breaker, 120/208 V, 100 amp
+Main circuit breaker, 120/208 V, 100 AMP
 Main circuit breaker, 120/208 V, 100 amp, NQOD
 Main Circuit Breaker, 120/208 V, 125 amp
 Main Circuit Breaker, 120/208 V, 150 amp
@@ -346,7 +347,7 @@ Main Circuit Breaker, 277/480 V, 150 amp
 Main Circuit Breaker, 277/480 V, 200 amp
 Main Circuit Breaker, 277/480 V, 225 amp
 Main circuit breaker, 277/480 V, 225 amp, NEHB
-Main Circuit Breaker, 277/480 V, 250 amp
+Main circuit breaker, 277/480 V, 250 AMP
 Main Circuit Breaker, 277/480 V, 400 amp
 Main circuit breaker, 277/480 V, 400 amp, NEHB
 Main Circuit Breaker, 277/480 V, 600 amp
