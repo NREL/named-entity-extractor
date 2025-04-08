@@ -17,9 +17,9 @@ This repository contains a collection of Jupyter Notebooks and Python scripts fo
 
 ## Installation
 To set up the environment for this project, follow these steps:
-1. Install spaCy and its language models:
+1. Install the dependencies and spaCy's language models:
    ```bash
-   pip install -U spacy
+   pip install -r requirements.txt
    python -m spacy download en_core_web_lg
    ```
 2. Clone the repository:

@@ -1,7 +1,958 @@
-{"classes":["EQUIPMENT","TYPE","MOUNTING","MOUNTING_TYPE","POWER","LENGTH","LIGHTING_TYPE","SHAPE","FUEL_TYPE"],"annotations":[["Explosion Proof Lighting - Fluorescent, ceiling mounted, 2-40 W, 4' L\r",{"entities":[[0,24,"EQUIPMENT"],[27,38,"TYPE"],[40,55,"MOUNTING_TYPE"],[57,63,"POWER"],[65,67,"LENGTH"]]}],["Explosion Proof Lighting - High pressure sodium, ceiling, pendent mounted, 100 W\r",{"entities":[[0,24,"EQUIPMENT"],[27,47,"TYPE"],[49,56,"MOUNTING"],[58,73,"MOUNTING_TYPE"],[75,80,"POWER"]]}],["Explosion Proof Lighting - Incandescent, ceiling mounted, 200 W\r",{"entities":[[0,24,"EQUIPMENT"],[27,39,"TYPE"],[41,56,"MOUNTING_TYPE"],[58,63,"POWER"]]}],["Explosion Proof Lighting - Metal halide, ceiling, pendent mounted, 200 W\r",{"entities":[[0,24,"EQUIPMENT"],[27,39,"TYPE"],[41,48,"MOUNTING"],[50,65,"MOUNTING_TYPE"],[67,72,"POWER"]]}],["Exterior Lighting - High pressure sodium, wall pack, 150 W\r",{"entities":[[0,17,"EQUIPMENT"],[20,40,"TYPE"],[42,51,"MOUNTING_TYPE"],[53,58,"POWER"]]}],["Exterior Lighting - Incandescent, wall mounted, 100 W\r",{"entities":[[0,17,"EQUIPMENT"],[20,32,"TYPE"],[34,46,"MOUNTING_TYPE"],[48,53,"POWER"]]}],["Exterior Lighting - Low pressure sodium, wall pack, 35 W\r",{"entities":[[0,17,"EQUIPMENT"],[20,39,"TYPE"],[41,50,"MOUNTING_TYPE"],[52,56,"POWER"]]}],["Exterior Lighting - Metal halide, wall pack, 175 W\r",{"entities":[[0,17,"EQUIPMENT"],[20,32,"TYPE"],[34,43,"MOUNTING_TYPE"],[45,50,"POWER"]]}],["Exterior Lighting - Quartz, wall mounted, 500 W\r",{"entities":[[0,17,"EQUIPMENT"],[20,26,"TYPE"],[28,40,"MOUNTING_TYPE"],[42,47,"POWER"]]}],["Interior Lighting, Fluorescent - Pendant Mounted (Type D)\r",{"entities":[[0,17,"EQUIPMENT"],[19,30,"TYPE"],[33,48,"MOUNTING_TYPE"],[50,56,"SHAPE"]]}],["Interior Lighting, Fluorescent - Recessed Fixture (Type C)\r",{"entities":[[0,17,"EQUIPMENT"],[19,30,"TYPE"],[33,49,"MOUNTING_TYPE"],[51,57,"SHAPE"]]}],["Interior Lighting, Fluorescent - Strip Fixture (Type A)\r",{"entities":[[0,17,"EQUIPMENT"],[19,30,"TYPE"],[33,46,"MOUNTING_TYPE"],[48,54,"SHAPE"]]}],["Interior Lighting, Fluorescent - Surface Mounted (Type B)\r",{"entities":[[0,17,"EQUIPMENT"],[19,30,"TYPE"],[33,48,"MOUNTING_TYPE"],[50,56,"SHAPE"]]}],["Interior Lighting, High Intensity - High Pressure Sodium 1000 W (Type F)\r",{"entities":[[0,17,"EQUIPMENT"],[19,33,"TYPE"],[36,56,"LIGHTING_TYPE"],[57,63,"POWER"],[65,71,"SHAPE"]]}],["Interior Lighting, High Intensity - High Pressure Sodium 400 W (Type C)\r",{"entities":[[0,17,"EQUIPMENT"],[19,33,"TYPE"],[36,56,"LIGHTING_TYPE"],[57,62,"POWER"],[64,70,"SHAPE"]]}],["Interior Lighting, High Intensity - Metal Halide 1000 W (Type G)\r",{"entities":[[0,17,"EQUIPMENT"],[19,33,"TYPE"],[36,48,"LIGHTING_TYPE"],[49,55,"POWER"],[57,63,"SHAPE"]]}],["Interior Lighting, High Intensity - Metal Halide 400 W (Type B)\r",{"entities":[[0,17,"EQUIPMENT"],[19,33,"TYPE"],[36,48,"LIGHTING_TYPE"],[49,54,"POWER"],[56,62,"SHAPE"]]}],["Interior Lighting, Incandescent - Recessed downlight w/baffles 150 W (Type B)\r",{"entities":[[0,17,"EQUIPMENT"],[19,31,"TYPE"],[34,62,"LIGHTING_TYPE"],[63,68,"POWER"],[70,76,"SHAPE"]]}],["Interior Lighting, Incandescent - Recessed PAR-38 flood lamp w/louver 150 W (Type C)\r",{"entities":[[0,17,"EQUIPMENT"],[19,31,"TYPE"],[34,69,"LIGHTING_TYPE"],[70,75,"POWER"],[77,83,"SHAPE"]]}],["Interior Lighting, Incandescent - Recessed R-40 flood lamp w/flat reflector 150 W (Type D)\r",{"entities":[[0,17,"EQUIPMENT"],[19,31,"TYPE"],[34,75,"LIGHTING_TYPE"],[76,81,"POWER"],[83,89,"SHAPE"]]}],["Interior Lighting, Incandescent - Recessed reflector w/flat glass lens 150 W (Type A)\r",{"entities":[[0,17,"EQUIPMENT"],[19,31,"TYPE"],[34,70,"LIGHTING_TYPE"],[71,76,"POWER"],[78,84,"SHAPE"]]}],["Emergency Lighting - Self-contained, fluorescent lamp pack\r",{"entities":[[0,18,"EQUIPMENT"],[21,35,"TYPE"],[37,58,"LIGHTING_TYPE"]]}],["Generators - Diesel, 900 kW\r",{"entities":[[0,10,"EQUIPMENT"],[13,19,"FUEL_TYPE"],[21,27,"POWER"]]}],["Generators - Gas, 100 kW\r",{"entities":[[0,10,"EQUIPMENT"],[13,16,"FUEL_TYPE"],[18,24,"POWER"]]}],
-["Uninterruptible Power Supply - 7.5 kVA",{"entities":[[0,28,"EQUIPMENT"],[31,38,"POWER"]]}],
-["Uninterruptible Power Supply - 705 kVA",{"entities":[[0,28,"EQUIPMENT"],[31,38,"POWER"]]}],
-["Explosion Proof Lighting\r",{"entities":[[0,24,"EQUIPMENT"]]}],["Exterior Fluorescent Lighting\r",{"entities":[[0,29,"EQUIPMENT"]]}],["Exterior LED Lighting\r",{"entities":[[0,21,"EQUIPMENT"]]}],["Generators\r",{"entities":[[0,10,"EQUIPMENT"]]}],["Generators - Gas, 200 kW\r",{"entities":[[0,10,"EQUIPMENT"],[13,16,"FUEL_TYPE"],[18,24,"POWER"]]}],["Generators - Gas, 500 kW\r",{"entities":[[0,10,"EQUIPMENT"],[13,16,"FUEL_TYPE"],[18,24,"POWER"]]}],["Generators - Gas, 750 kW\r",{"entities":[[0,10,"EQUIPMENT"],[13,16,"FUEL_TYPE"],[18,24,"POWER"]]}],["Generators - Gas, 1000 kW\r",{"entities":[[0,10,"EQUIPMENT"],[13,16,"FUEL_TYPE"],[18,25,"POWER"]]}],["Generators - Gas, 1250 kW\r",{"entities":[[0,10,"EQUIPMENT"],[13,16,"FUEL_TYPE"],[18,25,"POWER"]]}],["Generators - Gas, 1500 kW+\r",{"entities":[[0,10,"EQUIPMENT"],[13,16,"FUEL_TYPE"],[18,26,"POWER"]]}],["Interior Lighting, FL - 1 Lamp T8\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,33,"LIGHTING_TYPE"]]}],["Interior Lighting, FL - 1 Lamp T12\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,34,"LIGHTING_TYPE"]]}],["Interior Lighting, FL - 2 Lamp T8\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,33,"LIGHTING_TYPE"]]}],["Interior Lighting, FL - 2 Lamp T12\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,34,"LIGHTING_TYPE"]]}],["Interior Lighting, FL - 3 Lamp T8\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,33,"LIGHTING_TYPE"]]}],["Interior Lighting, FL - 3 Lamp T12\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,34,"LIGHTING_TYPE"]]}],["Interior Lighting, FL - 3 Lamp T5, HO\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,37,"LIGHTING_TYPE"]]}],["Interior Lighting, FL - 4 Lamp T8\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,33,"LIGHTING_TYPE"]]}],["Interior Lighting, FL - 4 Lamp T8, HO\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,37,"LIGHTING_TYPE"]]}],["Interior Lighting, FL - 5 Lamp T12\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,34,"LIGHTING_TYPE"]]}],["Interior Lighting, FL - 9 Lamp T5, HO\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,37,"LIGHTING_TYPE"]]}],["Interior Lighting, FL - 3 Lamp T8, HO\r",{"entities":[[0,17,"EQUIPMENT"],[19,21,"TYPE"],[24,37,"LIGHTING_TYPE"]]}],["Interior Lighting, LED\r",{"entities":[[0,17,"EQUIPMENT"],[19,22,"TYPE"]]}],["Interior Lighting, LED - Canlight\r",{"entities":[[0,17,"EQUIPMENT"],[19,22,"TYPE"],[25,33,"LIGHTING_TYPE"]]}],["Interior Lighting, LED - Downlight/Sconce/Pendant\r",{"entities":[[0,17,"EQUIPMENT"],[19,22,"TYPE"],[25,49,"LIGHTING_TYPE"]]}],["Interior Lighting, LED - High Bay\r",{"entities":[[0,17,"EQUIPMENT"],[19,22,"TYPE"],[25,33,"LIGHTING_TYPE"]]}],["Interior Lighting, LED - Strip\r",{"entities":[[0,17,"EQUIPMENT"],[19,22,"TYPE"],[25,30,"LIGHTING_TYPE"]]}],["Interior Lighting, LED - Troffer\r",{"entities":[[0,17,"EQUIPMENT"],[19,22,"TYPE"],[25,32,"LIGHTING_TYPE"]]}],["Interior Rope Light\r",{"entities":[[0,19,"EQUIPMENT"]]}],["6 outlets\r",{"entities":[]}],["6 stations\r",{"entities":[]}],["12 outlets\r",{"entities":[]}],["50 stations\r",{"entities":[]}],["100 outlets\r",{"entities":[]}],["100 stations\r",{"entities":[]}],["Buck-boost, 120/240 V primary 12/24 V secondary, 0.10 kVA\r",{"entities":[]}],["Buck-boost, 120/240 V primary 12/24 V secondary, 0.25 kVA\r",{"entities":[]}],["Buck-boost, 120/240 V primary 12/24 V secondary, 0.50 kVA\r",{"entities":[]}],["Buck-boost, 120/240 V primary 12/24 V secondary, 3.0 kVA\r",{"entities":[]}],["Buck-boost, 120/240 V primary 12/24 V secondary, 5.0 kVA\r",{"entities":[]}],["Buck-boost, 240 V primary 208/120 V secondary, 15 kVA\r",{"entities":[]}],["Buck-boost, 240 V primary 208/120 V secondary, 30 kVA\r",{"entities":[]}],["Buck-boost, 240 V primary 208/120 V secondary, 45 kVA\r",{"entities":[]}],["Buck-boost, 240 V primary 208/120 V secondary, 75 kVA\r",{"entities":[]}],["Buck-boost, 240 V primary 208/120 V secondary, 112.5 kVA\r",{"entities":[]}],["Buck-boost, 240 V primary 208/120 V secondary, 300 kVA\r",{"entities":[]}],["Capacitor Bank\r",{"entities":[]}],["Capacitor Bank - 240 V, 0.5 kVAR\r",{"entities":[]}],["Capacitor Bank - 240 V, 1.0 kVAR\r",{"entities":[]}],["Capacitor Bank - 240 V, 2.5 kVAR\r",{"entities":[]}],["Capacitor Bank - 240 V, 5.0 kVAR\r",{"entities":[]}],["Capacitor Bank - 240 V, 7.5 kVAR\r",{"entities":[]}],["Capacitor Bank - 240 V, 10 kVAR\r",{"entities":[]}],["Capacitor Bank - 600 V, 25 kVAR\r",{"entities":[]}],["Capacitor Bank - 600 V, 35 kVAR\r",{"entities":[]}],["Capacitor Bank - 600 V, 50 kVAR\r",{"entities":[]}],["Direct Buried Electrical Service Lateral\r",{"entities":[]}],["Direct Buried Telecommunications Service Lateral\r",{"entities":[]}],["dry-type, 5 kV primary 277/480 volt secondary, 112.5 kVA\r",{"entities":[]}],["dry-type, 5 kV primary 277/480 volt secondary, 150 kVA\r",{"entities":[]}],["dry-type, 5 kV primary 277/480 volt secondary, 225 kVA\r",{"entities":[]}],["dry-type, 5 kV primary 277/480 volt secondary, 2500 kVA\r",{"entities":[]}],["dry-type, 5 kV primary 277/480 volt secondary, 3000 kVA\r",{"entities":[]}],["dry-type, 15 kV primary 277/480 volt secondary, 112.5 kVA\r",{"entities":[]}],["dry-type, 15 kV primary 277/480 volt secondary, 150 kVA\r",{"entities":[]}],["dry-type, 15 kV primary 277/480 volt secondary, 225 kVA\r",{"entities":[]}],["dry-type, 15 kV primary 277/480 volt secondary, 300 kVA\r",{"entities":[]}],["dry-type, 15 kV primary 277/480 volt secondary, 3000 kVA\r",{"entities":[]}],["dry-type, 240/480 V primary 120/240 V secondary, 1 kVA\r",{"entities":[]}],["dry-type, 240/480 V primary 120/240 V secondary, 2 kVA\r",{"entities":[]}],["dry-type, 240/480 V primary 120/240 V secondary, 75 kVA\r",{"entities":[]}],["dry-type, 240/480 V primary 120/240 V secondary, 100 kVA\r",{"entities":[]}],["dry-type, 240/480 V primary 120/240 V secondary, 167 kVA\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 3 kVA\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 6 kVA\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 9 kVA\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 15 kVA\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 15 kVA, K-4 rated\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 15 kVA, K-13 rated\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 15 kVA, non-ventilated\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 500 kVA\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 500 kVA, K-4 rated\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 500 kVA, K-13 rated\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 750 kVA\r",{"entities":[]}],["dry-type, 480 V primary 120/208 V secondary, 1000 kVA\r",{"entities":[]}],["Ducted Electrical Service Lateral\r",{"entities":[]}],["Ducted Telecommunications Service Lateral\r",{"entities":[]}],["Electrical Service - 3 Phase, 5 KV, 100 A\r",{"entities":[]}],["Electrical Service - 3 Phase, 5 KV, 200 A\r",{"entities":[]}],["Electrical Service - 3 Phase, 15 KV, 2000 A\r",{"entities":[]}],["Electrical Service - 3 Phase, 120/208 V, 60 A\r",{"entities":[]}],["Electrical Service - 3 Phase, 120/208 V, 2000 A\r",{"entities":[]}],["Electrical Service - 3 Phase, 480 V, 60 A\r",{"entities":[]}],["Electrical Service - 3 Phase, 480 V, 1600 A\r",{"entities":[]}],["Electrical Service - 3 Phase, 480 V, 2000 A\r",{"entities":[]}],["Electrical Service - Distribution Circuit Breaker - For MV/HV Transformer\r",{"entities":[]}],["Electrical Service - Distribution Circuit Breaker - General\r",{"entities":[]}],["Electrical Service - Main-Tie-Main Switch 5 KV\r",{"entities":[]}],["Electrical Service - Main-Tie-Main Switch 15 KV\r",{"entities":[]}],["Electrical Service - Main-Tie-Main Switch 480 V\r",{"entities":[]}],["Electrical Service - Single Phase, 120/240 V, 100 A\r",{"entities":[]}],["Electrical Service - Single Phase, 120/240 V, 200 A\r",{"entities":[]}],
-["Enclosed Circuit Breaker, 30-100 Amp\r",{"entities":[]}],
-["Enclosed Circuit Breaker, 100 Amp\r",{"entities":[]}],["Enclosed Circuit Breaker, 800 Amp\r",{"entities":[]}],["Exit/Emergency Lighting (EME Combo Fixture)\r",{"entities":[]}],["General\r",{"entities":[]}],["GFCI Receptacle\r",{"entities":[]}],["Isolation, 120/240 V primary 120/208 V secondary, 112.5 kVA\r",{"entities":[]}],["Isolation, 120/240 V primary 120/208 V secondary, 150 kVA\r",{"entities":[]}],["Isolation, 120/240 V primary 120/208 V secondary, 500 kVA\r",{"entities":[]}],["Isolation, 120/240 V primary 120/240 V secondary, 37.5 kVA\r",{"entities":[]}],["Isolation, 120/240 V primary 120/240 V secondary, 75 kVA\r",{"entities":[]}],["Lighting Control Panel\r",{"entities":[]}],["liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 225 kVA\r",{"entities":[]}],["liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 300 kVA\r",{"entities":[]}],["liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 2500 kVA\r",{"entities":[]}],["Main Circuit Breaker, 120/208 V, 100 amp\r",{"entities":[]}],["Main circuit breaker, 120/208 V, 100 amp, NQOD\r",{"entities":[]}],["Main circuit breaker, 120/208 V, 225 amp, NQOD\r",{"entities":[]}],["Main Circuit Breaker, 120/208 V, 250 amp\r",{"entities":[]}],["Main Circuit Breaker, 120/208 V, 400 amp\r",{"entities":[]}],["Main circuit breaker, 120/208 V, 400 amp, NQOD\r",{"entities":[]}],["Main Circuit Breaker, 120/208 V, 600 amp\r",{"entities":[]}],["Main circuit breaker, 120/208 V, 600 amp, NQOD\r",{"entities":[]}],["Main Circuit Breaker, 120/208 V, 800 amp\r",{"entities":[]}],["Main Circuit Breaker, 120/240 V, 100 amp\r",{"entities":[]}],["Main circuit breaker, 120/240 V, 100 amp, NQOD\r",{"entities":[]}],["Main circuit breaker, 120/240 V, 225 amp, NQOD\r",{"entities":[]}],["Main Circuit Breaker, 120/240 V, 250 amp\r",{"entities":[]}],["Main Circuit Breaker, 120/240 V, 400 amp\r",{"entities":[]}],["Main circuit breaker, 120/240 V, 400 amp, NQOD\r",{"entities":[]}],["Main Circuit Breaker, 277/480 V, 100 amp\r",{"entities":[]}],["Main circuit breaker, 277/480 V, 100 amp, NEHB\r",{"entities":[]}],["Main Circuit Breaker, 277/480 V, 225 amp\r",{"entities":[]}],["Main circuit breaker, 277/480 V, 225 amp, NEHB\r",{"entities":[]}],["Main Circuit Breaker, 277/480 V, 250 amp\r",{"entities":[]}],["Main circuit breaker, 277/480 V, 400 amp, NEHB\r",{"entities":[]}],["Main Circuit Breaker, 277/480 V, 600 amp\r",{"entities":[]}],["Main circuit breaker, 277/480 V, 600 amp, NEHB\r",{"entities":[]}],["Main Circuit Breaker, 277/480 V, 2000 amp\r",{"entities":[]}],["Main Circuit Breaker, 600 V, 200 amp\r",{"entities":[]}],["Main Circuit Breaker, 600 V, 400 amp\r",{"entities":[]}],["Main Circuit Breaker, 600 V, 600 amp\r",{"entities":[]}],["Main Circuit Breaker, 600 V, 800 amp\r",{"entities":[]}],["Main Circuit Breaker, 600 V, 1000 amp\r",{"entities":[]}],["Main Circuit Breaker, 600 V, 1200  amp\r",{"entities":[]}],["Main Circuit Breaker, 600 V, 1600 amp\r",{"entities":[]}],["Main Circuit Breaker, 600 V, 2000 amp\r",{"entities":[]}],["Main lugs,  50 amp\r",{"entities":[]}],["Main lugs, 120/208 V, 100 amp, NQOD\r",{"entities":[]}],["Main lugs, 120/208 V, 225 amp, NQOD\r",{"entities":[]}],["Main lugs, 120/208 V, 225 amp, NQOD, NEMA 7\r",{"entities":[]}],["Main lugs, 120/240 V, 100 amp, NQOD\r",{"entities":[]}],["Main lugs, 120/240 V, 225 amp, NQOD\r",{"entities":[]}],["Main lugs, 125 amp\r",{"entities":[]}],["Main lugs, 150 amp\r",{"entities":[]}],["Main lugs, 200 amp\r",{"entities":[]}],["Main lugs, 250 amp\r",{"entities":[]}],["Main lugs, 277/480 V, 100 amp, NEHB\r",{"entities":[]}],["Main lugs, 277/480 V, 225 amp, NEHB\r",{"entities":[]}],["Main lugs, 277/480 V, 225 amp, NEHB, NEMA 7\r",{"entities":[]}],["Main lugs, 400 amp\r",{"entities":[]}],["Main lugs, 600 amp\r",{"entities":[]}],["Main lugs, 800 amp\r",{"entities":[]}],["Motor Control Center - Size 1, 10 HP, 12\" high\r",{"entities":[]}],["Motor Control Center - Size 6, 400 HP, 72\" high\r",{"entities":[]}],["Motor Starter/Disconnect\r",{"entities":[]}],["oil-filled, 15 kV primary, 277/480 V secondary, 150 kVA\r",{"entities":[]}],["oil-filled, 15 kV primary, 277/480 V secondary, 225 kVA\r",{"entities":[]}],["oil-filled, 15 kV primary, 277/480 V secondary, 3000 kVA\r",{"entities":[]}],["oil-filled, 15 kV primary, 277/480 V secondary, 3750 kVA\r",{"entities":[]}],["oil-filled, 2400 V primary, 120/240 V secondary, 10 kVA\r",{"entities":[]}],["oil-filled, 2400 V primary, 120/240 V secondary, 75 kVA\r",{"entities":[]}],["oil-filled, 2400 V primary, 120/240 V secondary, 100 kVA\r",{"entities":[]}],["Other\r",{"entities":[]}],["Overhead Telecommunications Service Lateral\r",{"entities":[]}],["Safety Switch\r",{"entities":[]}],["Safety Switch, < 30 Amp\r",{"entities":[]}],["Safety Switch, >100 Amp\r",{"entities":[]}],["Safety Switch, 30-100 Amp\r",{"entities":[]}],["Safety Switch, 100 Amp\r",{"entities":[]}],["Safety Switch, 200 Amp\r",{"entities":[]}],["Safety Switch, 400 Amp\r",{"entities":[]}],["Safety Switch, 600 Amp\r",{"entities":[]}],["Safety Switch, 800 Amp\r",{"entities":[]}],["Switchgear\r",{"entities":[]}],["Switchgear - 400 Amp\r",{"entities":[]}],["Switchgear - 600 Amp\r",{"entities":[]}],["Switchgear - 800 Amp\r",{"entities":[]}],["Switchgear - 1200 Amp\r",{"entities":[]}],["Switchgear - 1600 Amp\r",{"entities":[]}],["Switchgear - 2000 Amp\r",{"entities":[]}],["Switchgear - 3000 Amp\r",{"entities":[]}],["Transfer Switch\r",{"entities":[]}],["Transfer Switch - Automatic, 30 amp\r",{"entities":[]}],["Transfer Switch - Automatic, 60 amp\r",{"entities":[]}],["Transfer Switch - Automatic, 100 amp\r",{"entities":[]}],["Transfer Switch - Automatic, 1200 amp\r",{"entities":[]}],["Transfer Switch - Automatic, 1600 amp\r",{"entities":[]}],["Transfer Switch - Automatic, 2000 amp\r",{"entities":[]}],["Transfer Switch - Bypass Isolation, 30 amp\r",{"entities":[]}],["Transfer Switch - Bypass Isolation, 60 amp\r",{"entities":[]}],["Transfer Switch - Bypass Isolation, 100 amp\r",{"entities":[]}],["Transfer Switch - Bypass Isolation, 1600 amp\r",{"entities":[]}],["Transfer Switch - Bypass Isolation, 2000 amp\r",{"entities":[]}],["Transfer Switch - Non-automatic, 30 Amp, Electric\r",{"entities":[]}],["Transfer Switch - Non-automatic, 30 Amp, Manual\r",{"entities":[]}],["Transfer Switch - Non-automatic, 60 Amp, Electric\r",{"entities":[]}],["Transfer Switch - Non-automatic, 600 Amp, Electric\r",{"entities":[]}],["Transfer Switch - Non-automatic, 600 Amp, Manual\r",{"entities":[]}],
-["Unknown",{"entities":[]}]]}
+{
+  "classes": ["EQUIPMENT", "TYPE", "MOUNTING", "MOUNTING_TYPE", "POWER", "LENGTH", "LIGHTING_TYPE", "SHAPE", "FUEL_TYPE"],
+  "annotations": [
+    ["Explosion Proof Lighting - Fluorescent, ceiling mounted, 2-40 W, 4' L", {
+      "entities": [
+        [0, 24, "EQUIPMENT"],
+        [27, 38, "TYPE"],
+        [40, 55, "MOUNTING_TYPE"],
+        [57, 63, "POWER"],
+        [65, 67, "LENGTH"]
+      ]
+    }],
+    ["Explosion Proof Lighting - High pressure sodium, ceiling, pendent mounted, 100 W", {
+      "entities": [
+        [0, 24, "EQUIPMENT"],
+        [27, 47, "TYPE"],
+        [49, 56, "MOUNTING"],
+        [58, 73, "MOUNTING_TYPE"],
+        [75, 80, "POWER"]
+      ]
+    }],
+    ["Explosion Proof Lighting - Incandescent, ceiling mounted, 200 W", {
+      "entities": [
+        [0, 24, "EQUIPMENT"],
+        [27, 39, "TYPE"],
+        [41, 56, "MOUNTING_TYPE"],
+        [58, 63, "POWER"]
+      ]
+    }],
+    ["Explosion Proof Lighting - Metal halide, ceiling, pendent mounted, 200 W", {
+      "entities": [
+        [0, 24, "EQUIPMENT"],
+        [27, 39, "TYPE"],
+        [41, 48, "MOUNTING"],
+        [50, 65, "MOUNTING_TYPE"],
+        [67, 72, "POWER"]
+      ]
+    }],
+    ["Exterior Lighting - High pressure sodium, wall pack, 150 W", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [20, 40, "TYPE"],
+        [42, 51, "MOUNTING_TYPE"],
+        [53, 58, "POWER"]
+      ]
+    }],
+    ["Exterior Lighting - Incandescent, wall mounted, 100 W", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [20, 32, "TYPE"],
+        [34, 46, "MOUNTING_TYPE"],
+        [48, 53, "POWER"]
+      ]
+    }],
+    ["Exterior Lighting - Low pressure sodium, wall pack, 35 W", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [20, 39, "TYPE"],
+        [41, 50, "MOUNTING_TYPE"],
+        [52, 56, "POWER"]
+      ]
+    }],
+    ["Exterior Lighting - Metal halide, wall pack, 175 W", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [20, 32, "TYPE"],
+        [34, 43, "MOUNTING_TYPE"],
+        [45, 50, "POWER"]
+      ]
+    }],
+    ["Exterior Lighting - Quartz, wall mounted, 500 W", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [20, 26, "TYPE"],
+        [28, 40, "MOUNTING_TYPE"],
+        [42, 47, "POWER"]
+      ]
+    }],
+    ["Interior Lighting, Fluorescent - Pendant Mounted (Type D)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 30, "TYPE"],
+        [33, 48, "MOUNTING_TYPE"],
+        [50, 56, "SHAPE"]
+      ]
+    }],
+    ["Interior Lighting, Fluorescent - Recessed Fixture (Type C)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 30, "TYPE"],
+        [33, 49, "MOUNTING_TYPE"],
+        [51, 57, "SHAPE"]
+      ]
+    }],
+    ["Interior Lighting, Fluorescent - Strip Fixture (Type A)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 30, "TYPE"],
+        [33, 46, "MOUNTING_TYPE"],
+        [48, 54, "SHAPE"]
+      ]
+    }],
+    ["Interior Lighting, Fluorescent - Surface Mounted (Type B)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 30, "TYPE"],
+        [33, 48, "MOUNTING_TYPE"],
+        [50, 56, "SHAPE"]
+      ]
+    }],
+    ["Interior Lighting, High Intensity - High Pressure Sodium 1000 W (Type F)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 33, "TYPE"],
+        [36, 56, "LIGHTING_TYPE"],
+        [57, 63, "POWER"],
+        [65, 71, "SHAPE"]
+      ]
+    }],
+    ["Interior Lighting, High Intensity - High Pressure Sodium 400 W (Type C)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 33, "TYPE"],
+        [36, 56, "LIGHTING_TYPE"],
+        [57, 62, "POWER"],
+        [64, 70, "SHAPE"]
+      ]
+    }],
+    ["Interior Lighting, High Intensity - Metal Halide 1000 W (Type G)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 33, "TYPE"],
+        [36, 48, "LIGHTING_TYPE"],
+        [49, 55, "POWER"],
+        [57, 63, "SHAPE"]
+      ]
+    }],
+    ["Interior Lighting, High Intensity - Metal Halide 400 W (Type B)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 33, "TYPE"],
+        [36, 48, "LIGHTING_TYPE"],
+        [49, 54, "POWER"],
+        [56, 62, "SHAPE"]
+      ]
+    }],
+    ["Interior Lighting, Incandescent - Recessed downlight w/baffles 150 W (Type B)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 31, "TYPE"],
+        [34, 62, "LIGHTING_TYPE"],
+        [63, 68, "POWER"],
+        [70, 76, "SHAPE"]
+      ]
+    }],
+    ["Interior Lighting, Incandescent - Recessed PAR-38 flood lamp w/louver 150 W (Type C)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 31, "TYPE"],
+        [34, 69, "LIGHTING_TYPE"],
+        [70, 75, "POWER"],
+        [77, 83, "SHAPE"]
+      ]
+    }],
+    ["Interior Lighting, Incandescent - Recessed R-40 flood lamp w/flat reflector 150 W (Type D)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 31, "TYPE"],
+        [34, 75, "LIGHTING_TYPE"],
+        [76, 81, "POWER"],
+        [83, 89, "SHAPE"]
+      ]
+    }],
+    ["Interior Lighting, Incandescent - Recessed reflector w/flat glass lens 150 W (Type A)", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 31, "TYPE"],
+        [34, 70, "LIGHTING_TYPE"],
+        [71, 76, "POWER"],
+        [78, 84, "SHAPE"]
+      ]
+    }],
+    ["Emergency Lighting - Self-contained, fluorescent lamp pack", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [21, 35, "TYPE"],
+        [37, 58, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Generators - Diesel, 900 kW", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [13, 19, "FUEL_TYPE"],
+        [21, 27, "POWER"]
+      ]
+    }],
+    ["Generators - Gas, 100 kW", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [13, 16, "FUEL_TYPE"],
+        [18, 24, "POWER"]
+      ]
+    }],
+    ["Uninterruptible Power Supply - 7.5 kVA", {
+      "entities": [
+        [0, 28, "EQUIPMENT"],
+        [31, 38, "POWER"]
+      ]
+    }],
+    ["Uninterruptible Power Supply - 705 kVA", {
+      "entities": [
+        [0, 28, "EQUIPMENT"],
+        [31, 38, "POWER"]
+      ]
+    }],
+    ["Explosion Proof Lighting", {
+      "entities": [
+        [0, 24, "EQUIPMENT"]
+      ]
+    }],
+    ["Exterior Fluorescent Lighting", {
+      "entities": [
+        [0, 29, "EQUIPMENT"]
+      ]
+    }],
+    ["Exterior LED Lighting", {
+      "entities": [
+        [0, 21, "EQUIPMENT"]
+      ]
+    }],
+    ["Generators", {
+      "entities": [
+        [0, 10, "EQUIPMENT"]
+      ]
+    }],
+    ["Generators - Gas, 200 kW", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [13, 16, "FUEL_TYPE"],
+        [18, 24, "POWER"]
+      ]
+    }],
+    ["Generators - Gas, 500 kW", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [13, 16, "FUEL_TYPE"],
+        [18, 24, "POWER"]
+      ]
+    }],
+    ["Generators - Gas, 750 kW", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [13, 16, "FUEL_TYPE"],
+        [18, 24, "POWER"]
+      ]
+    }],
+    ["Generators - Gas, 1000 kW", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [13, 16, "FUEL_TYPE"],
+        [18, 25, "POWER"]
+      ]
+    }],
+    ["Generators - Gas, 1250 kW", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [13, 16, "FUEL_TYPE"],
+        [18, 25, "POWER"]
+      ]
+    }],
+    ["Generators - Gas, 1500 kW+", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [13, 16, "FUEL_TYPE"],
+        [18, 26, "POWER"]
+      ]
+    }],
+    ["Interior Lighting, FL - 1 Lamp T8", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 33, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, FL - 1 Lamp T12", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 34, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, FL - 2 Lamp T8", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 33, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, FL - 2 Lamp T12", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 34, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, FL - 3 Lamp T8", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 33, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, FL - 3 Lamp T12", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 34, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, FL - 3 Lamp T5, HO", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 37, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, FL - 4 Lamp T8", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 33, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, FL - 4 Lamp T8, HO", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 37, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, FL - 5 Lamp T12", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 34, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, FL - 9 Lamp T5, HO", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 37, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, FL - 3 Lamp T8, HO", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 21, "TYPE"],
+        [24, 37, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, LED", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 22, "TYPE"]
+      ]
+    }],
+    ["Interior Lighting, LED - Canlight", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 22, "TYPE"],
+        [25, 33, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, LED - Downlight/Sconce/Pendant", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 22, "TYPE"],
+        [25, 49, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, LED - High Bay", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 22, "TYPE"],
+        [25, 33, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, LED - Strip", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 22, "TYPE"],
+        [25, 30, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Lighting, LED - Troffer", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [19, 22, "TYPE"],
+        [25, 32, "LIGHTING_TYPE"]
+      ]
+    }],
+    ["Interior Rope Light", {
+      "entities": [
+        [0, 19, "EQUIPMENT"]
+      ]
+    }],
+    ["6 outlets", {
+      "entities": []
+    }],
+    ["6 stations", {
+      "entities": []
+    }],
+    ["12 outlets", {
+      "entities": []
+    }],
+    ["50 stations", {
+      "entities": []
+    }],
+    ["100 outlets", {
+      "entities": []
+    }],
+    ["100 stations", {
+      "entities": []
+    }],
+    ["Buck-boost, 120/240 V primary 12/24 V secondary, 0.10 kVA", {
+      "entities": []
+    }],
+    ["Buck-boost, 120/240 V primary 12/24 V secondary, 0.25 kVA", {
+      "entities": []
+    }],
+    ["Buck-boost, 120/240 V primary 12/24 V secondary, 0.50 kVA", {
+      "entities": []
+    }],
+    ["Buck-boost, 120/240 V primary 12/24 V secondary, 3.0 kVA", {
+      "entities": []
+    }],
+    ["Buck-boost, 120/240 V primary 12/24 V secondary, 5.0 kVA", {
+      "entities": []
+    }],
+    ["Buck-boost, 240 V primary 208/120 V secondary, 15 kVA", {
+      "entities": []
+    }],
+    ["Buck-boost, 240 V primary 208/120 V secondary, 30 kVA", {
+      "entities": []
+    }],
+    ["Buck-boost, 240 V primary 208/120 V secondary, 45 kVA", {
+      "entities": []
+    }],
+    ["Buck-boost, 240 V primary 208/120 V secondary, 75 kVA", {
+      "entities": []
+    }],
+    ["Buck-boost, 240 V primary 208/120 V secondary, 112.5 kVA", {
+      "entities": []
+    }],
+    ["Buck-boost, 240 V primary 208/120 V secondary, 300 kVA", {
+      "entities": []
+    }],
+    ["Capacitor Bank", {
+      "entities": []
+    }],
+    ["Capacitor Bank - 240 V, 0.5 kVAR", {
+      "entities": []
+    }],
+    ["Capacitor Bank - 240 V, 1.0 kVAR", {
+      "entities": []
+    }],
+    ["Capacitor Bank - 240 V, 2.5 kVAR", {
+      "entities": []
+    }],
+    ["Capacitor Bank - 240 V, 5.0 kVAR", {
+      "entities": []
+    }],
+    ["Capacitor Bank - 240 V, 7.5 kVAR", {
+      "entities": []
+    }],
+    ["Capacitor Bank - 240 V, 10 kVAR", {
+      "entities": []
+    }],
+    ["Capacitor Bank - 600 V, 25 kVAR", {
+      "entities": []
+    }],
+    ["Capacitor Bank - 600 V, 35 kVAR", {
+      "entities": []
+    }],
+    ["Capacitor Bank - 600 V, 50 kVAR", {
+      "entities": []
+    }],
+    ["Direct Buried Electrical Service Lateral", {
+      "entities": []
+    }],
+    ["Direct Buried Telecommunications Service Lateral", {
+      "entities": []
+    }],
+    ["dry-type, 5 kV primary 277/480 volt secondary, 112.5 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 5 kV primary 277/480 volt secondary, 150 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 5 kV primary 277/480 volt secondary, 225 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 5 kV primary 277/480 volt secondary, 2500 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 5 kV primary 277/480 volt secondary, 3000 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 15 kV primary 277/480 volt secondary, 112.5 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 15 kV primary 277/480 volt secondary, 150 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 15 kV primary 277/480 volt secondary, 225 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 15 kV primary 277/480 volt secondary, 300 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 15 kV primary 277/480 volt secondary, 3000 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 240/480 V primary 120/240 V secondary, 1 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 240/480 V primary 120/240 V secondary, 2 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 240/480 V primary 120/240 V secondary, 75 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 240/480 V primary 120/240 V secondary, 100 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 240/480 V primary 120/240 V secondary, 167 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 3 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 6 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 9 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 15 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 15 kVA, K-4 rated", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 15 kVA, K-13 rated", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 15 kVA, non-ventilated", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 500 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 500 kVA, K-4 rated", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 500 kVA, K-13 rated", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 750 kVA", {
+      "entities": []
+    }],
+    ["dry-type, 480 V primary 120/208 V secondary, 1000 kVA", {
+      "entities": []
+    }],
+    ["Ducted Electrical Service Lateral", {
+      "entities": []
+    }],
+    ["Ducted Telecommunications Service Lateral", {
+      "entities": []
+    }],
+    ["Electrical Service - 3 Phase, 5 KV, 100 A", {
+      "entities": []
+    }],
+    ["Electrical Service - 3 Phase, 5 KV, 200 A", {
+      "entities": []
+    }],
+    ["Electrical Service - 3 Phase, 15 KV, 2000 A", {
+      "entities": []
+    }],
+    ["Electrical Service - 3 Phase, 120/208 V, 60 A", {
+      "entities": []
+    }],
+    ["Electrical Service - 3 Phase, 120/208 V, 2000 A", {
+      "entities": []
+    }],
+    ["Electrical Service - 3 Phase, 480 V, 60 A", {
+      "entities": []
+    }],
+    ["Electrical Service - 3 Phase, 480 V, 1600 A", {
+      "entities": []
+    }],
+    ["Electrical Service - 3 Phase, 480 V, 2000 A", {
+      "entities": []
+    }],
+    ["Electrical Service - Distribution Circuit Breaker - For MV/HV Transformer", {
+      "entities": []
+    }],
+    ["Electrical Service - Distribution Circuit Breaker - General", {
+      "entities": []
+    }],
+    ["Electrical Service - Main-Tie-Main Switch 5 KV", {
+      "entities": []
+    }],
+    ["Electrical Service - Main-Tie-Main Switch 15 KV", {
+      "entities": []
+    }],
+    ["Electrical Service - Main-Tie-Main Switch 480 V", {
+      "entities": []
+    }],
+    ["Electrical Service - Single Phase, 120/240 V, 100 A", {
+      "entities": []
+    }],
+    ["Electrical Service - Single Phase, 120/240 V, 200 A", {
+      "entities": []
+    }],
+    ["Enclosed Circuit Breaker, 30-100 Amp", {
+      "entities": []
+    }],
+    ["Enclosed Circuit Breaker, 100 Amp", {
+      "entities": []
+    }],
+    ["Enclosed Circuit Breaker, 800 Amp", {
+      "entities": []
+    }],
+    ["Exit/Emergency Lighting (EME Combo Fixture)", {
+      "entities": []
+    }],
+    ["General", {
+      "entities": []
+    }],
+    ["GFCI Receptacle", {
+      "entities": []
+    }],
+    ["Isolation, 120/240 V primary 120/208 V secondary, 112.5 kVA", {
+      "entities": []
+    }],
+    ["Isolation, 120/240 V primary 120/208 V secondary, 150 kVA", {
+      "entities": []
+    }],
+    ["Isolation, 120/240 V primary 120/208 V secondary, 500 kVA", {
+      "entities": []
+    }],
+    ["Isolation, 120/240 V primary 120/240 V secondary, 37.5 kVA", {
+      "entities": []
+    }],
+    ["Isolation, 120/240 V primary 120/240 V secondary, 75 kVA", {
+      "entities": []
+    }],
+    ["Lighting Control Panel", {
+      "entities": []
+    }],
+    ["liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 225 kVA", {
+      "entities": []
+    }],
+    ["liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 300 kVA", {
+      "entities": []
+    }],
+    ["liquid-filled, 5 kV or 15 kV primary, 277/480 V secondary, 2500 kVA", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 120/208 V, 100 amp", {
+      "entities": []
+    }],
+    ["Main circuit breaker, 120/208 V, 100 amp, NQOD", {
+      "entities": []
+    }],
+    ["Main circuit breaker, 120/208 V, 225 amp, NQOD", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 120/208 V, 250 amp", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 120/208 V, 400 amp", {
+      "entities": []
+    }],
+    ["Main circuit breaker, 120/208 V, 400 amp, NQOD", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 120/208 V, 600 amp", {
+      "entities": []
+    }],
+    ["Main circuit breaker, 120/208 V, 600 amp, NQOD", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 120/208 V, 800 amp", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 120/240 V, 100 amp", {
+      "entities": []
+    }],
+    ["Main circuit breaker, 120/240 V, 100 amp, NQOD", {
+      "entities": []
+    }],
+    ["Main circuit breaker, 120/240 V, 225 amp, NQOD", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 120/240 V, 250 amp", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 120/240 V, 400 amp", {
+      "entities": []
+    }],
+    ["Main circuit breaker, 120/240 V, 400 amp, NQOD", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 277/480 V, 100 amp", {
+      "entities": []
+    }],
+    ["Main circuit breaker, 277/480 V, 100 amp, NEHB", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 277/480 V, 225 amp", {
+      "entities": []
+    }],
+    ["Main circuit breaker, 277/480 V, 225 amp, NEHB", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 277/480 V, 250 amp", {
+      "entities": []
+    }],
+    ["Main circuit breaker, 277/480 V, 400 amp, NEHB", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 277/480 V, 600 amp", {
+      "entities": []
+    }],
+    ["Main circuit breaker, 277/480 V, 600 amp, NEHB", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 277/480 V, 2000 amp", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 600 V, 200 amp", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 600 V, 400 amp", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 600 V, 600 amp", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 600 V, 800 amp", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 600 V, 1000 amp", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 600 V, 1200  amp", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 600 V, 1600 amp", {
+      "entities": []
+    }],
+    ["Main Circuit Breaker, 600 V, 2000 amp", {
+      "entities": []
+    }],
+    ["Main lugs,  50 amp", {
+      "entities": []
+    }],
+    ["Main lugs, 120/208 V, 100 amp, NQOD", {
+      "entities": []
+    }],
+    ["Main lugs, 120/208 V, 225 amp, NQOD", {
+      "entities": []
+    }],
+    ["Main lugs, 120/208 V, 225 amp, NQOD, NEMA 7", {
+      "entities": []
+    }],
+    ["Main lugs, 120/240 V, 100 amp, NQOD", {
+      "entities": []
+    }],
+    ["Main lugs, 120/240 V, 225 amp, NQOD", {
+      "entities": []
+    }],
+    ["Main lugs, 125 amp", {
+      "entities": []
+    }],
+    ["Main lugs, 150 amp", {
+      "entities": []
+    }],
+    ["Main lugs, 200 amp", {
+      "entities": []
+    }],
+    ["Main lugs, 250 amp", {
+      "entities": []
+    }],
+    ["Main lugs, 277/480 V, 100 amp, NEHB", {
+      "entities": []
+    }],
+    ["Main lugs, 277/480 V, 225 amp, NEHB", {
+      "entities": []
+    }],
+    ["Main lugs, 277/480 V, 225 amp, NEHB, NEMA 7", {
+      "entities": []
+    }],
+    ["Main lugs, 400 amp", {
+      "entities": []
+    }],
+    ["Main lugs, 600 amp", {
+      "entities": []
+    }],
+    ["Main lugs, 800 amp", {
+      "entities": []
+    }],
+    ["Motor Control Center - Size 1, 10 HP, 12\" high", {
+      "entities": []
+    }],
+    ["Motor Control Center - Size 6, 400 HP, 72\" high", {
+      "entities": []
+    }],
+    ["Motor Starter/Disconnect", {
+      "entities": []
+    }],
+    ["oil-filled, 15 kV primary, 277/480 V secondary, 150 kVA", {
+      "entities": []
+    }],
+    ["oil-filled, 15 kV primary, 277/480 V secondary, 225 kVA", {
+      "entities": []
+    }],
+    ["oil-filled, 15 kV primary, 277/480 V secondary, 3000 kVA", {
+      "entities": []
+    }],
+    ["oil-filled, 15 kV primary, 277/480 V secondary, 3750 kVA", {
+      "entities": []
+    }],
+    ["oil-filled, 2400 V primary, 120/240 V secondary, 10 kVA", {
+      "entities": []
+    }],
+    ["oil-filled, 2400 V primary, 120/240 V secondary, 75 kVA", {
+      "entities": []
+    }],
+    ["oil-filled, 2400 V primary, 120/240 V secondary, 100 kVA", {
+      "entities": []
+    }],
+    ["Other", {
+      "entities": []
+    }],
+    ["Overhead Telecommunications Service Lateral", {
+      "entities": []
+    }],
+    ["Safety Switch", {
+      "entities": []
+    }],
+    ["Safety Switch, < 30 Amp", {
+      "entities": []
+    }],
+    ["Safety Switch, >100 Amp", {
+      "entities": []
+    }],
+    ["Safety Switch, 30-100 Amp", {
+      "entities": []
+    }],
+    ["Safety Switch, 100 Amp", {
+      "entities": []
+    }],
+    ["Safety Switch, 200 Amp", {
+      "entities": []
+    }],
+    ["Safety Switch, 400 Amp", {
+      "entities": []
+    }],
+    ["Safety Switch, 600 Amp", {
+      "entities": []
+    }],
+    ["Safety Switch, 800 Amp", {
+      "entities": []
+    }],
+    ["Switchgear", {
+      "entities": []
+    }],
+    ["Switchgear - 400 Amp", {
+      "entities": []
+    }],
+    ["Switchgear - 600 Amp", {
+      "entities": []
+    }],
+    ["Switchgear - 800 Amp", {
+      "entities": []
+    }],
+    ["Switchgear - 1200 Amp", {
+      "entities": []
+    }],
+    ["Switchgear - 1600 Amp", {
+      "entities": []
+    }],
+    ["Switchgear - 2000 Amp", {
+      "entities": []
+    }],
+    ["Switchgear - 3000 Amp", {
+      "entities": []
+    }],
+    ["Transfer Switch", {
+      "entities": []
+    }],
+    ["Transfer Switch - Automatic, 30 amp", {
+      "entities": []
+    }],
+    ["Transfer Switch - Automatic, 60 amp", {
+      "entities": []
+    }],
+    ["Transfer Switch - Automatic, 100 amp", {
+      "entities": []
+    }],
+    ["Transfer Switch - Automatic, 1200 amp", {
+      "entities": []
+    }],
+    ["Transfer Switch - Automatic, 1600 amp", {
+      "entities": []
+    }],
+    ["Transfer Switch - Automatic, 2000 amp", {
+      "entities": []
+    }],
+    ["Transfer Switch - Bypass Isolation, 30 amp", {
+      "entities": []
+    }],
+    ["Transfer Switch - Bypass Isolation, 60 amp", {
+      "entities": []
+    }],
+    ["Transfer Switch - Bypass Isolation, 100 amp", {
+      "entities": []
+    }],
+    ["Transfer Switch - Bypass Isolation, 1600 amp", {
+      "entities": []
+    }],
+    ["Transfer Switch - Bypass Isolation, 2000 amp", {
+      "entities": []
+    }],
+    ["Transfer Switch - Non-automatic, 30 Amp, Electric", {
+      "entities": []
+    }],
+    ["Transfer Switch - Non-automatic, 30 Amp, Manual", {
+      "entities": []
+    }],
+    ["Transfer Switch - Non-automatic, 60 Amp, Electric", {
+      "entities": []
+    }],
+    ["Transfer Switch - Non-automatic, 600 Amp, Electric", {
+      "entities": []
+    }],
+    ["Transfer Switch - Non-automatic, 600 Amp, Manual", {
+      "entities": []
+    }],
+    ["Unknown", {
+      "entities": []
+    }]
+  ]
+}

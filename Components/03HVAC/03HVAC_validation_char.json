@@ -1,1 +1,3193 @@
-{"classes":["EQUIPMENT","SIZE","CAPACITY","POWER","FUEL_TYPE","TYPE","FLOWRATE","COOLING_TYPE","HEATING_TYPE","VOLTAGE","SYSTEM_TYPE"],"annotations":[["Electric, Hot Water -    <22 KW, <78 MBH\r",{"entities":[[0,8,"FUEL_TYPE"],[10,19,"TYPE"],[25,31,"POWER"],[33,40,"CAPACITY"]]}],["Electric, Hot Water -   135-180 KW, 460-613 MBH\r",{"entities":[[0,8,"FUEL_TYPE"],[10,19,"TYPE"],[24,34,"POWER"],[36,47,"CAPACITY"]]}],["Electric, Hot Water -   783-1110 KW, 2672-3788 MBH\r",{"entities":[[0,8,"FUEL_TYPE"],[10,19,"TYPE"],[24,35,"POWER"],[37,50,"CAPACITY"]]}],["Electric, Steam -   255-405 KW, 870-1382 MBH\r",{"entities":[[0,8,"FUEL_TYPE"],[10,15,"TYPE"],[20,30,"POWER"],[32,44,"CAPACITY"]]}],["Electric, Steam -   405-615 KW, 1382-2098 MBH\r",{"entities":[[0,8,"FUEL_TYPE"],[10,15,"TYPE"],[20,30,"POWER"],[32,45,"CAPACITY"]]}],["Electric, Steam - >2205 KW, >7524 MBH\r",{"entities":[[0,8,"FUEL_TYPE"],[10,15,"TYPE"],[18,26,"POWER"],[28,37,"CAPACITY"]]}],["Gas, Hot Water\r",{"entities":[[0,3,"FUEL_TYPE"],[5,14,"TYPE"]]}],["Gas, Hot Water -   500-650 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,14,"TYPE"],[19,30,"POWER"]]}],["Gas, Hot Water -  2500-3500 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,14,"TYPE"],[18,31,"POWER"]]}],["Gas, Hot Water - >6500 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,14,"TYPE"],[17,26,"CAPACITY"]]}],["Gas, Steam -   <150 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,10,"TYPE"],[15,23,"CAPACITY"]]}],["Gas, Steam -   650-1000 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,10,"TYPE"],[15,27,"CAPACITY"]]}],["Gas, Steam -  2000-3000 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,10,"TYPE"],[14,27,"CAPACITY"]]}],["Gas/Oil, Hot Water\r",{"entities":[[0,7,"FUEL_TYPE"],[9,18,"TYPE"]]}],["Gas/Oil, Hot Water -   1,750-2,250 MBH\r",{"entities":[[0,7,"FUEL_TYPE"],[9,18,"TYPE"],[23,38,"CAPACITY"]]}],["Gas/Oil, Hot Water -   4,250-5,000 MBH\r",{"entities":[[0,7,"FUEL_TYPE"],[9,18,"TYPE"],[23,38,"CAPACITY"]]}],["Gas/Oil, Steam -  300-3500 MBH\r",{"entities":[[0,7,"FUEL_TYPE"],[9,14,"TYPE"],[18,30,"CAPACITY"]]}],["Gas/Oil, Steam -  3500-4250 MBH\r",{"entities":[[0,7,"FUEL_TYPE"],[9,14,"TYPE"],[18,31,"CAPACITY"]]}],["Oil, HW\r",{"entities":[[0,3,"FUEL_TYPE"],[5,7,"TYPE"]]}],["Oil, HW -  1300-2000 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,7,"TYPE"],[11,24,"CAPACITY"]]}],["Oil, Steam -   200-700 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,10,"TYPE"],[15,26,"CAPACITY"]]}],["Oil, Steam -  1300-2000 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,10,"TYPE"],[14,27,"CAPACITY"]]}],["Solid Fuel - Natural Draft,   240-2800 MBH\r",{"entities":[[0,10,"FUEL_TYPE"],[13,26,"TYPE"],[30,42,"CAPACITY"]]}],["Solid Fuel - Natural Draft,   2800-3300 MBH\r",{"entities":[[0,10,"FUEL_TYPE"],[13,26,"TYPE"],[30,43,"CAPACITY"]]}],["Solid Fuel - Stoker Fired,   275-350 MBH\r",{"entities":[[0,10,"FUEL_TYPE"],[13,25,"TYPE"],[29,40,"CAPACITY"]]}],["Solid Fuel - Stoker Fired,  3100-3400 MBH\r",{"entities":[[0,10,"FUEL_TYPE"],[13,25,"TYPE"],[28,41,"CAPACITY"]]}],["Electric, 34.1 MBH\r",{"entities":[[0,8,"FUEL_TYPE"],[10,18,"CAPACITY"]]}],["Electric, 51.6 MBH\r",{"entities":[[0,8,"FUEL_TYPE"],[10,18,"CAPACITY"]]}],["Gas, 400 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,12,"CAPACITY"]]}],["Gas, 45 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,11,"CAPACITY"]]}],["Oil, 400 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,12,"CAPACITY"]]}],["Oil, 56 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,11,"CAPACITY"]]}],["Gas - 20 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[6,12,"CAPACITY"]]}],["Gas - 200 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[6,13,"CAPACITY"]]}],["Boiler Feedwater Tank\r",{"entities":[[0,21,"EQUIPMENT"]]}],["Boiler Feedwater Tank - Shot chemical feeder, by pass, floor mount, 10 gal\r",{"entities":[[0,21,"EQUIPMENT"],[24,66,"TYPE"],[68,74,"CAPACITY"]]}],["Chemical Feedwater - 150 lb., 5 gallon, ASME\r",{"entities":[[0,18,"EQUIPMENT"],[21,28,"SIZE"],[30,38,"CAPACITY"]]}],["Chemical Feedwater - 175 PSIG, 12 gallon\r",{"entities":[[0,18,"EQUIPMENT"],[21,29,"SIZE"],[31,40,"CAPACITY"]]}],["Expansion Tank - 240 gal\r",{"entities":[[0,14,"EQUIPMENT"],[17,24,"CAPACITY"]]}],["Expansion Tank - 30 gal\r",{"entities":[[0,14,"EQUIPMENT"],[17,23,"CAPACITY"]]}],["Chiller, Absorption, Gas, Water Cooled - 1000 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,24,"FUEL_TYPE"],[26,38,"COOLING_TYPE"],[41,48,"CAPACITY"]]}],["Chiller, Absorption, Gas, Water Cooled - 100 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,24,"FUEL_TYPE"],[26,38,"COOLING_TYPE"],[41,47,"CAPACITY"]]}],["Chiller, Absorption, Steam, Water Cooled -  70 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,26,"FUEL_TYPE"],[28,40,"COOLING_TYPE"],[44,49,"CAPACITY"]]}],["Chiller, Absorption, Steam, Water Cooled -  750 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,26,"FUEL_TYPE"],[28,40,"COOLING_TYPE"],[44,50,"CAPACITY"]]}],["Chiller, Centrifugal, Water Cooled\r",{"entities":[[0,7,"EQUIPMENT"],[9,20,"TYPE"],[22,34,"COOLING_TYPE"]]}],["Chiller, Centrifugal, Water Cooled -  200 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,20,"TYPE"],[22,34,"COOLING_TYPE"],[38,44,"CAPACITY"]]}],["Chiller, Reciprocating, Air Cooled -  90 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,22,"TYPE"],[24,34,"COOLING_TYPE"],[38,43,"CAPACITY"]]}],["Chiller, Reciprocating, Air Cooled - 100 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,22,"TYPE"],[24,34,"COOLING_TYPE"],[37,43,"CAPACITY"]]}],["Chiller, Reciprocating, Water Cooled\r",{"entities":[[0,7,"EQUIPMENT"],[9,22,"TYPE"],[24,36,"COOLING_TYPE"]]}],["Chiller, Reciprocating, Water Cooled -  60 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,22,"TYPE"],[24,36,"COOLING_TYPE"],[40,45,"CAPACITY"]]}],["Cooling Tower, Fiberglass -   60 TN\r",{"entities":[[0,13,"EQUIPMENT"],[15,25,"TYPE"],[30,35,"CAPACITY"]]}],["Cooling Tower, Fiberglass -  125 TN\r",{"entities":[[0,13,"EQUIPMENT"],[15,25,"TYPE"],[29,35,"CAPACITY"]]}],["Cooling Tower, Galvanized -   60 TN\r",{"entities":[[0,13,"EQUIPMENT"],[15,25,"TYPE"],[30,35,"CAPACITY"]]}],["Cooling Tower, Galvanized -  110 TN\r",{"entities":[[0,13,"EQUIPMENT"],[15,25,"TYPE"],[29,35,"CAPACITY"]]}],["Cooling Tower, Stainless Steel -   60 TN\r",{"entities":[[0,13,"EQUIPMENT"],[15,30,"TYPE"],[35,40,"CAPACITY"]]}],["Cooling Tower, Stainless Steel -  110 TN\r",{"entities":[[0,13,"EQUIPMENT"],[15,30,"TYPE"],[34,40,"CAPACITY"]]}],["Condenser, DX, Air Cooled - Belt Drive, 45 ton\r",{"entities":[[0,13,"EQUIPMENT"],[15,25,"COOLING_TYPE"],[28,38,"TYPE"],[40,46,"CAPACITY"]]}],["Condenser, DX, Air Cooled - Belt Drive, 471 ton\r",{"entities":[[0,13,"EQUIPMENT"],[15,25,"COOLING_TYPE"],[28,38,"TYPE"],[40,47,"CAPACITY"]]}],["Condenser, DX, Air Cooled - Direct Drive, 3-1/2 ton\r",{"entities":[[0,13,"EQUIPMENT"],[15,25,"COOLING_TYPE"],[28,40,"TYPE"],[42,51,"CAPACITY"]]}],["Condenser, DX, Air Cooled - Direct Drive, 118 ton\r",{"entities":[[0,13,"EQUIPMENT"],[15,25,"COOLING_TYPE"],[28,40,"TYPE"],[42,49,"CAPACITY"]]}],["Condenser, DX, Air Cooled - Direct Drive, 12 ton\r",{"entities":[[0,13,"EQUIPMENT"],[15,25,"COOLING_TYPE"],[28,40,"TYPE"],[42,48,"CAPACITY"]]}],["Condenser, DX, Evaporative - 185 ton\r",{"entities":[[0,13,"EQUIPMENT"],[15,26,"COOLING_TYPE"],[29,36,"CAPACITY"]]}],["Condenser, DX, Evaporative - 20 ton\r",{"entities":[[0,13,"EQUIPMENT"],[15,26,"COOLING_TYPE"],[29,35,"CAPACITY"]]}],["Dehumidifier - 66.5 lb./Hr., 500 CFM\r",{"entities":[[0,12,"EQUIPMENT"],[15,27,"CAPACITY"],[29,36,"FLOWRATE"]]}],["Dehumidifier - 33 lb./Hr., 1500 CFM\r",{"entities":[[0,12,"EQUIPMENT"],[15,25,"CAPACITY"],[27,35,"FLOWRATE"]]}],["Dehumidifier - 33 to 40 lb./Hr., 125 CFM\r",{"entities":[[0,12,"EQUIPMENT"],[15,31,"CAPACITY"],[33,40,"FLOWRATE"]]}],["Dehumidifier - 4000 to 5150 lb./Hr., 1,000 CFM\r",{"entities":[[0,12,"EQUIPMENT"],[15,35,"CAPACITY"],[37,46,"FLOWRATE"]]}],["Dehumidifier - 53 to 69 lb./Hr., 2,000 CFM\r",{"entities":[[0,12,"EQUIPMENT"],[15,31,"CAPACITY"],[33,42,"FLOWRATE"]]}],["Humidifier - 10 lb. per hour\r",{"entities":[[0,10,"EQUIPMENT"],[13,28,"CAPACITY"]]}],["Humidifier - 220 lb. per hour\r",{"entities":[[0,10,"EQUIPMENT"],[13,29,"CAPACITY"]]}],["VAV Terminal - 200 CFM, Cooling Only\r",{"entities":[[0,12,"EQUIPMENT"],[15,22,"FLOWRATE"],[24,36,"HEATING_TYPE"]]}],["VAV Terminal - 200 CFM, Hot Water Reheat\r",{"entities":[[0,12,"EQUIPMENT"],[15,22,"FLOWRATE"],[24,40,"HEATING_TYPE"]]}],["VAV Terminal - 40 CFM, Cooling Only\r",{"entities":[[0,12,"EQUIPMENT"],[15,21,"FLOWRATE"],[23,35,"HEATING_TYPE"]]}],["VAV Terminal - 40 CFM, Hot Water Reheat\r",{"entities":[[0,12,"EQUIPMENT"],[15,21,"FLOWRATE"],[23,39,"HEATING_TYPE"]]}],["VAV Terminal, Fan Powered - 200 CFM, Cooling Only\r",{"entities":[[0,12,"EQUIPMENT"],[14,25,"TYPE"],[28,35,"FLOWRATE"],[37,49,"HEATING_TYPE"]]}],["VAV Terminal, Fan Powered\r",{"entities":[[0,12,"EQUIPMENT"],[14,25,"TYPE"]]}],["VAV Terminal, Fan Powered - 200 CFM, Hot Water Reheat\r",{"entities":[[0,12,"EQUIPMENT"],[14,25,"TYPE"],[28,35,"FLOWRATE"],[37,53,"HEATING_TYPE"]]}],["VAV Terminal, Fan Powered - 4000 CFM, Cooling Only\r",{"entities":[[0,12,"EQUIPMENT"],[14,25,"TYPE"],[28,36,"FLOWRATE"],[38,50,"HEATING_TYPE"]]}],["VAV Terminal, Fan Powered - 4000 CFM, Hot Water Reheat\r",{"entities":[[0,12,"EQUIPMENT"],[14,25,"TYPE"],[28,36,"FLOWRATE"],[38,54,"HEATING_TYPE"]]}],["Heat Exchanger, Plate Type - 40 GPM\r",{"entities":[[0,14,"EQUIPMENT"],[16,26,"TYPE"],[29,35,"FLOWRATE"]]}],["Heat Exchanger, Plate Type - 80 GPM\r",{"entities":[[0,14,"EQUIPMENT"],[16,26,"TYPE"],[29,35,"FLOWRATE"]]}],["Heat Exchanger, Shell & Tube\r",{"entities":[[0,14,"EQUIPMENT"],[16,28,"TYPE"]]}],["Heat Exchanger, Shell & Tube - 24 GPM\r",{"entities":[[0,14,"EQUIPMENT"],[16,28,"TYPE"],[31,37,"FLOWRATE"]]}],["Heat Exchanger, Shell & Tube - 4000 GPM\r",{"entities":[[0,14,"EQUIPMENT"],[16,28,"TYPE"],[31,39,"FLOWRATE"]]}],["Circulating Pump, Double Suction - 3\" size, 100 HP, to 3000 GPM\r",{"entities":[[0,16,"EQUIPMENT"],[18,32,"TYPE"],[35,37,"SIZE"],[44,50,"POWER"],[52,63,"FLOWRATE"]]}],["Circulating Pump, Double Suction - 4\" size, 75 HP, to 2500 GPM\r",{"entities":[[0,16,"EQUIPMENT"],[18,32,"TYPE"],[35,37,"SIZE"],[44,49,"POWER"],[51,62,"FLOWRATE"]]}],["Circulating Pump, End Suction\r",{"entities":[[0,16,"EQUIPMENT"],[18,29,"TYPE"]]}],["Circulating Pump, End Suction - 1-1/2\" size, 3 HP, to 150 GPM\r",{"entities":[[0,16,"EQUIPMENT"],[18,29,"TYPE"],[32,38,"SIZE"],[45,49,"POWER"],[51,61,"FLOWRATE"]]}],["Circulating Pump, End Suction - 6\" size, 5 HP, to 225 GPM\r",{"entities":[[0,16,"EQUIPMENT"],[18,29,"TYPE"],[32,34,"SIZE"],[41,45,"POWER"],[47,57,"FLOWRATE"]]}],["Commercial/Industrial Vacuum Dust Collection - 3000 CFM\r",{"entities":[[0,44,"EQUIPMENT"],[47,55,"FLOWRATE"]]}],["Commercial/Industrial Vacuum Dust Collection - 500 CFM\r",{"entities":[[0,44,"EQUIPMENT"],[47,54,"FLOWRATE"]]}],["Fan System, Roof Exhaust - 350 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[27,34,"FLOWRATE"]]}],["Fan System, Roof Exhaust - 50 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[27,33,"FLOWRATE"]]}],["Fume Hood Exhaust System - 5', 200 CFM\r",{"entities":[[0,24,"EQUIPMENT"],[27,29,"SIZE"],[31,38,"FLOWRATE"]]}],["Fume Hood Exhaust System - 7', 4500 CFM\r",{"entities":[[0,24,"EQUIPMENT"],[27,29,"SIZE"],[31,39,"FLOWRATE"]]}],["Garage Exhaust Systems - Dual exhaust, 3\" outlets, pair of adjoining bays\r",{"entities":[[0,22,"EQUIPMENT"],[25,37,"TYPE"],[39,41,"SIZE"]]}],["Garage Exhaust Systems - Single exhaust, 3\" outlet, 1 bay\r",{"entities":[[0,22,"EQUIPMENT"],[25,39,"TYPE"],[41,43,"SIZE"]]}],["Industrial Exhaust System - 1060 CFM, 2-1/2 H.P.\r",{"entities":[[0,25,"EQUIPMENT"],[28,36,"FLOWRATE"],[38,47,"POWER"]]}],["Industrial Exhaust System - 12,000 CFM, 30 H.P.\r",{"entities":[[0,25,"EQUIPMENT"],[28,38,"FLOWRATE"],[40,46,"POWER"]]}],["Industrial Exhaust System - 300 CFM, 3 H.P.\r",{"entities":[[0,25,"EQUIPMENT"],[28,35,"FLOWRATE"],[37,42,"POWER"]]}],["Industrial Exhaust System - 4000 CFM, 6-1/2 H.P.\r",{"entities":[[0,25,"EQUIPMENT"],[28,36,"FLOWRATE"],[38,47,"POWER"]]}],["Kitchen Exhaust/Make-Up Air - 6,000 CFM\r",{"entities":[[0,27,"EQUIPMENT"],[30,39,"FLOWRATE"]]}],["Kitchen Exhaust/Make-Up Air - 200 CFM\r",{"entities":[[0,27,"EQUIPMENT"],[30,37,"FLOWRATE"]]}],["Central Station - 1030 CFM, VAV\r",{"entities":[[0,15,"EQUIPMENT"],[18,26,"FLOWRATE"],[28,31,"TYPE"]]}],["Central Station - 15002 CFM\r",{"entities":[[0,15,"EQUIPMENT"],[18,27,"FLOWRATE"]]}],["Field Fabricated - 150400 CFM, VAV\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,34,"TYPE"]]}],["Field Fabricated - 40030 CFM\r",{"entities":[[0,16,"EQUIPMENT"],[19,28,"FLOWRATE"]]}],["Rooftop -  5020 CFM, VAV\r",{"entities":[[0,7,"EQUIPMENT"],[11,19,"FLOWRATE"],[21,24,"TYPE"]]}],["Rooftop\r",{"entities":[[0,7,"EQUIPMENT"]]}],["Rooftop \r",{"entities":[[0,7,"EQUIPMENT"]]}],["Rooftop - 1040 CFM\r",{"entities":[[0,7,"EQUIPMENT"],[10,18,"FLOWRATE"]]}],["Fan System, Centrifugal In-Line - 3500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,31,"TYPE"],[34,42,"FLOWRATE"]]}],["Fan System, Centrifugal In-Line - 500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,31,"TYPE"],[34,41,"FLOWRATE"]]}],["Fan System, Utility Set - 20,000 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,23,"TYPE"],[26,36,"FLOWRATE"]]}],["Fan System, Utility Set - 2000 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,23,"TYPE"],[26,34,"FLOWRATE"]]}],["Hydronic - 20 MBH\r",{"entities":[[0,8,"EQUIPMENT"],[11,17,"CAPACITY"]]}],["Infrared - 105 MBH\r",{"entities":[[0,8,"EQUIPMENT"],[11,18,"CAPACITY"]]}],["Infrared - 119,000 BTU\r",{"entities":[[0,8,"EQUIPMENT"],[11,22,"CAPACITY"]]}],["Infrared - 13.5 kW, 40,956 BTU\r",{"entities":[[0,8,"EQUIPMENT"],[11,18,"POWER"],[20,30,"CAPACITY"]]}],["Cab Mount, Four Pipe - 2-7/8 ton\r",{"entities":[[0,9,"EQUIPMENT"],[11,20,"TYPE"],[23,32,"CAPACITY"]]}],["Cab Mount, Four Pipe - 3 ton\r",{"entities":[[0,9,"EQUIPMENT"],[11,20,"TYPE"],[23,28,"CAPACITY"]]}],["Cab Mount, Two Pipe - 1 ton\r",{"entities":[[0,9,"EQUIPMENT"],[11,19,"TYPE"],[22,27,"CAPACITY"]]}],["Cab Mount, Two Pipe - 4-3/4 ton, Elec. Heat\r",{"entities":[[0,9,"EQUIPMENT"],[11,19,"TYPE"],[22,31,"CAPACITY"],[33,43,"HEATING_TYPE"]]}],["Duct Mount, 4 Pipe - 11 ton\r",{"entities":[[0,10,"EQUIPMENT"],[12,18,"TYPE"],[21,27,"CAPACITY"]]}],["Duct Mount, 4 Pipe - 5-1/2 ton\r",{"entities":[[0,10,"EQUIPMENT"],[12,18,"TYPE"],[21,30,"CAPACITY"]]}],["Duct Mount, 4 Pipe - 3.5 ton\r",{"entities":[[0,10,"EQUIPMENT"],[12,18,"TYPE"],[21,28,"CAPACITY"]]}],["DX - 1.5 ton\r",{"entities":[[0,2,"EQUIPMENT"],[5,12,"CAPACITY"]]}],["DX - 10 ton\r",{"entities":[[0,2,"EQUIPMENT"],[5,11,"CAPACITY"]]}],["Baseboard Heating\r",{"entities":[[0,17,"EQUIPMENT"]]}],["Baseboard Heating - 3' long\r",{"entities":[[0,17,"EQUIPMENT"],[20,22,"SIZE"]]}],["208-240 volt, 13 kW\r",{"entities":[[0,12,"VOLTAGE"],[14,19,"POWER"]]}],["480 volt, 21 kW\r",{"entities":[[0,8,"VOLTAGE"],[10,15,"POWER"]]}],["A/C Unit, Computer Room - Air Cooled, 7 ton\r",{"entities":[[0,8,"EQUIPMENT"],[10,23,"TYPE"],[26,36,"COOLING_TYPE"],[38,43,"CAPACITY"]]}],["A/C Unit, Computer Room - Chilled Water, 11 ton\r",{"entities":[[0,8,"EQUIPMENT"],[10,23,"TYPE"],[26,39,"COOLING_TYPE"],[41,47,"CAPACITY"]]}],["A/C Unit, Computer Room - Glycol System, 7 ton\r",{"entities":[[0,8,"EQUIPMENT"],[10,23,"TYPE"],[26,39,"COOLING_TYPE"],[41,46,"CAPACITY"]]}],["A/C Unit, Computer Room - Water Cooled, 23 ton\r",{"entities":[[0,8,"EQUIPMENT"],[10,23,"TYPE"],[26,38,"COOLING_TYPE"],[40,46,"CAPACITY"]]}],["A/C Unit, Thru-Wall - 7-1/2 ton\r",{"entities":[[0,8,"EQUIPMENT"],[10,19,"TYPE"],[22,31,"CAPACITY"]]}],["Heat Pump, Air Source, Roof Top - 44 ton\r",{"entities":[[0,9,"EQUIPMENT"],[11,31,"TYPE"],[34,40,"CAPACITY"]]}],["Heat Pump, Duct Mounted, Horizontal - 7-1/2 ton\r",{"entities":[[0,9,"EQUIPMENT"],[11,35,"TYPE"],[38,47,"CAPACITY"]]}],["Heat Pump, Thru-Wall - 9/10 ton\r",{"entities":[[0,9,"EQUIPMENT"],[11,20,"TYPE"],[23,31,"CAPACITY"]]}],["Heat Pump, Water Source, Central Station - 44 ton\r",{"entities":[[0,9,"EQUIPMENT"],[11,40,"TYPE"],[43,49,"CAPACITY"]]}],["Heat Pump, Water Source, Console - 3-7/8 ton\r",{"entities":[[0,9,"EQUIPMENT"],[11,32,"TYPE"],[35,44,"CAPACITY"]]}],["Packaged A/C, Air Cooled, Elec Heat - 52 ton\r",{"entities":[[0,12,"EQUIPMENT"],[14,24,"COOLING_TYPE"],[26,35,"HEATING_TYPE"],[38,44,"CAPACITY"]]}],["Packaged A/C, Air Cooled, Elec Heat - 21 ton, VAV\r",{"entities":[[0,12,"EQUIPMENT"],[14,24,"COOLING_TYPE"],[26,35,"HEATING_TYPE"],[38,44,"CAPACITY"],[46,49,"TYPE"]]}],["Packaged A/C, Air Cooled, HW Heat - 4 ton\r",{"entities":[[0,12,"EQUIPMENT"],[14,24,"COOLING_TYPE"],[26,33,"HEATING_TYPE"],[36,41,"CAPACITY"]]}],["Packaged A/C, Air Cooled, HW Heat - 63 ton, VAV\r",{"entities":[[0,12,"EQUIPMENT"],[14,24,"COOLING_TYPE"],[26,33,"HEATING_TYPE"],[36,42,"CAPACITY"],[44,47,"TYPE"]]}],["Packaged A/C, Water Cooled, Elec Heat - 20 ton\r",{"entities":[[0,12,"EQUIPMENT"],[14,26,"COOLING_TYPE"],[28,37,"HEATING_TYPE"],[40,46,"CAPACITY"]]}],["Packaged A/C, Water Cooled, Elec Heat - 64 ton, VAV\r",{"entities":[[0,12,"EQUIPMENT"],[14,26,"COOLING_TYPE"],[28,37,"HEATING_TYPE"],[40,46,"CAPACITY"],[48,51,"TYPE"]]}],["Packaged A/C, Water Cooled, HW Heat - 40 ton\r",{"entities":[[0,12,"EQUIPMENT"],[14,26,"COOLING_TYPE"],[28,35,"HEATING_TYPE"],[38,44,"CAPACITY"]]}],["Packaged A/C, Water Cooled, HW Heat - 40 ton, VAV\r",{"entities":[[0,12,"EQUIPMENT"],[14,26,"COOLING_TYPE"],[28,35,"HEATING_TYPE"],[38,44,"CAPACITY"],[46,49,"TYPE"]]}],["Packaged DX Refrigerant System - Air Cooled, 7.5 ton\r",{"entities":[[0,30,"EQUIPMENT"],[33,43,"COOLING_TYPE"],[45,52,"CAPACITY"]]}],["Packaged DX Refrigerant System - Air Cooled, 75 ton\r",{"entities":[[0,30,"EQUIPMENT"],[33,43,"COOLING_TYPE"],[45,51,"CAPACITY"]]}],["Packaged DX Refrigerant System - Water Cooled, 43 ton\r",{"entities":[[0,30,"EQUIPMENT"],[33,45,"COOLING_TYPE"],[47,53,"CAPACITY"]]}],["Packaged DX Refrigerant System - Water Cooled, 5 Ton\r",{"entities":[[0,30,"EQUIPMENT"],[33,45,"COOLING_TYPE"],[47,52,"CAPACITY"]]}],["Rooftop Unit - 7-1/2 ton\r",{"entities":[[0,12,"EQUIPMENT"],[15,24,"CAPACITY"]]}],["Rooftop Unit - 6-3/4 ton, VAV\r",{"entities":[[0,12,"EQUIPMENT"],[15,24,"CAPACITY"],[26,29,"TYPE"]]}],["207-230 volt, 6 kW\r",{"entities":[[0,12,"VOLTAGE"],[14,18,"POWER"]]}],["490 volt, 1 kW\r",{"entities":[[0,8,"VOLTAGE"],[10,14,"POWER"]]}],["A/C Unit, Package Terminal\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"]]}],["A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 1.5 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,90,"SYSTEM_TYPE"],[92,98,"CAPACITY"]]}],["A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 5 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,90,"SYSTEM_TYPE"],[92,96,"CAPACITY"]]}],["A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 10 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,90,"SYSTEM_TYPE"],[92,97,"CAPACITY"]]}],["A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 20 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,90,"SYSTEM_TYPE"],[92,97,"CAPACITY"]]}],["A/C Unit, Package Terminal - Packaged Terminal AC, 6,000 BTUH cooling, 8,800 BTUH heat\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,49,"SYSTEM_TYPE"],[51,86,"CAPACITY"]]}],["A/C Unit, Package Terminal - Packaged Terminal AC, 9,000 BTUH cooling, 13,900 BTUH heat\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,49,"SYSTEM_TYPE"],[51,87,"CAPACITY"]]}],["A/C Unit, Package Terminal - Packaged Terminal AC, 12,000 BTUH cooling, 13,900 BTUH heat\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,49,"SYSTEM_TYPE"],[51,88,"CAPACITY"]]}],["A/C Unit, Package Terminal - Packaged Terminal AC, 15,000 BTUH cooling, 13,900 BTUH heat\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,49,"SYSTEM_TYPE"],[51,88,"CAPACITY"]]}],["A/C Unit, Package Terminal - Packaged Terminal AC, 18,000 BTUH, 10 kw\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,49,"SYSTEM_TYPE"],[51,69,"CAPACITY"]]}],["A/C Unit, Package Terminal - Packaged Terminal AC, 24,000 BTUH, 10 kw\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,49,"SYSTEM_TYPE"],[51,69,"CAPACITY"]]}],["A/C Unit, Package Terminal - Packaged Terminal AC, 30,000 BTUH, 10 kw\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,49,"SYSTEM_TYPE"],[51,69,"CAPACITY"]]}],["A/C Unit, Package Terminal - Packaged Terminal AC, 36,000 BTUH, 10 kw\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,49,"SYSTEM_TYPE"],[51,69,"CAPACITY"]]}],["A/C Unit, Package Terminal - Packaged Terminal AC, 42,000 BTUH, 10 kw\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,49,"SYSTEM_TYPE"],[51,69,"CAPACITY"]]}],["A/C Unit, Package Terminal - Packaged Terminal AC, 48,000 BTUH, 10 kw\r",{"entities":[[0,8,"EQUIPMENT"],[10,26,"TYPE"],[29,49,"SYSTEM_TYPE"],[51,69,"CAPACITY"]]}],["A/C Unit, Split Systems w/ Air Cooled Condenser\r",{"entities":[[0,8,"EQUIPMENT"],[10,47,"TYPE"]]}],["A/C Unit, Split Systems w/ Air Cooled Condenser - 2 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,47,"TYPE"],[50,54,"CAPACITY"]]}],["A/C Unit, Split Systems w/ Air Cooled Condenser - 3 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,47,"TYPE"],[50,54,"CAPACITY"]]}],["A/C Unit, Split Systems w/ Air Cooled Condenser - 4 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,47,"TYPE"],[50,54,"CAPACITY"]]}],["A/C Unit, Split Systems w/ Air Cooled Condenser - 5 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,47,"TYPE"],[50,54,"CAPACITY"]]}],["A/C Unit, Split Systems w/ Air Cooled Condenser - 10 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,47,"TYPE"],[50,55,"CAPACITY"]]}],["A/C Unit, Split Systems w/ Air Cooled Condenser - 35 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,47,"TYPE"],[50,55,"CAPACITY"]]}],["A/C Unit, Split Systems w/ Air Cooled Condenser - 45 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,47,"TYPE"],[50,55,"CAPACITY"]]}],["A/C Unit, Split Systems w/ Air Cooled Condenser - 60 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,47,"TYPE"],[50,55,"CAPACITY"]]}],["A/C Unit, Split Systems w/ Air Cooled Condenser - 75 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,47,"TYPE"],[50,55,"CAPACITY"]]}],["A/C Unit, Split Systems w/ Air Cooled Condenser - 100 TN\r",{"entities":[[0,8,"EQUIPMENT"],[10,47,"TYPE"],[50,56,"CAPACITY"]]}],["A/C Unit, Window\r",{"entities":[[0,8,"EQUIPMENT"],[10,16,"TYPE"]]}],["Chiller, Absorption, Gas, Water Cooled - 5 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,24,"FUEL_TYPE"],[26,38,"COOLING_TYPE"],[41,45,"CAPACITY"]]}],["Chiller, Absorption, Gas, Water Cooled - 10 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,24,"FUEL_TYPE"],[26,38,"COOLING_TYPE"],[41,46,"CAPACITY"]]}],["Chiller, Absorption, Gas, Water Cooled - 100 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,24,"FUEL_TYPE"],[26,38,"COOLING_TYPE"],[41,47,"CAPACITY"]]}],["Chiller, Absorption, Gas, Water Cooled - 200 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,24,"FUEL_TYPE"],[26,38,"COOLING_TYPE"],[41,47,"CAPACITY"]]}],["Chiller, Absorption, Gas, Water Cooled - 400 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,24,"FUEL_TYPE"],[26,38,"COOLING_TYPE"],[41,47,"CAPACITY"]]}],["Chiller, Absorption, Gas, Water Cooled - 600 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,24,"FUEL_TYPE"],[26,38,"COOLING_TYPE"],[41,47,"CAPACITY"]]}],["Chiller, Absorption, Steam, Water Cooled - 100 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,26,"FUEL_TYPE"],[28,40,"COOLING_TYPE"],[43,49,"CAPACITY"]]}],["Chiller, Absorption, Steam, Water Cooled - 200 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,26,"FUEL_TYPE"],[28,40,"COOLING_TYPE"],[43,49,"CAPACITY"]]}],["Chiller, Absorption, Steam, Water Cooled - 420 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,19,"TYPE"],[21,26,"FUEL_TYPE"],[28,40,"COOLING_TYPE"],[43,49,"CAPACITY"]]}],["Chiller, Centrifugal, Water Cooled -  600 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,20,"TYPE"],[22,34,"COOLING_TYPE"],[38,44,"CAPACITY"]]}],["Chiller, Centrifugal, Water Cooled -  800 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,20,"TYPE"],[22,34,"COOLING_TYPE"],[38,44,"CAPACITY"]]}],["Chiller, Centrifugal, Water Cooled -  1250 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,20,"TYPE"],[22,34,"COOLING_TYPE"],[38,45,"CAPACITY"]]}],["Chiller, Rotary Screw\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"]]}],["Chiller, Rotary Screw - 80 TN, Water Cooled Screw Liquid Chiller\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,29,"CAPACITY"],[31,43,"COOLING_TYPE"],[44,64,"SYSTEM_TYPE"]]}],["Chiller, Rotary Screw - 130 TN, Air Cooled Screw Liquid Chiller\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,30,"CAPACITY"],[32,42,"COOLING_TYPE"],[43,63,"SYSTEM_TYPE"]]}],["Chiller, Rotary Screw - 150 TN, Water Cooled Screw Liquid Chiller, Dual Compressors\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,30,"CAPACITY"],[32,44,"COOLING_TYPE"],[45,83,"SYSTEM_TYPE"]]}],["Chiller, Rotary Screw - 160 TN, Air Cooled Screw Liquid Chiller\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,30,"CAPACITY"],[32,42,"COOLING_TYPE"],[43,63,"SYSTEM_TYPE"]]}],["Chiller, Rotary Screw - 180 TN, Air Cooled Screw Liquid Chiller\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,30,"CAPACITY"],[32,42,"COOLING_TYPE"],[43,63,"SYSTEM_TYPE"]]}],["Chiller, Rotary Screw - 200 TN, Water Cooled Screw Liquid Chiller\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,30,"CAPACITY"],[32,44,"COOLING_TYPE"],[45,65,"SYSTEM_TYPE"]]}],["Chiller, Rotary Screw - 200 TN, Water Cooled Screw Liquid Chiller, Dual Compressors\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,30,"CAPACITY"],[32,44,"COOLING_TYPE"],[45,83,"SYSTEM_TYPE"]]}],["Chiller, Rotary Screw - 210 TN, Air Cooled Screw Liquid Chiller\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,30,"CAPACITY"],[32,42,"COOLING_TYPE"],[43,63,"SYSTEM_TYPE"]]}],["Chiller, Rotary Screw - 279 TN, Air Cooled Screw Liquid Chiller\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,30,"CAPACITY"],[32,42,"COOLING_TYPE"],[43,63,"SYSTEM_TYPE"]]}],["Chiller, Rotary Screw - 241 TN, Water Cooled Screw Liquid Chiller, Dual Compressors\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,30,"CAPACITY"],[32,44,"COOLING_TYPE"],[45,83,"SYSTEM_TYPE"]]}],["Chiller, Rotary Screw - 328 TN, Air Cooled Screw Liquid Chiller\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,30,"CAPACITY"],[32,42,"COOLING_TYPE"],[43,63,"SYSTEM_TYPE"]]}],["Chiller, Rotary Screw - 350 TN, Water Cooled Screw Liquid Chiller\r",{"entities":[[0,7,"EQUIPMENT"],[9,21,"TYPE"],[24,30,"CAPACITY"],[32,44,"COOLING_TYPE"],[45,65,"SYSTEM_TYPE"]]}],["Chiller, Scroll\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"]]}],["Chiller, Scroll - 25 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,23,"CAPACITY"]]}],["Chiller, Scroll - 50 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,23,"CAPACITY"]]}],["Chiller, Scroll - 78 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,23,"CAPACITY"]]}],["Chiller, Scroll - 100 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,24,"CAPACITY"]]}],["Chiller, Scroll - 125 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,24,"CAPACITY"]]}],["Chiller, Scroll - 150 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,24,"CAPACITY"]]}],["Chiller, Scroll - 165 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,24,"CAPACITY"]]}],["Chiller, Scroll - 180 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,24,"CAPACITY"]]}],["Chiller, Scroll - 200 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,24,"CAPACITY"]]}],["Chiller, Scroll - 225 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,24,"CAPACITY"]]}],["Chiller, Scroll - 250 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,24,"CAPACITY"]]}],["Chiller, Scroll - 275 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,24,"CAPACITY"]]}],["Chiller, Scroll - 300 TN\r",{"entities":[[0,7,"EQUIPMENT"],[9,15,"TYPE"],[18,24,"CAPACITY"]]}],["Circulating Pump - 8 1/2 HP\r",{"entities":[[0,16,"EQUIPMENT"],[19,27,"POWER"]]}],["Circulating Pump - 1 HP\r",{"entities":[[0,16,"EQUIPMENT"],[19,23,"POWER"]]}],["Circulating Pump - 1/2 HP\r",{"entities":[[0,16,"EQUIPMENT"],[19,25,"POWER"]]}],["Circulating Pump - 1/4 HP\r",{"entities":[[0,16,"EQUIPMENT"],[19,25,"POWER"]]}],["Circulating Pump, End Suction - 4\" size, 10 HP\r",{"entities":[[0,16,"EQUIPMENT"],[18,29,"TYPE"],[32,34,"SIZE"],[41,46,"POWER"]]}],["Condensate Pumping System > 25 HP (Single and Duplex)\r",{"entities":[[0,25,"EQUIPMENT"],[26,33,"POWER"]]}],["Condensate Pumping System 1 - 5 HP (Single and Duplex)\r",{"entities":[[0,25,"EQUIPMENT"],[26,34,"POWER"]]}],["Condensate Pumping System 5 - 25 HP (Single and Duplex)\r",{"entities":[[0,25,"EQUIPMENT"],[26,35,"POWER"]]}],["Condenser Water Pump, Double Suction – 50 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,36,"TYPE"],[39,44,"POWER"]]}],["Condenser Water Pump, Double Suction – 75 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,36,"TYPE"],[39,44,"POWER"]]}],["Condenser Water Pump, Double Suction – 100 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,36,"TYPE"],[39,45,"POWER"]]}],["Condenser Water Pump, Double Suction – 150 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,36,"TYPE"],[39,45,"POWER"]]}],["Condenser Water Pump, Double Suction – 200 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,36,"TYPE"],[39,45,"POWER"]]}],["Condenser Water Pump, Double Suction – 250 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,36,"TYPE"],[39,45,"POWER"]]}],["Condenser Water Pump, Double Suction – 300 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,36,"TYPE"],[39,45,"POWER"]]}],["Condenser Water Pump, End Suction – 3 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,33,"TYPE"],[36,40,"POWER"]]}],["Condenser Water Pump, End Suction – 9 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,33,"TYPE"],[36,40,"POWER"]]}],["Condenser Water Pump, End Suction – 7-1/2 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,33,"TYPE"],[36,44,"POWER"]]}],["Condenser Water Pump, End Suction – 19 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,33,"TYPE"],[36,41,"POWER"]]}],["Condenser Water Pump, End Suction – 15 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,33,"TYPE"],[36,41,"POWER"]]}],["Condenser Water Pump, End Suction – 25 HP\r",{"entities":[[0,20,"EQUIPMENT"],[22,33,"TYPE"],[36,41,"POWER"]]}],["Evaporative Cooler\r",{"entities":[[0,18,"EQUIPMENT"]]}],["Evaporative Cooler -  1785 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[22,30,"FLOWRATE"]]}],["Evaporative Cooler -  2740 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[22,30,"FLOWRATE"]]}],["Evaporative Cooler -  3235 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[22,30,"FLOWRATE"]]}],["Evaporative Cooler -  3625 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[22,30,"FLOWRATE"]]}],["Evaporative Cooler -  4215 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[22,30,"FLOWRATE"]]}],["Evaporative Cooler -  5255 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[22,30,"FLOWRATE"]]}],["Evaporative Cooler -  6090 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[22,30,"FLOWRATE"]]}],["Evaporative Cooler -  8300 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[22,30,"FLOWRATE"]]}],["Evaporative Cooler -  8360 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[22,30,"FLOWRATE"]]}],["Evaporative Cooler -  7725 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[22,30,"FLOWRATE"]]}],["Evaporative Cooler - 11715 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[21,30,"FLOWRATE"]]}],["Evaporative Cooler - 14410 CFM\r",{"entities":[[0,18,"EQUIPMENT"],[21,30,"FLOWRATE"]]}],["Expansion Tank - 1,200 gal\r",{"entities":[[0,14,"EQUIPMENT"],[17,26,"CAPACITY"]]}],["Expansion Tank - 2,500 gal\r",{"entities":[[0,14,"EQUIPMENT"],[17,26,"CAPACITY"]]}],["Expansion Tank - 528 gal\r",{"entities":[[0,14,"EQUIPMENT"],[17,24,"CAPACITY"]]}],["Fan System, Axial\r",{"entities":[[0,10,"EQUIPMENT"],[12,17,"TYPE"]]}],["Fan System, Axial  - 540 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,17,"TYPE"],[21,28,"FLOWRATE"]]}],["Fan System, Axial  - 1300 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,17,"TYPE"],[21,29,"FLOWRATE"]]}],["Fan System, Axial  - 4500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,17,"TYPE"],[21,29,"FLOWRATE"]]}],["Fan System, Axial  - 2500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,17,"TYPE"],[21,29,"FLOWRATE"]]}],["Fan System, Axial  - 5000 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,17,"TYPE"],[21,29,"FLOWRATE"]]}],["Fan System, Axial  - 7500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,17,"TYPE"],[21,29,"FLOWRATE"]]}],["Fan System, Axial - 11,000 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,17,"TYPE"],[20,30,"FLOWRATE"]]}],["Fan System, Axial - 3500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,17,"TYPE"],[20,28,"FLOWRATE"]]}],["Fan System, Large Blade Destratification Fan\r",{"entities":[[0,10,"EQUIPMENT"],[12,44,"TYPE"]]}],["Fan System, Residential Exhaust\r",{"entities":[[0,10,"EQUIPMENT"],[12,31,"TYPE"]]}],["Fan System, Wall Exhaust\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"]]}],["Fan System, Wall Exhaust - 13,800 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[27,37,"FLOWRATE"]]}],["Fan System, Wall Exhaust - 500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[27,34,"FLOWRATE"]]}],["Fan System, Wall Exhaust - 800 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[27,34,"FLOWRATE"]]}],["Fan System, Wall Exhaust - 1500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[27,35,"FLOWRATE"]]}],["Fan System, Wall Exhaust - 2750 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[27,35,"FLOWRATE"]]}],["Fan System, Wall Exhaust - 3500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[27,35,"FLOWRATE"]]}],["Fan System, Wall Exhaust - 5000 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[27,35,"FLOWRATE"]]}],["Fan System, Wall Exhaust - 8500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[27,35,"FLOWRATE"]]}],["Fan System, Wall exhaust, 10,100 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[26,36,"FLOWRATE"]]}],["Fan System, Wall exhaust, 14,300 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[26,36,"FLOWRATE"]]}],["Fan System, Wall exhaust, 19,800 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[26,36,"FLOWRATE"]]}],["Fan System, Wall exhaust, 26,250 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[26,36,"FLOWRATE"]]}],["Fan System, Wall exhaust, 38,500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[26,36,"FLOWRATE"]]}],["Fan System, Wall exhaust, 46,000 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[26,36,"FLOWRATE"]]}],["Fan System, Wall exhaust, 51,500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[26,36,"FLOWRATE"]]}],["Fan System, Wall exhaust, 6175 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[26,34,"FLOWRATE"]]}],["Fan System, Wall exhaust, 7500 CFM\r",{"entities":[[0,10,"EQUIPMENT"],[12,24,"TYPE"],[26,34,"FLOWRATE"]]}],["Fuel Storage Tank\r",{"entities":[[0,17,"EQUIPMENT"]]}],["Fuel Storage Tank - Fuel Storage Tank, 1000 GAL\r",{"entities":[[0,17,"EQUIPMENT"],[39,47,"CAPACITY"]]}],["Fuel Storage Tank - Fuel Storage Tank, 2509 GAL\r",{"entities":[[0,17,"EQUIPMENT"],[39,47,"CAPACITY"]]}],["Fuel Storage Tank - Fuel Storage Tank, 5000 GAL\r",{"entities":[[0,17,"EQUIPMENT"],[39,47,"CAPACITY"]]}],["Gas, Pulse\r",{"entities":[[0,3,"FUEL_TYPE"],[5,10,"TYPE"]]}],["Gas, Pulse - Pulse <100,000 BTU\r",{"entities":[[0,3,"FUEL_TYPE"],[5,10,"TYPE"],[19,31,"CAPACITY"]]}],["Gas, Pulse - Pulse >100,000 BTU\r",{"entities":[[0,3,"FUEL_TYPE"],[5,10,"TYPE"],[19,31,"CAPACITY"]]}],["Gas, Water Tube - Water Tube  <1500 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,15,"TYPE"],[30,39,"CAPACITY"]]}],["Gas, Water Tube - Water Tube  1500-2000 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,15,"TYPE"],[30,43,"CAPACITY"]]}],["Gas, Water Tube - Water Tube  2000-2700 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,15,"TYPE"],[30,43,"CAPACITY"]]}],["Gas, Water Tube - Water Tube  2700-4000 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,15,"TYPE"],[30,43,"CAPACITY"]]}],["Gas, Water Tube - Water Tube >4000 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,15,"TYPE"],[29,38,"CAPACITY"]]}],["Gas/Oil, Fire Tube - Fire Tube   <5,090 MBH\r",{"entities":[[0,7,"FUEL_TYPE"],[9,18,"TYPE"],[33,43,"CAPACITY"]]}],["Gas/Oil, Fire Tube - Fire Tube   5,000-7,500 \r",{"entities":[[0,7,"FUEL_TYPE"],[9,18,"TYPE"],[33,44,"CAPACITY"]]}],["Gas/Oil, Fire Tube - Fire Tube   7,500-12,590\r",{"entities":[[0,7,"FUEL_TYPE"],[9,18,"TYPE"],[33,45,"CAPACITY"]]}],["Gas/Oil, Fire Tube - Fire Tube  12,500-20,000\r",{"entities":[[0,7,"FUEL_TYPE"],[9,18,"TYPE"],[32,45,"CAPACITY"]]}],["Gas/Oil, Fire Tube - Fire Tube >20,000 MBH\r",{"entities":[[0,7,"FUEL_TYPE"],[9,18,"TYPE"],[31,42,"CAPACITY"]]}],["Heat Pump Package Condenser/Evaporator/Air Handler - 1.5 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,50,"TYPE"],[53,59,"CAPACITY"]]}],["Heat Pump Package Condenser/Evaporator/Air Handler - 2 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,50,"TYPE"],[53,57,"CAPACITY"]]}],["Heat Pump Package Condenser/Evaporator/Air Handler - 2.5 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,50,"TYPE"],[53,59,"CAPACITY"]]}],["Heat Pump Package Condenser/Evaporator/Air Handler - 3 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,50,"TYPE"],[53,57,"CAPACITY"]]}],["Heat Pump Package Condenser/Evaporator/Air Handler - 5 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,50,"TYPE"],[53,57,"CAPACITY"]]}],["Heat Pump Package Condenser/Evaporator/Air Handler - 7.9 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,50,"TYPE"],[53,59,"CAPACITY"]]}],["Heat Pump Package Condenser/Evaporator/Air Handler -3.5 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,50,"TYPE"],[52,58,"CAPACITY"]]}],["Heat Pump Water Source Single Package - 1 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,37,"TYPE"],[40,44,"CAPACITY"]]}],["Heat Pump Water Source Single Package - 2 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,37,"TYPE"],[40,44,"CAPACITY"]]}],["Heat Pump Water Source Single Package - 3 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,37,"TYPE"],[40,44,"CAPACITY"]]}],["Heat Pump Water Source Single Package - 5 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,37,"TYPE"],[40,44,"CAPACITY"]]}],["Heat Pump Water Source Single Package - 7.5 TN\r",{"entities":[[0,9,"EQUIPMENT"],[10,37,"TYPE"],[40,46,"CAPACITY"]]}],["Ice Bank\r",{"entities":[[0,8,"EQUIPMENT"]]}],["Indoor Modular\r",{"entities":[[0,14,"EQUIPMENT"]]}],["Indoor Modular - 10,000 CFM, 25 TN Central AHU\r",{"entities":[[0,14,"EQUIPMENT"],[17,27,"FLOWRATE"],[29,34,"CAPACITY"],[35,46,"TYPE"]]}],["Indoor Modular - 12,009 CFM, 30 TN Central AHU\r",{"entities":[[0,14,"EQUIPMENT"],[17,27,"FLOWRATE"],[29,34,"CAPACITY"],[35,46,"TYPE"]]}],["Indoor Modular - 3000 CFM, 7.5 TN Central AHU\r",{"entities":[[0,14,"EQUIPMENT"],[17,25,"FLOWRATE"],[27,33,"CAPACITY"],[34,45,"TYPE"]]}],["Indoor Modular - 3200 CFM, 8 TN Central AHU\r",{"entities":[[0,14,"EQUIPMENT"],[17,25,"FLOWRATE"],[27,31,"CAPACITY"],[32,43,"TYPE"]]}],["Indoor Modular - 4000 CFM, 10 TN Central AHU\r",{"entities":[[0,14,"EQUIPMENT"],[17,25,"FLOWRATE"],[27,32,"CAPACITY"],[33,44,"TYPE"]]}],["Indoor Modular - 4400 CFM, 11 TN Central AHU\r",{"entities":[[0,14,"EQUIPMENT"],[17,25,"FLOWRATE"],[27,32,"CAPACITY"],[33,44,"TYPE"]]}],["Indoor Modular - 6000 CFM, 15 TN Central AHU\r",{"entities":[[0,14,"EQUIPMENT"],[17,25,"FLOWRATE"],[27,32,"CAPACITY"],[33,44,"TYPE"]]}],["Indoor Modular - 7009 CFM, 17.9 TN Central AHU\r",{"entities":[[0,14,"EQUIPMENT"],[17,25,"FLOWRATE"],[27,34,"CAPACITY"],[35,46,"TYPE"]]}],["Industrial Exhaust System - 15,009 CFM, 59 H.P.\r",{"entities":[[0,25,"EQUIPMENT"],[28,38,"FLOWRATE"],[40,46,"POWER"]]}],["Industrial Exhaust System - 25,000 CFM, 75 H.P.\r",{"entities":[[0,25,"EQUIPMENT"],[28,38,"FLOWRATE"],[40,46,"POWER"]]}],["Industrial Exhaust System - 50,000 CFM, 100 H.P.\r",{"entities":[[0,25,"EQUIPMENT"],[28,38,"FLOWRATE"],[40,47,"POWER"]]}],["Make-Up Air Unit\r",{"entities":[[0,16,"EQUIPMENT"]]}],["Make-Up Air Unit - 19,000 CFM, 838 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,38,"CAPACITY"],[40,66,"TYPE"]]}],["Make-Up Air Unit - 12,000 CFM, 1905 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 14,000 CFM, 1180 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 18,009 CFM, 1340 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 20,000 CFM, 1675 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 24,000 CFM, 2007 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 30,000 CFM, 2510 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 35,000 CFM, 2930 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 40,000 CFM, 3350 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 45,009 CFM, 3770 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 50,000 CFM, 4180 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 55,000 CFM, 4600 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 60,000 CFM, 5020 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 65,000 CFM, 5435 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 75,000 CFM, 6275 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,29,"FLOWRATE"],[31,39,"CAPACITY"],[41,67,"TYPE"]]}],["Make-Up Air Unit - 2000 CFM, 168 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,27,"FLOWRATE"],[29,36,"CAPACITY"],[38,64,"TYPE"]]}],["Make-Up Air Unit - 3000 CFM, 252 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,27,"FLOWRATE"],[29,36,"CAPACITY"],[38,64,"TYPE"]]}],["Make-Up Air Unit - 4000 CFM, 336 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,27,"FLOWRATE"],[29,36,"CAPACITY"],[38,64,"TYPE"]]}],["Make-Up Air Unit - 6009 CFM, 502 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,27,"FLOWRATE"],[29,36,"CAPACITY"],[38,64,"TYPE"]]}],["Make-Up Air Unit - 8000 CFM, 670 MBH, includes standard controls\r",{"entities":[[0,16,"EQUIPMENT"],[19,27,"FLOWRATE"],[29,36,"CAPACITY"],[38,64,"TYPE"]]}],["Oil, Fire Tube -   <5000 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,14,"TYPE"],[19,28,"CAPACITY"]]}],["Oil, Fire Tube -   5000-7500 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,14,"TYPE"],[19,32,"CAPACITY"]]}],["Oil, Fire Tube -  12500-20000 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,14,"TYPE"],[18,33,"CAPACITY"]]}],["Oil, Fire Tube - >20009 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,14,"TYPE"],[17,27,"CAPACITY"]]}],["Oil, Water Tube -  1500-2000 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,15,"TYPE"],[19,32,"CAPACITY"]]}],["Oil, Water Tube -  2000-2700 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,15,"TYPE"],[19,32,"CAPACITY"]]}],["Oil, Water Tube - >4000 MBH\r",{"entities":[[0,3,"FUEL_TYPE"],[5,15,"TYPE"],[18,27,"CAPACITY"]]}],["Rooftop Air Conditioning Unit\r",{"entities":[[0,29,"EQUIPMENT"]]}],["Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 15 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,41,"TYPE"],[43,56,"COOLING_TYPE"],[58,66,"HEATING_TYPE"],[68,74,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 20 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,41,"TYPE"],[43,56,"COOLING_TYPE"],[58,66,"HEATING_TYPE"],[68,74,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 25 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,41,"TYPE"],[43,56,"COOLING_TYPE"],[58,66,"HEATING_TYPE"],[68,74,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 30 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,41,"TYPE"],[43,56,"COOLING_TYPE"],[58,66,"HEATING_TYPE"],[68,74,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 2 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,75,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 3 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,75,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 4 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,75,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 5 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,75,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 6 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,75,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 7.5 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,77,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 10 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,76,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 12.9 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,78,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 15 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,76,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 18 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,76,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 20 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,76,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 25 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,76,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 30 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,76,"CAPACITY"]]}],["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 40 ton cooling\r",{"entities":[[0,29,"EQUIPMENT"],[32,43,"TYPE"],[45,58,"COOLING_TYPE"],[60,68,"HEATING_TYPE"],[70,76,"CAPACITY"]]}],["Solar Inverter\r",{"entities":[[0,14,"EQUIPMENT"]]}],["Solar Panel - Aluminum Monocrystalline Silicon\r",{"entities":[[0,11,"EQUIPMENT"],[14,46,"TYPE"]]}],["Solar Panel - Aluminum Polycrystalline Silicon\r",{"entities":[[0,11,"EQUIPMENT"],[14,46,"TYPE"]]}],["Solar Panel - Thin Film AMORPHOUS \r",{"entities":[[0,11,"EQUIPMENT"],[14,33,"TYPE"]]}],["Solar Panel - Thin Film Cadmium Telluride\r",{"entities":[[0,11,"EQUIPMENT"],[14,41,"TYPE"]]}],["Solar Panel - Thin Film Monocrystalline\r",{"entities":[[0,11,"EQUIPMENT"],[14,39,"TYPE"]]}],["Solar Panel Battery - Gel Acid\r",{"entities":[[0,19,"EQUIPMENT"],[22,30,"TYPE"]]}],["Solar Panel Battery - Lead Acid\r",{"entities":[[0,19,"EQUIPMENT"],[22,31,"TYPE"]]}],["Solar Panel System\r",{"entities":[[0,18,"EQUIPMENT"]]}],["Thermal Storage Tank\r",{"entities":[[0,20,"EQUIPMENT"]]}],["VAV boxes\r",{"entities":[[0,9,"EQUIPMENT"]]}],["Ventilation/Heat Recovery System\r",{"entities":[[0,32,"EQUIPMENT"]]}],["Ventilation/Heat Recovery System - 1000 CFM\r",{"entities":[[0,32,"EQUIPMENT"],[35,43,"FLOWRATE"]]}],["Ventilation/Heat Recovery System - 2007 CFM\r",{"entities":[[0,32,"EQUIPMENT"],[35,43,"FLOWRATE"]]}],["Ventilation/Heat Recovery System - 4000 CFM\r",{"entities":[[0,32,"EQUIPMENT"],[35,43,"FLOWRATE"]]}],["Ventilation/Heat Recovery System - 6008 CFM\r",{"entities":[[0,32,"EQUIPMENT"],[35,43,"FLOWRATE"]]}],["Ventilation/Heat Recovery System - 8000 CFM\r",{"entities":[[0,32,"EQUIPMENT"],[35,43,"FLOWRATE"]]}],["Ventilation/Heat Recovery System - 10040 CFM\r",{"entities":[[0,32,"EQUIPMENT"],[35,44,"FLOWRATE"]]}],["VFD, 5 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,9,"POWER"]]}],["VFD, 7.5 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,11,"POWER"]]}],["VFD, 10 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,10,"POWER"]]}],["VFD, 15 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,10,"POWER"]]}],["VFD, 20 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,10,"POWER"]]}],["VFD, 25 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,10,"POWER"]]}],["VFD, 30 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,10,"POWER"]]}],["VFD, 40 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,10,"POWER"]]}],["VFD, 50 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,10,"POWER"]]}],["VFD, 60 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,10,"POWER"]]}],["VFD, 75 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,10,"POWER"]]}],["VFD, 100 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,11,"POWER"]]}],["VFD, 125 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,11,"POWER"]]}],["VFD, 150 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,11,"POWER"]]}],["VFD, 200 HP\r",{"entities":[[0,3,"EQUIPMENT"],[5,11,"POWER"]]}],["Window Unit Air Conditioner - 1 TN",{"entities":[[0,27,"EQUIPMENT"],[30,34,"CAPACITY"]]}],["2-Pipe Heating/Cooling Distribution Steel Piping -  1 IN\r",{"entities":[]}],["2-Pipe Heating/Cooling Distribution Steel Piping -  3 IN\r",{"entities":[]}],["Air Separator\r",{"entities":[]}],["Air Separator - Air control, air separator, 2-1/2\" diameter, includes strainer\r",{"entities":[]}],["Air Separator - Air control, air separator, 2\" diameter, includes strainer\r",{"entities":[]}],["Air Separator - Air control, air separator, 3\" diameter, includes strainer\r",{"entities":[]}],["Air Separator - Air control, air separator, 4\" diameter, includes strainer\r",{"entities":[]}],["Air Separator - Air control, air separator, 5\" diameter, includes strainer\r",{"entities":[]}],["Air Separator - Air control, air separator, 6\" diameter, includes strainer\r",{"entities":[]}],["Air Separator - Air control, air separator, 8\" diameter, includes strainer\r",{"entities":[]}],["Air Separator - Air control, air separator, 10\" diameter, includes strainer\r",{"entities":[]}],["Air Separator - Air control, air separator, 12\" diameter, includes strainer\r",{"entities":[]}],["Air supply for pneumatic, tank mounted duplex compressor\r",{"entities":[]}],["Analog inputs, sensors, CFM/transducer\r",{"entities":[]}],["Analog inputs, sensors, duct temperature\r",{"entities":[]}],["Analog inputs, sensors, space temperature\r",{"entities":[]}],["Baseboard Heating - 1-1/4\" Copper Tube\r",{"entities":[]}],["Baseboard Heating - 1\" Copper Tube\r",{"entities":[]}],["Baseboard Heating - 1/2\" Copper Tube\r",{"entities":[]}],["Baseboard Heating - 3/4\" Copper Tube\r",{"entities":[]}],["Ceiling Vents, Passive\r",{"entities":[]}],["Ceiling Vents, Passive - Passive < 50 CFM\r",{"entities":[]}],["Ceiling Vents, Passive - Passive > 300 CFM\r",{"entities":[]}],["Ceiling Vents, Passive - Passive 50-110 CFM\r",{"entities":[]}],["Ceiling Vents, Passive - Passive 110-180 CFM\r",{"entities":[]}],["Ceiling Vents, Passive - Passive 200-300 CFM\r",{"entities":[]}],["Charge Controller\r",{"entities":[]}],["Closed Loop, Space/Hot Water Systems\r",{"entities":[]}],["Compensated hot water from valve control, readout & reset at panel\r",{"entities":[]}],["controller MUX panel, 128 point, incl. function boards\r",{"entities":[]}],["Cooling Tower, Fluid Cooler\r",{"entities":[]}],["D.D.C controller, mechanical room, 16 point\r",{"entities":[]}],["D.D.C controller, mechanical room, 32 point\r",{"entities":[]}],["D.D.C controller, space, V.A.V terminal box, incl\r",{"entities":[]}],["D.D.C. Control Panel\r",{"entities":[]}],["Digital inputs, Status (alarms), current sensor\r",{"entities":[]}],["Digital inputs, Status (alarms), duct smoke detector\r",{"entities":[]}],["Ductwork\r",{"entities":[]}],["Ductwork - Metal Ductwork, 6\" Diameter (30 SQ IN)\r",{"entities":[]}],["Ductwork - Metal Ductwork, 8\" Diameter (60 SQ IN)\r",{"entities":[]}],["Ductwork - Metal Ductwork, 10\" Diameter (80 SQ IN)\r",{"entities":[]}],["Ductwork - Metal Ductwork, 12\" Diameter (120 SQ IN)\r",{"entities":[]}],["Ductwork - Metal Ductwork, 14\" Diameter (160 SQ IN)\r",{"entities":[]}],["Ductwork - Metal Ductwork, 16\" Diameter (210 SQ IN)\r",{"entities":[]}],["Ductwork - Metal Ductwork, 18\" Diameter (260 SQ IN)\r",{"entities":[]}],["Ductwork - Metal Ductwork, 20\" Diameter (320 SQ IN)\r",{"entities":[]}],["Ductwork - Metal Ductwork, 22\" Diameter (390 SQ IN)\r",{"entities":[]}],["Ductwork - Metal Ductwork, 24\" Diameter (460 SQ IN)\r",{"entities":[]}],["Ductwork - Metal Ductwork, 30\" Diameter (710 SQ IN)\r",{"entities":[]}],["Ductwork - Metal Ductwork, 36\" Diameter (1020 SQ IN)\r",{"entities":[]}],["Ductwork - Non-Metal Ductwork, 8\" Diameter (60 SQ IN)\r",{"entities":[]}],["Ductwork - Non-Metal Ductwork, 10\" Diameter (80 SQ IN)\r",{"entities":[]}],["Ductwork - Non-Metal Ductwork, 12\" Diameter (120 SQ IN)\r",{"entities":[]}],["Ductwork - Non-Metal Ductwork, 18\" Diameter (260 SQ IN)\r",{"entities":[]}],["Ductwork - Non-Metal Ductwork, 24\" Diameter (460 SQ IN)\r",{"entities":[]}],["Fire Dampers\r",{"entities":[]}],["Fuel Storage Tank\r",{"entities":[]}],["Fuel Storage Tank - Fuel Storage Tank, 1000 GAL\r",{"entities":[]}],["Fuel Storage Tank - Fuel Storage Tank, 2500 GAL\r",{"entities":[]}],["Fuel Storage Tank - Fuel Storage Tank, 5000 GAL\r",{"entities":[]}],["Gas Meter\r",{"entities":[]}],["General\r",{"entities":[]}],["Glycol Additive System (Includes Pumps/Tanks/Meters/Controls)\r",{"entities":[]}],["Heating/Cooling Distribution Copper Piping - 1 IN\r",{"entities":[]}],["Heating/Cooling Distribution Copper Piping - 3 IN\r",{"entities":[]}],["Other\r",{"entities":[]}],["pneumatic air supply, tank mount duplex compressor, 1 HP\r",{"entities":[]}],["pneumatic air supply, tank mount duplex compressor, 1.5 HP\r",{"entities":[]}],["pneumatic air supply, tank mount duplex compressor, 3 HP\r",{"entities":[]}],["pneumatic air supply, tank mount duplex compressor, 5 HP\r",{"entities":[]}],["Pneumatic thermostat\r",{"entities":[]}],["PV Module\r",{"entities":[]}],["Radon Management System\r",{"entities":[]}],["Refrigeration Compressor\r",{"entities":[]}],["Status alarms, digital inputs, differential pressure\r",{"entities":[]}],["Steam Generator\r",{"entities":[]}],["Steam Powered Trap\r",{"entities":[]}],["Steel Pipe Steam Distribution Service Lateral\r",{"entities":[]}],["Unknown",{"entities":[]}],["Condensate Pumping System - Steam Powered\r",{"entities":[[0,25,"EQUIPMENT"],[28,41,"TYPE"]]}]]}
+{
+  "classes": ["EQUIPMENT", "SIZE", "CAPACITY", "POWER", "FUEL_TYPE", "TYPE", "FLOWRATE", "COOLING_TYPE", "HEATING_TYPE", "VOLTAGE", "SYSTEM_TYPE"],
+  "annotations": [
+    ["Electric, Hot Water -    <22 KW, <78 MBH", {
+      "entities": [
+        [0, 8, "FUEL_TYPE"],
+        [10, 19, "TYPE"],
+        [25, 31, "POWER"],
+        [33, 40, "CAPACITY"]
+      ]
+    }],
+    ["Electric, Hot Water -   135-180 KW, 460-613 MBH", {
+      "entities": [
+        [0, 8, "FUEL_TYPE"],
+        [10, 19, "TYPE"],
+        [24, 34, "POWER"],
+        [36, 47, "CAPACITY"]
+      ]
+    }],
+    ["Electric, Hot Water -   783-1110 KW, 2672-3788 MBH", {
+      "entities": [
+        [0, 8, "FUEL_TYPE"],
+        [10, 19, "TYPE"],
+        [24, 35, "POWER"],
+        [37, 50, "CAPACITY"]
+      ]
+    }],
+    ["Electric, Steam -   255-405 KW, 870-1382 MBH", {
+      "entities": [
+        [0, 8, "FUEL_TYPE"],
+        [10, 15, "TYPE"],
+        [20, 30, "POWER"],
+        [32, 44, "CAPACITY"]
+      ]
+    }],
+    ["Electric, Steam -   405-615 KW, 1382-2098 MBH", {
+      "entities": [
+        [0, 8, "FUEL_TYPE"],
+        [10, 15, "TYPE"],
+        [20, 30, "POWER"],
+        [32, 45, "CAPACITY"]
+      ]
+    }],
+    ["Electric, Steam - >2205 KW, >7524 MBH", {
+      "entities": [
+        [0, 8, "FUEL_TYPE"],
+        [10, 15, "TYPE"],
+        [18, 26, "POWER"],
+        [28, 37, "CAPACITY"]
+      ]
+    }],
+    ["Gas, Hot Water", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 14, "TYPE"]
+      ]
+    }],
+    ["Gas, Hot Water -   500-650 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 14, "TYPE"],
+        [19, 30, "POWER"]
+      ]
+    }],
+    ["Gas, Hot Water -  2500-3500 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 14, "TYPE"],
+        [18, 31, "POWER"]
+      ]
+    }],
+    ["Gas, Hot Water - >6500 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 14, "TYPE"],
+        [17, 26, "CAPACITY"]
+      ]
+    }],
+    ["Gas, Steam -   <150 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 10, "TYPE"],
+        [15, 23, "CAPACITY"]
+      ]
+    }],
+    ["Gas, Steam -   650-1000 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 10, "TYPE"],
+        [15, 27, "CAPACITY"]
+      ]
+    }],
+    ["Gas, Steam -  2000-3000 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 10, "TYPE"],
+        [14, 27, "CAPACITY"]
+      ]
+    }],
+    ["Gas/Oil, Hot Water", {
+      "entities": [
+        [0, 7, "FUEL_TYPE"],
+        [9, 18, "TYPE"]
+      ]
+    }],
+    ["Gas/Oil, Hot Water -   1,750-2,250 MBH", {
+      "entities": [
+        [0, 7, "FUEL_TYPE"],
+        [9, 18, "TYPE"],
+        [23, 38, "CAPACITY"]
+      ]
+    }],
+    ["Gas/Oil, Hot Water -   4,250-5,000 MBH", {
+      "entities": [
+        [0, 7, "FUEL_TYPE"],
+        [9, 18, "TYPE"],
+        [23, 38, "CAPACITY"]
+      ]
+    }],
+    ["Gas/Oil, Steam -  300-3500 MBH", {
+      "entities": [
+        [0, 7, "FUEL_TYPE"],
+        [9, 14, "TYPE"],
+        [18, 30, "CAPACITY"]
+      ]
+    }],
+    ["Gas/Oil, Steam -  3500-4250 MBH", {
+      "entities": [
+        [0, 7, "FUEL_TYPE"],
+        [9, 14, "TYPE"],
+        [18, 31, "CAPACITY"]
+      ]
+    }],
+    ["Oil, HW", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 7, "TYPE"]
+      ]
+    }],
+    ["Oil, HW -  1300-2000 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 7, "TYPE"],
+        [11, 24, "CAPACITY"]
+      ]
+    }],
+    ["Oil, Steam -   200-700 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 10, "TYPE"],
+        [15, 26, "CAPACITY"]
+      ]
+    }],
+    ["Oil, Steam -  1300-2000 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 10, "TYPE"],
+        [14, 27, "CAPACITY"]
+      ]
+    }],
+    ["Solid Fuel - Natural Draft,   240-2800 MBH", {
+      "entities": [
+        [0, 10, "FUEL_TYPE"],
+        [13, 26, "TYPE"],
+        [30, 42, "CAPACITY"]
+      ]
+    }],
+    ["Solid Fuel - Natural Draft,   2800-3300 MBH", {
+      "entities": [
+        [0, 10, "FUEL_TYPE"],
+        [13, 26, "TYPE"],
+        [30, 43, "CAPACITY"]
+      ]
+    }],
+    ["Solid Fuel - Stoker Fired,   275-350 MBH", {
+      "entities": [
+        [0, 10, "FUEL_TYPE"],
+        [13, 25, "TYPE"],
+        [29, 40, "CAPACITY"]
+      ]
+    }],
+    ["Solid Fuel - Stoker Fired,  3100-3400 MBH", {
+      "entities": [
+        [0, 10, "FUEL_TYPE"],
+        [13, 25, "TYPE"],
+        [28, 41, "CAPACITY"]
+      ]
+    }],
+    ["Electric, 34.1 MBH", {
+      "entities": [
+        [0, 8, "FUEL_TYPE"],
+        [10, 18, "CAPACITY"]
+      ]
+    }],
+    ["Electric, 51.6 MBH", {
+      "entities": [
+        [0, 8, "FUEL_TYPE"],
+        [10, 18, "CAPACITY"]
+      ]
+    }],
+    ["Gas, 400 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 12, "CAPACITY"]
+      ]
+    }],
+    ["Gas, 45 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 11, "CAPACITY"]
+      ]
+    }],
+    ["Oil, 400 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 12, "CAPACITY"]
+      ]
+    }],
+    ["Oil, 56 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 11, "CAPACITY"]
+      ]
+    }],
+    ["Gas - 20 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [6, 12, "CAPACITY"]
+      ]
+    }],
+    ["Gas - 200 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [6, 13, "CAPACITY"]
+      ]
+    }],
+    ["Boiler Feedwater Tank", {
+      "entities": [
+        [0, 21, "EQUIPMENT"]
+      ]
+    }],
+    ["Boiler Feedwater Tank - Shot chemical feeder, by pass, floor mount, 10 gal", {
+      "entities": [
+        [0, 21, "EQUIPMENT"],
+        [24, 66, "TYPE"],
+        [68, 74, "CAPACITY"]
+      ]
+    }],
+    ["Chemical Feedwater - 150 lb., 5 gallon, ASME", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [21, 28, "SIZE"],
+        [30, 38, "CAPACITY"]
+      ]
+    }],
+    ["Chemical Feedwater - 175 PSIG, 12 gallon", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [21, 29, "SIZE"],
+        [31, 40, "CAPACITY"]
+      ]
+    }],
+    ["Expansion Tank - 240 gal", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 24, "CAPACITY"]
+      ]
+    }],
+    ["Expansion Tank - 30 gal", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 23, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Gas, Water Cooled - 1000 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 24, "FUEL_TYPE"],
+        [26, 38, "COOLING_TYPE"],
+        [41, 48, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Gas, Water Cooled - 100 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 24, "FUEL_TYPE"],
+        [26, 38, "COOLING_TYPE"],
+        [41, 47, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Steam, Water Cooled -  70 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 26, "FUEL_TYPE"],
+        [28, 40, "COOLING_TYPE"],
+        [44, 49, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Steam, Water Cooled -  750 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 26, "FUEL_TYPE"],
+        [28, 40, "COOLING_TYPE"],
+        [44, 50, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Centrifugal, Water Cooled", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 20, "TYPE"],
+        [22, 34, "COOLING_TYPE"]
+      ]
+    }],
+    ["Chiller, Centrifugal, Water Cooled -  200 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 20, "TYPE"],
+        [22, 34, "COOLING_TYPE"],
+        [38, 44, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Reciprocating, Air Cooled -  90 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 22, "TYPE"],
+        [24, 34, "COOLING_TYPE"],
+        [38, 43, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Reciprocating, Air Cooled - 100 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 22, "TYPE"],
+        [24, 34, "COOLING_TYPE"],
+        [37, 43, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Reciprocating, Water Cooled", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 22, "TYPE"],
+        [24, 36, "COOLING_TYPE"]
+      ]
+    }],
+    ["Chiller, Reciprocating, Water Cooled -  60 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 22, "TYPE"],
+        [24, 36, "COOLING_TYPE"],
+        [40, 45, "CAPACITY"]
+      ]
+    }],
+    ["Cooling Tower, Fiberglass -   60 TN", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 25, "TYPE"],
+        [30, 35, "CAPACITY"]
+      ]
+    }],
+    ["Cooling Tower, Fiberglass -  125 TN", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 25, "TYPE"],
+        [29, 35, "CAPACITY"]
+      ]
+    }],
+    ["Cooling Tower, Galvanized -   60 TN", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 25, "TYPE"],
+        [30, 35, "CAPACITY"]
+      ]
+    }],
+    ["Cooling Tower, Galvanized -  110 TN", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 25, "TYPE"],
+        [29, 35, "CAPACITY"]
+      ]
+    }],
+    ["Cooling Tower, Stainless Steel -   60 TN", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 30, "TYPE"],
+        [35, 40, "CAPACITY"]
+      ]
+    }],
+    ["Cooling Tower, Stainless Steel -  110 TN", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 30, "TYPE"],
+        [34, 40, "CAPACITY"]
+      ]
+    }],
+    ["Condenser, DX, Air Cooled - Belt Drive, 45 ton", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 25, "COOLING_TYPE"],
+        [28, 38, "TYPE"],
+        [40, 46, "CAPACITY"]
+      ]
+    }],
+    ["Condenser, DX, Air Cooled - Belt Drive, 471 ton", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 25, "COOLING_TYPE"],
+        [28, 38, "TYPE"],
+        [40, 47, "CAPACITY"]
+      ]
+    }],
+    ["Condenser, DX, Air Cooled - Direct Drive, 3-1/2 ton", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 25, "COOLING_TYPE"],
+        [28, 40, "TYPE"],
+        [42, 51, "CAPACITY"]
+      ]
+    }],
+    ["Condenser, DX, Air Cooled - Direct Drive, 118 ton", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 25, "COOLING_TYPE"],
+        [28, 40, "TYPE"],
+        [42, 49, "CAPACITY"]
+      ]
+    }],
+    ["Condenser, DX, Air Cooled - Direct Drive, 12 ton", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 25, "COOLING_TYPE"],
+        [28, 40, "TYPE"],
+        [42, 48, "CAPACITY"]
+      ]
+    }],
+    ["Condenser, DX, Evaporative - 185 ton", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 26, "COOLING_TYPE"],
+        [29, 36, "CAPACITY"]
+      ]
+    }],
+    ["Condenser, DX, Evaporative - 20 ton", {
+      "entities": [
+        [0, 13, "EQUIPMENT"],
+        [15, 26, "COOLING_TYPE"],
+        [29, 35, "CAPACITY"]
+      ]
+    }],
+    ["Dehumidifier - 66.5 lb./Hr., 500 CFM", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [15, 27, "CAPACITY"],
+        [29, 36, "FLOWRATE"]
+      ]
+    }],
+    ["Dehumidifier - 33 lb./Hr., 1500 CFM", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [15, 25, "CAPACITY"],
+        [27, 35, "FLOWRATE"]
+      ]
+    }],
+    ["Dehumidifier - 33 to 40 lb./Hr., 125 CFM", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [15, 31, "CAPACITY"],
+        [33, 40, "FLOWRATE"]
+      ]
+    }],
+    ["Dehumidifier - 4000 to 5150 lb./Hr., 1,000 CFM", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [15, 35, "CAPACITY"],
+        [37, 46, "FLOWRATE"]
+      ]
+    }],
+    ["Dehumidifier - 53 to 69 lb./Hr., 2,000 CFM", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [15, 31, "CAPACITY"],
+        [33, 42, "FLOWRATE"]
+      ]
+    }],
+    ["Humidifier - 10 lb. per hour", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [13, 28, "CAPACITY"]
+      ]
+    }],
+    ["Humidifier - 220 lb. per hour", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [13, 29, "CAPACITY"]
+      ]
+    }],
+    ["VAV Terminal - 200 CFM, Cooling Only", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [15, 22, "FLOWRATE"],
+        [24, 36, "HEATING_TYPE"]
+      ]
+    }],
+    ["VAV Terminal - 200 CFM, Hot Water Reheat", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [15, 22, "FLOWRATE"],
+        [24, 40, "HEATING_TYPE"]
+      ]
+    }],
+    ["VAV Terminal - 40 CFM, Cooling Only", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [15, 21, "FLOWRATE"],
+        [23, 35, "HEATING_TYPE"]
+      ]
+    }],
+    ["VAV Terminal - 40 CFM, Hot Water Reheat", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [15, 21, "FLOWRATE"],
+        [23, 39, "HEATING_TYPE"]
+      ]
+    }],
+    ["VAV Terminal, Fan Powered - 200 CFM, Cooling Only", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 25, "TYPE"],
+        [28, 35, "FLOWRATE"],
+        [37, 49, "HEATING_TYPE"]
+      ]
+    }],
+    ["VAV Terminal, Fan Powered", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 25, "TYPE"]
+      ]
+    }],
+    ["VAV Terminal, Fan Powered - 200 CFM, Hot Water Reheat", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 25, "TYPE"],
+        [28, 35, "FLOWRATE"],
+        [37, 53, "HEATING_TYPE"]
+      ]
+    }],
+    ["VAV Terminal, Fan Powered - 4000 CFM, Cooling Only", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 25, "TYPE"],
+        [28, 36, "FLOWRATE"],
+        [38, 50, "HEATING_TYPE"]
+      ]
+    }],
+    ["VAV Terminal, Fan Powered - 4000 CFM, Hot Water Reheat", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 25, "TYPE"],
+        [28, 36, "FLOWRATE"],
+        [38, 54, "HEATING_TYPE"]
+      ]
+    }],
+    ["Heat Exchanger, Plate Type - 40 GPM", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [16, 26, "TYPE"],
+        [29, 35, "FLOWRATE"]
+      ]
+    }],
+    ["Heat Exchanger, Plate Type - 80 GPM", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [16, 26, "TYPE"],
+        [29, 35, "FLOWRATE"]
+      ]
+    }],
+    ["Heat Exchanger, Shell & Tube", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [16, 28, "TYPE"]
+      ]
+    }],
+    ["Heat Exchanger, Shell & Tube - 24 GPM", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [16, 28, "TYPE"],
+        [31, 37, "FLOWRATE"]
+      ]
+    }],
+    ["Heat Exchanger, Shell & Tube - 4000 GPM", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [16, 28, "TYPE"],
+        [31, 39, "FLOWRATE"]
+      ]
+    }],
+    ["Circulating Pump, Double Suction - 3\" size, 100 HP, to 3000 GPM", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [18, 32, "TYPE"],
+        [35, 37, "SIZE"],
+        [44, 50, "POWER"],
+        [52, 63, "FLOWRATE"]
+      ]
+    }],
+    ["Circulating Pump, Double Suction - 4\" size, 75 HP, to 2500 GPM", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [18, 32, "TYPE"],
+        [35, 37, "SIZE"],
+        [44, 49, "POWER"],
+        [51, 62, "FLOWRATE"]
+      ]
+    }],
+    ["Circulating Pump, End Suction", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [18, 29, "TYPE"]
+      ]
+    }],
+    ["Circulating Pump, End Suction - 1-1/2\" size, 3 HP, to 150 GPM", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [18, 29, "TYPE"],
+        [32, 38, "SIZE"],
+        [45, 49, "POWER"],
+        [51, 61, "FLOWRATE"]
+      ]
+    }],
+    ["Circulating Pump, End Suction - 6\" size, 5 HP, to 225 GPM", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [18, 29, "TYPE"],
+        [32, 34, "SIZE"],
+        [41, 45, "POWER"],
+        [47, 57, "FLOWRATE"]
+      ]
+    }],
+    ["Commercial/Industrial Vacuum Dust Collection - 3000 CFM", {
+      "entities": [
+        [0, 44, "EQUIPMENT"],
+        [47, 55, "FLOWRATE"]
+      ]
+    }],
+    ["Commercial/Industrial Vacuum Dust Collection - 500 CFM", {
+      "entities": [
+        [0, 44, "EQUIPMENT"],
+        [47, 54, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Roof Exhaust - 350 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [27, 34, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Roof Exhaust - 50 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [27, 33, "FLOWRATE"]
+      ]
+    }],
+    ["Fume Hood Exhaust System - 5', 200 CFM", {
+      "entities": [
+        [0, 24, "EQUIPMENT"],
+        [27, 29, "SIZE"],
+        [31, 38, "FLOWRATE"]
+      ]
+    }],
+    ["Fume Hood Exhaust System - 7', 4500 CFM", {
+      "entities": [
+        [0, 24, "EQUIPMENT"],
+        [27, 29, "SIZE"],
+        [31, 39, "FLOWRATE"]
+      ]
+    }],
+    ["Garage Exhaust Systems - Dual exhaust, 3\" outlets, pair of adjoining bays", {
+      "entities": [
+        [0, 22, "EQUIPMENT"],
+        [25, 37, "TYPE"],
+        [39, 41, "SIZE"]
+      ]
+    }],
+    ["Garage Exhaust Systems - Single exhaust, 3\" outlet, 1 bay", {
+      "entities": [
+        [0, 22, "EQUIPMENT"],
+        [25, 39, "TYPE"],
+        [41, 43, "SIZE"]
+      ]
+    }],
+    ["Industrial Exhaust System - 1060 CFM, 2-1/2 H.P.", {
+      "entities": [
+        [0, 25, "EQUIPMENT"],
+        [28, 36, "FLOWRATE"],
+        [38, 47, "POWER"]
+      ]
+    }],
+    ["Industrial Exhaust System - 12,000 CFM, 30 H.P.", {
+      "entities": [
+        [0, 25, "EQUIPMENT"],
+        [28, 38, "FLOWRATE"],
+        [40, 46, "POWER"]
+      ]
+    }],
+    ["Industrial Exhaust System - 300 CFM, 3 H.P.", {
+      "entities": [
+        [0, 25, "EQUIPMENT"],
+        [28, 35, "FLOWRATE"],
+        [37, 42, "POWER"]
+      ]
+    }],
+    ["Industrial Exhaust System - 4000 CFM, 6-1/2 H.P.", {
+      "entities": [
+        [0, 25, "EQUIPMENT"],
+        [28, 36, "FLOWRATE"],
+        [38, 47, "POWER"]
+      ]
+    }],
+    ["Kitchen Exhaust/Make-Up Air - 6,000 CFM", {
+      "entities": [
+        [0, 27, "EQUIPMENT"],
+        [30, 39, "FLOWRATE"]
+      ]
+    }],
+    ["Kitchen Exhaust/Make-Up Air - 200 CFM", {
+      "entities": [
+        [0, 27, "EQUIPMENT"],
+        [30, 37, "FLOWRATE"]
+      ]
+    }],
+    ["Central Station - 1030 CFM, VAV", {
+      "entities": [
+        [0, 15, "EQUIPMENT"],
+        [18, 26, "FLOWRATE"],
+        [28, 31, "TYPE"]
+      ]
+    }],
+    ["Central Station - 15002 CFM", {
+      "entities": [
+        [0, 15, "EQUIPMENT"],
+        [18, 27, "FLOWRATE"]
+      ]
+    }],
+    ["Field Fabricated - 150400 CFM, VAV", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 34, "TYPE"]
+      ]
+    }],
+    ["Field Fabricated - 40030 CFM", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 28, "FLOWRATE"]
+      ]
+    }],
+    ["Rooftop -  5020 CFM, VAV", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [11, 19, "FLOWRATE"],
+        [21, 24, "TYPE"]
+      ]
+    }],
+    ["Rooftop", {
+      "entities": [
+        [0, 7, "EQUIPMENT"]
+      ]
+    }],
+    ["Rooftop ", {
+      "entities": [
+        [0, 7, "EQUIPMENT"]
+      ]
+    }],
+    ["Rooftop - 1040 CFM", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [10, 18, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Centrifugal In-Line - 3500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 31, "TYPE"],
+        [34, 42, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Centrifugal In-Line - 500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 31, "TYPE"],
+        [34, 41, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Utility Set - 20,000 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 23, "TYPE"],
+        [26, 36, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Utility Set - 2000 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 23, "TYPE"],
+        [26, 34, "FLOWRATE"]
+      ]
+    }],
+    ["Hydronic - 20 MBH", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [11, 17, "CAPACITY"]
+      ]
+    }],
+    ["Infrared - 105 MBH", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [11, 18, "CAPACITY"]
+      ]
+    }],
+    ["Infrared - 119,000 BTU", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [11, 22, "CAPACITY"]
+      ]
+    }],
+    ["Infrared - 13.5 kW, 40,956 BTU", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [11, 18, "POWER"],
+        [20, 30, "CAPACITY"]
+      ]
+    }],
+    ["Cab Mount, Four Pipe - 2-7/8 ton", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [11, 20, "TYPE"],
+        [23, 32, "CAPACITY"]
+      ]
+    }],
+    ["Cab Mount, Four Pipe - 3 ton", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [11, 20, "TYPE"],
+        [23, 28, "CAPACITY"]
+      ]
+    }],
+    ["Cab Mount, Two Pipe - 1 ton", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [11, 19, "TYPE"],
+        [22, 27, "CAPACITY"]
+      ]
+    }],
+    ["Cab Mount, Two Pipe - 4-3/4 ton, Elec. Heat", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [11, 19, "TYPE"],
+        [22, 31, "CAPACITY"],
+        [33, 43, "HEATING_TYPE"]
+      ]
+    }],
+    ["Duct Mount, 4 Pipe - 11 ton", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 18, "TYPE"],
+        [21, 27, "CAPACITY"]
+      ]
+    }],
+    ["Duct Mount, 4 Pipe - 5-1/2 ton", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 18, "TYPE"],
+        [21, 30, "CAPACITY"]
+      ]
+    }],
+    ["Duct Mount, 4 Pipe - 3.5 ton", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 18, "TYPE"],
+        [21, 28, "CAPACITY"]
+      ]
+    }],
+    ["DX - 1.5 ton", {
+      "entities": [
+        [0, 2, "EQUIPMENT"],
+        [5, 12, "CAPACITY"]
+      ]
+    }],
+    ["DX - 10 ton", {
+      "entities": [
+        [0, 2, "EQUIPMENT"],
+        [5, 11, "CAPACITY"]
+      ]
+    }],
+    ["Baseboard Heating", {
+      "entities": [
+        [0, 17, "EQUIPMENT"]
+      ]
+    }],
+    ["Baseboard Heating - 3' long", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [20, 22, "SIZE"]
+      ]
+    }],
+    ["208-240 volt, 13 kW", {
+      "entities": [
+        [0, 12, "VOLTAGE"],
+        [14, 19, "POWER"]
+      ]
+    }],
+    ["480 volt, 21 kW", {
+      "entities": [
+        [0, 8, "VOLTAGE"],
+        [10, 15, "POWER"]
+      ]
+    }],
+    ["A/C Unit, Computer Room - Air Cooled, 7 ton", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 23, "TYPE"],
+        [26, 36, "COOLING_TYPE"],
+        [38, 43, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Computer Room - Chilled Water, 11 ton", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 23, "TYPE"],
+        [26, 39, "COOLING_TYPE"],
+        [41, 47, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Computer Room - Glycol System, 7 ton", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 23, "TYPE"],
+        [26, 39, "COOLING_TYPE"],
+        [41, 46, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Computer Room - Water Cooled, 23 ton", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 23, "TYPE"],
+        [26, 38, "COOLING_TYPE"],
+        [40, 46, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Thru-Wall - 7-1/2 ton", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 19, "TYPE"],
+        [22, 31, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump, Air Source, Roof Top - 44 ton", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [11, 31, "TYPE"],
+        [34, 40, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump, Duct Mounted, Horizontal - 7-1/2 ton", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [11, 35, "TYPE"],
+        [38, 47, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump, Thru-Wall - 9/10 ton", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [11, 20, "TYPE"],
+        [23, 31, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump, Water Source, Central Station - 44 ton", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [11, 40, "TYPE"],
+        [43, 49, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump, Water Source, Console - 3-7/8 ton", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [11, 32, "TYPE"],
+        [35, 44, "CAPACITY"]
+      ]
+    }],
+    ["Packaged A/C, Air Cooled, Elec Heat - 52 ton", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 24, "COOLING_TYPE"],
+        [26, 35, "HEATING_TYPE"],
+        [38, 44, "CAPACITY"]
+      ]
+    }],
+    ["Packaged A/C, Air Cooled, Elec Heat - 21 ton, VAV", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 24, "COOLING_TYPE"],
+        [26, 35, "HEATING_TYPE"],
+        [38, 44, "CAPACITY"],
+        [46, 49, "TYPE"]
+      ]
+    }],
+    ["Packaged A/C, Air Cooled, HW Heat - 4 ton", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 24, "COOLING_TYPE"],
+        [26, 33, "HEATING_TYPE"],
+        [36, 41, "CAPACITY"]
+      ]
+    }],
+    ["Packaged A/C, Air Cooled, HW Heat - 63 ton, VAV", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 24, "COOLING_TYPE"],
+        [26, 33, "HEATING_TYPE"],
+        [36, 42, "CAPACITY"],
+        [44, 47, "TYPE"]
+      ]
+    }],
+    ["Packaged A/C, Water Cooled, Elec Heat - 20 ton", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 26, "COOLING_TYPE"],
+        [28, 37, "HEATING_TYPE"],
+        [40, 46, "CAPACITY"]
+      ]
+    }],
+    ["Packaged A/C, Water Cooled, Elec Heat - 64 ton, VAV", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 26, "COOLING_TYPE"],
+        [28, 37, "HEATING_TYPE"],
+        [40, 46, "CAPACITY"],
+        [48, 51, "TYPE"]
+      ]
+    }],
+    ["Packaged A/C, Water Cooled, HW Heat - 40 ton", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 26, "COOLING_TYPE"],
+        [28, 35, "HEATING_TYPE"],
+        [38, 44, "CAPACITY"]
+      ]
+    }],
+    ["Packaged A/C, Water Cooled, HW Heat - 40 ton, VAV", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [14, 26, "COOLING_TYPE"],
+        [28, 35, "HEATING_TYPE"],
+        [38, 44, "CAPACITY"],
+        [46, 49, "TYPE"]
+      ]
+    }],
+    ["Packaged DX Refrigerant System - Air Cooled, 7.5 ton", {
+      "entities": [
+        [0, 30, "EQUIPMENT"],
+        [33, 43, "COOLING_TYPE"],
+        [45, 52, "CAPACITY"]
+      ]
+    }],
+    ["Packaged DX Refrigerant System - Air Cooled, 75 ton", {
+      "entities": [
+        [0, 30, "EQUIPMENT"],
+        [33, 43, "COOLING_TYPE"],
+        [45, 51, "CAPACITY"]
+      ]
+    }],
+    ["Packaged DX Refrigerant System - Water Cooled, 43 ton", {
+      "entities": [
+        [0, 30, "EQUIPMENT"],
+        [33, 45, "COOLING_TYPE"],
+        [47, 53, "CAPACITY"]
+      ]
+    }],
+    ["Packaged DX Refrigerant System - Water Cooled, 5 Ton", {
+      "entities": [
+        [0, 30, "EQUIPMENT"],
+        [33, 45, "COOLING_TYPE"],
+        [47, 52, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Unit - 7-1/2 ton", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [15, 24, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Unit - 6-3/4 ton, VAV", {
+      "entities": [
+        [0, 12, "EQUIPMENT"],
+        [15, 24, "CAPACITY"],
+        [26, 29, "TYPE"]
+      ]
+    }],
+    ["207-230 volt, 6 kW", {
+      "entities": [
+        [0, 12, "VOLTAGE"],
+        [14, 18, "POWER"]
+      ]
+    }],
+    ["490 volt, 1 kW", {
+      "entities": [
+        [0, 8, "VOLTAGE"],
+        [10, 14, "POWER"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 1.5 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 90, "SYSTEM_TYPE"],
+        [92, 98, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 5 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 90, "SYSTEM_TYPE"],
+        [92, 96, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 10 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 90, "SYSTEM_TYPE"],
+        [92, 97, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Fan Coil Air Conditioning Cabinet Mounted filter controls, DX, 20 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 90, "SYSTEM_TYPE"],
+        [92, 97, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Packaged Terminal AC, 6,000 BTUH cooling, 8,800 BTUH heat", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 49, "SYSTEM_TYPE"],
+        [51, 86, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Packaged Terminal AC, 9,000 BTUH cooling, 13,900 BTUH heat", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 49, "SYSTEM_TYPE"],
+        [51, 87, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Packaged Terminal AC, 12,000 BTUH cooling, 13,900 BTUH heat", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 49, "SYSTEM_TYPE"],
+        [51, 88, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Packaged Terminal AC, 15,000 BTUH cooling, 13,900 BTUH heat", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 49, "SYSTEM_TYPE"],
+        [51, 88, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Packaged Terminal AC, 18,000 BTUH, 10 kw", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 49, "SYSTEM_TYPE"],
+        [51, 69, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Packaged Terminal AC, 24,000 BTUH, 10 kw", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 49, "SYSTEM_TYPE"],
+        [51, 69, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Packaged Terminal AC, 30,000 BTUH, 10 kw", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 49, "SYSTEM_TYPE"],
+        [51, 69, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Packaged Terminal AC, 36,000 BTUH, 10 kw", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 49, "SYSTEM_TYPE"],
+        [51, 69, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Packaged Terminal AC, 42,000 BTUH, 10 kw", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 49, "SYSTEM_TYPE"],
+        [51, 69, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Package Terminal - Packaged Terminal AC, 48,000 BTUH, 10 kw", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 26, "TYPE"],
+        [29, 49, "SYSTEM_TYPE"],
+        [51, 69, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Split Systems w/ Air Cooled Condenser", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 47, "TYPE"]
+      ]
+    }],
+    ["A/C Unit, Split Systems w/ Air Cooled Condenser - 2 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 47, "TYPE"],
+        [50, 54, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Split Systems w/ Air Cooled Condenser - 3 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 47, "TYPE"],
+        [50, 54, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Split Systems w/ Air Cooled Condenser - 4 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 47, "TYPE"],
+        [50, 54, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Split Systems w/ Air Cooled Condenser - 5 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 47, "TYPE"],
+        [50, 54, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Split Systems w/ Air Cooled Condenser - 10 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 47, "TYPE"],
+        [50, 55, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Split Systems w/ Air Cooled Condenser - 35 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 47, "TYPE"],
+        [50, 55, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Split Systems w/ Air Cooled Condenser - 45 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 47, "TYPE"],
+        [50, 55, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Split Systems w/ Air Cooled Condenser - 60 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 47, "TYPE"],
+        [50, 55, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Split Systems w/ Air Cooled Condenser - 75 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 47, "TYPE"],
+        [50, 55, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Split Systems w/ Air Cooled Condenser - 100 TN", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 47, "TYPE"],
+        [50, 56, "CAPACITY"]
+      ]
+    }],
+    ["A/C Unit, Window", {
+      "entities": [
+        [0, 8, "EQUIPMENT"],
+        [10, 16, "TYPE"]
+      ]
+    }],
+    ["Chiller, Absorption, Gas, Water Cooled - 5 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 24, "FUEL_TYPE"],
+        [26, 38, "COOLING_TYPE"],
+        [41, 45, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Gas, Water Cooled - 10 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 24, "FUEL_TYPE"],
+        [26, 38, "COOLING_TYPE"],
+        [41, 46, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Gas, Water Cooled - 100 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 24, "FUEL_TYPE"],
+        [26, 38, "COOLING_TYPE"],
+        [41, 47, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Gas, Water Cooled - 200 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 24, "FUEL_TYPE"],
+        [26, 38, "COOLING_TYPE"],
+        [41, 47, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Gas, Water Cooled - 400 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 24, "FUEL_TYPE"],
+        [26, 38, "COOLING_TYPE"],
+        [41, 47, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Gas, Water Cooled - 600 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 24, "FUEL_TYPE"],
+        [26, 38, "COOLING_TYPE"],
+        [41, 47, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Steam, Water Cooled - 100 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 26, "FUEL_TYPE"],
+        [28, 40, "COOLING_TYPE"],
+        [43, 49, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Steam, Water Cooled - 200 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 26, "FUEL_TYPE"],
+        [28, 40, "COOLING_TYPE"],
+        [43, 49, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Absorption, Steam, Water Cooled - 420 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 19, "TYPE"],
+        [21, 26, "FUEL_TYPE"],
+        [28, 40, "COOLING_TYPE"],
+        [43, 49, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Centrifugal, Water Cooled -  600 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 20, "TYPE"],
+        [22, 34, "COOLING_TYPE"],
+        [38, 44, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Centrifugal, Water Cooled -  800 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 20, "TYPE"],
+        [22, 34, "COOLING_TYPE"],
+        [38, 44, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Centrifugal, Water Cooled -  1250 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 20, "TYPE"],
+        [22, 34, "COOLING_TYPE"],
+        [38, 45, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Rotary Screw", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 80 TN, Water Cooled Screw Liquid Chiller", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 29, "CAPACITY"],
+        [31, 43, "COOLING_TYPE"],
+        [44, 64, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 130 TN, Air Cooled Screw Liquid Chiller", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 30, "CAPACITY"],
+        [32, 42, "COOLING_TYPE"],
+        [43, 63, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 150 TN, Water Cooled Screw Liquid Chiller, Dual Compressors", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 30, "CAPACITY"],
+        [32, 44, "COOLING_TYPE"],
+        [45, 83, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 160 TN, Air Cooled Screw Liquid Chiller", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 30, "CAPACITY"],
+        [32, 42, "COOLING_TYPE"],
+        [43, 63, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 180 TN, Air Cooled Screw Liquid Chiller", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 30, "CAPACITY"],
+        [32, 42, "COOLING_TYPE"],
+        [43, 63, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 200 TN, Water Cooled Screw Liquid Chiller", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 30, "CAPACITY"],
+        [32, 44, "COOLING_TYPE"],
+        [45, 65, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 200 TN, Water Cooled Screw Liquid Chiller, Dual Compressors", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 30, "CAPACITY"],
+        [32, 44, "COOLING_TYPE"],
+        [45, 83, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 210 TN, Air Cooled Screw Liquid Chiller", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 30, "CAPACITY"],
+        [32, 42, "COOLING_TYPE"],
+        [43, 63, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 279 TN, Air Cooled Screw Liquid Chiller", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 30, "CAPACITY"],
+        [32, 42, "COOLING_TYPE"],
+        [43, 63, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 241 TN, Water Cooled Screw Liquid Chiller, Dual Compressors", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 30, "CAPACITY"],
+        [32, 44, "COOLING_TYPE"],
+        [45, 83, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 328 TN, Air Cooled Screw Liquid Chiller", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 30, "CAPACITY"],
+        [32, 42, "COOLING_TYPE"],
+        [43, 63, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Rotary Screw - 350 TN, Water Cooled Screw Liquid Chiller", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 21, "TYPE"],
+        [24, 30, "CAPACITY"],
+        [32, 44, "COOLING_TYPE"],
+        [45, 65, "SYSTEM_TYPE"]
+      ]
+    }],
+    ["Chiller, Scroll", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"]
+      ]
+    }],
+    ["Chiller, Scroll - 25 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 23, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 50 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 23, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 78 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 23, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 100 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 24, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 125 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 24, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 150 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 24, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 165 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 24, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 180 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 24, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 200 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 24, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 225 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 24, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 250 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 24, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 275 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 24, "CAPACITY"]
+      ]
+    }],
+    ["Chiller, Scroll - 300 TN", {
+      "entities": [
+        [0, 7, "EQUIPMENT"],
+        [9, 15, "TYPE"],
+        [18, 24, "CAPACITY"]
+      ]
+    }],
+    ["Circulating Pump - 8 1/2 HP", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 27, "POWER"]
+      ]
+    }],
+    ["Circulating Pump - 1 HP", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 23, "POWER"]
+      ]
+    }],
+    ["Circulating Pump - 1/2 HP", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 25, "POWER"]
+      ]
+    }],
+    ["Circulating Pump - 1/4 HP", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 25, "POWER"]
+      ]
+    }],
+    ["Circulating Pump, End Suction - 4\" size, 10 HP", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [18, 29, "TYPE"],
+        [32, 34, "SIZE"],
+        [41, 46, "POWER"]
+      ]
+    }],
+    ["Condensate Pumping System > 25 HP (Single and Duplex)", {
+      "entities": [
+        [0, 25, "EQUIPMENT"],
+        [26, 33, "POWER"]
+      ]
+    }],
+    ["Condensate Pumping System 1 - 5 HP (Single and Duplex)", {
+      "entities": [
+        [0, 25, "EQUIPMENT"],
+        [26, 34, "POWER"]
+      ]
+    }],
+    ["Condensate Pumping System 5 - 25 HP (Single and Duplex)", {
+      "entities": [
+        [0, 25, "EQUIPMENT"],
+        [26, 35, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, Double Suction – 50 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 36, "TYPE"],
+        [39, 44, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, Double Suction – 75 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 36, "TYPE"],
+        [39, 44, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, Double Suction – 100 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 36, "TYPE"],
+        [39, 45, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, Double Suction – 150 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 36, "TYPE"],
+        [39, 45, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, Double Suction – 200 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 36, "TYPE"],
+        [39, 45, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, Double Suction – 250 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 36, "TYPE"],
+        [39, 45, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, Double Suction – 300 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 36, "TYPE"],
+        [39, 45, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, End Suction – 3 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 33, "TYPE"],
+        [36, 40, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, End Suction – 9 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 33, "TYPE"],
+        [36, 40, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, End Suction – 7-1/2 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 33, "TYPE"],
+        [36, 44, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, End Suction – 19 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 33, "TYPE"],
+        [36, 41, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, End Suction – 15 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 33, "TYPE"],
+        [36, 41, "POWER"]
+      ]
+    }],
+    ["Condenser Water Pump, End Suction – 25 HP", {
+      "entities": [
+        [0, 20, "EQUIPMENT"],
+        [22, 33, "TYPE"],
+        [36, 41, "POWER"]
+      ]
+    }],
+    ["Evaporative Cooler", {
+      "entities": [
+        [0, 18, "EQUIPMENT"]
+      ]
+    }],
+    ["Evaporative Cooler -  1785 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [22, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Evaporative Cooler -  2740 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [22, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Evaporative Cooler -  3235 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [22, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Evaporative Cooler -  3625 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [22, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Evaporative Cooler -  4215 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [22, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Evaporative Cooler -  5255 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [22, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Evaporative Cooler -  6090 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [22, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Evaporative Cooler -  8300 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [22, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Evaporative Cooler -  8360 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [22, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Evaporative Cooler -  7725 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [22, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Evaporative Cooler - 11715 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [21, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Evaporative Cooler - 14410 CFM", {
+      "entities": [
+        [0, 18, "EQUIPMENT"],
+        [21, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Expansion Tank - 1,200 gal", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 26, "CAPACITY"]
+      ]
+    }],
+    ["Expansion Tank - 2,500 gal", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 26, "CAPACITY"]
+      ]
+    }],
+    ["Expansion Tank - 528 gal", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 24, "CAPACITY"]
+      ]
+    }],
+    ["Fan System, Axial", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 17, "TYPE"]
+      ]
+    }],
+    ["Fan System, Axial  - 540 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 17, "TYPE"],
+        [21, 28, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Axial  - 1300 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 17, "TYPE"],
+        [21, 29, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Axial  - 4500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 17, "TYPE"],
+        [21, 29, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Axial  - 2500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 17, "TYPE"],
+        [21, 29, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Axial  - 5000 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 17, "TYPE"],
+        [21, 29, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Axial  - 7500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 17, "TYPE"],
+        [21, 29, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Axial - 11,000 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 17, "TYPE"],
+        [20, 30, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Axial - 3500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 17, "TYPE"],
+        [20, 28, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Large Blade Destratification Fan", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 44, "TYPE"]
+      ]
+    }],
+    ["Fan System, Residential Exhaust", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 31, "TYPE"]
+      ]
+    }],
+    ["Fan System, Wall Exhaust", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"]
+      ]
+    }],
+    ["Fan System, Wall Exhaust - 13,800 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [27, 37, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall Exhaust - 500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [27, 34, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall Exhaust - 800 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [27, 34, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall Exhaust - 1500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [27, 35, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall Exhaust - 2750 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [27, 35, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall Exhaust - 3500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [27, 35, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall Exhaust - 5000 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [27, 35, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall Exhaust - 8500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [27, 35, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall exhaust, 10,100 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [26, 36, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall exhaust, 14,300 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [26, 36, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall exhaust, 19,800 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [26, 36, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall exhaust, 26,250 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [26, 36, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall exhaust, 38,500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [26, 36, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall exhaust, 46,000 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [26, 36, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall exhaust, 51,500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [26, 36, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall exhaust, 6175 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [26, 34, "FLOWRATE"]
+      ]
+    }],
+    ["Fan System, Wall exhaust, 7500 CFM", {
+      "entities": [
+        [0, 10, "EQUIPMENT"],
+        [12, 24, "TYPE"],
+        [26, 34, "FLOWRATE"]
+      ]
+    }],
+    ["Fuel Storage Tank", {
+      "entities": [
+        [0, 17, "EQUIPMENT"]
+      ]
+    }],
+    ["Fuel Storage Tank - Fuel Storage Tank, 1000 GAL", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [39, 47, "CAPACITY"]
+      ]
+    }],
+    ["Fuel Storage Tank - Fuel Storage Tank, 2509 GAL", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [39, 47, "CAPACITY"]
+      ]
+    }],
+    ["Fuel Storage Tank - Fuel Storage Tank, 5000 GAL", {
+      "entities": [
+        [0, 17, "EQUIPMENT"],
+        [39, 47, "CAPACITY"]
+      ]
+    }],
+    ["Gas, Pulse", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 10, "TYPE"]
+      ]
+    }],
+    ["Gas, Pulse - Pulse <100,000 BTU", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 10, "TYPE"],
+        [19, 31, "CAPACITY"]
+      ]
+    }],
+    ["Gas, Pulse - Pulse >100,000 BTU", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 10, "TYPE"],
+        [19, 31, "CAPACITY"]
+      ]
+    }],
+    ["Gas, Water Tube - Water Tube  <1500 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 15, "TYPE"],
+        [30, 39, "CAPACITY"]
+      ]
+    }],
+    ["Gas, Water Tube - Water Tube  1500-2000 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 15, "TYPE"],
+        [30, 43, "CAPACITY"]
+      ]
+    }],
+    ["Gas, Water Tube - Water Tube  2000-2700 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 15, "TYPE"],
+        [30, 43, "CAPACITY"]
+      ]
+    }],
+    ["Gas, Water Tube - Water Tube  2700-4000 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 15, "TYPE"],
+        [30, 43, "CAPACITY"]
+      ]
+    }],
+    ["Gas, Water Tube - Water Tube >4000 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 15, "TYPE"],
+        [29, 38, "CAPACITY"]
+      ]
+    }],
+    ["Gas/Oil, Fire Tube - Fire Tube   <5,090 MBH", {
+      "entities": [
+        [0, 7, "FUEL_TYPE"],
+        [9, 18, "TYPE"],
+        [33, 43, "CAPACITY"]
+      ]
+    }],
+    ["Gas/Oil, Fire Tube - Fire Tube   5,000-7,500 ", {
+      "entities": [
+        [0, 7, "FUEL_TYPE"],
+        [9, 18, "TYPE"],
+        [33, 44, "CAPACITY"]
+      ]
+    }],
+    ["Gas/Oil, Fire Tube - Fire Tube   7,500-12,590", {
+      "entities": [
+        [0, 7, "FUEL_TYPE"],
+        [9, 18, "TYPE"],
+        [33, 45, "CAPACITY"]
+      ]
+    }],
+    ["Gas/Oil, Fire Tube - Fire Tube  12,500-20,000", {
+      "entities": [
+        [0, 7, "FUEL_TYPE"],
+        [9, 18, "TYPE"],
+        [32, 45, "CAPACITY"]
+      ]
+    }],
+    ["Gas/Oil, Fire Tube - Fire Tube >20,000 MBH", {
+      "entities": [
+        [0, 7, "FUEL_TYPE"],
+        [9, 18, "TYPE"],
+        [31, 42, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Package Condenser/Evaporator/Air Handler - 1.5 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 50, "TYPE"],
+        [53, 59, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Package Condenser/Evaporator/Air Handler - 2 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 50, "TYPE"],
+        [53, 57, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Package Condenser/Evaporator/Air Handler - 2.5 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 50, "TYPE"],
+        [53, 59, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Package Condenser/Evaporator/Air Handler - 3 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 50, "TYPE"],
+        [53, 57, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Package Condenser/Evaporator/Air Handler - 5 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 50, "TYPE"],
+        [53, 57, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Package Condenser/Evaporator/Air Handler - 7.9 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 50, "TYPE"],
+        [53, 59, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Package Condenser/Evaporator/Air Handler -3.5 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 50, "TYPE"],
+        [52, 58, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Water Source Single Package - 1 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 37, "TYPE"],
+        [40, 44, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Water Source Single Package - 2 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 37, "TYPE"],
+        [40, 44, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Water Source Single Package - 3 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 37, "TYPE"],
+        [40, 44, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Water Source Single Package - 5 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 37, "TYPE"],
+        [40, 44, "CAPACITY"]
+      ]
+    }],
+    ["Heat Pump Water Source Single Package - 7.5 TN", {
+      "entities": [
+        [0, 9, "EQUIPMENT"],
+        [10, 37, "TYPE"],
+        [40, 46, "CAPACITY"]
+      ]
+    }],
+    ["Ice Bank", {
+      "entities": [
+        [0, 8, "EQUIPMENT"]
+      ]
+    }],
+    ["Indoor Modular", {
+      "entities": [
+        [0, 14, "EQUIPMENT"]
+      ]
+    }],
+    ["Indoor Modular - 10,000 CFM, 25 TN Central AHU", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 27, "FLOWRATE"],
+        [29, 34, "CAPACITY"],
+        [35, 46, "TYPE"]
+      ]
+    }],
+    ["Indoor Modular - 12,009 CFM, 30 TN Central AHU", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 27, "FLOWRATE"],
+        [29, 34, "CAPACITY"],
+        [35, 46, "TYPE"]
+      ]
+    }],
+    ["Indoor Modular - 3000 CFM, 7.5 TN Central AHU", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 25, "FLOWRATE"],
+        [27, 33, "CAPACITY"],
+        [34, 45, "TYPE"]
+      ]
+    }],
+    ["Indoor Modular - 3200 CFM, 8 TN Central AHU", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 25, "FLOWRATE"],
+        [27, 31, "CAPACITY"],
+        [32, 43, "TYPE"]
+      ]
+    }],
+    ["Indoor Modular - 4000 CFM, 10 TN Central AHU", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 25, "FLOWRATE"],
+        [27, 32, "CAPACITY"],
+        [33, 44, "TYPE"]
+      ]
+    }],
+    ["Indoor Modular - 4400 CFM, 11 TN Central AHU", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 25, "FLOWRATE"],
+        [27, 32, "CAPACITY"],
+        [33, 44, "TYPE"]
+      ]
+    }],
+    ["Indoor Modular - 6000 CFM, 15 TN Central AHU", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 25, "FLOWRATE"],
+        [27, 32, "CAPACITY"],
+        [33, 44, "TYPE"]
+      ]
+    }],
+    ["Indoor Modular - 7009 CFM, 17.9 TN Central AHU", {
+      "entities": [
+        [0, 14, "EQUIPMENT"],
+        [17, 25, "FLOWRATE"],
+        [27, 34, "CAPACITY"],
+        [35, 46, "TYPE"]
+      ]
+    }],
+    ["Industrial Exhaust System - 15,009 CFM, 59 H.P.", {
+      "entities": [
+        [0, 25, "EQUIPMENT"],
+        [28, 38, "FLOWRATE"],
+        [40, 46, "POWER"]
+      ]
+    }],
+    ["Industrial Exhaust System - 25,000 CFM, 75 H.P.", {
+      "entities": [
+        [0, 25, "EQUIPMENT"],
+        [28, 38, "FLOWRATE"],
+        [40, 46, "POWER"]
+      ]
+    }],
+    ["Industrial Exhaust System - 50,000 CFM, 100 H.P.", {
+      "entities": [
+        [0, 25, "EQUIPMENT"],
+        [28, 38, "FLOWRATE"],
+        [40, 47, "POWER"]
+      ]
+    }],
+    ["Make-Up Air Unit", {
+      "entities": [
+        [0, 16, "EQUIPMENT"]
+      ]
+    }],
+    ["Make-Up Air Unit - 19,000 CFM, 838 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 38, "CAPACITY"],
+        [40, 66, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 12,000 CFM, 1905 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 14,000 CFM, 1180 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 18,009 CFM, 1340 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 20,000 CFM, 1675 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 24,000 CFM, 2007 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 30,000 CFM, 2510 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 35,000 CFM, 2930 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 40,000 CFM, 3350 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 45,009 CFM, 3770 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 50,000 CFM, 4180 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 55,000 CFM, 4600 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 60,000 CFM, 5020 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 65,000 CFM, 5435 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 75,000 CFM, 6275 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 29, "FLOWRATE"],
+        [31, 39, "CAPACITY"],
+        [41, 67, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 2000 CFM, 168 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 27, "FLOWRATE"],
+        [29, 36, "CAPACITY"],
+        [38, 64, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 3000 CFM, 252 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 27, "FLOWRATE"],
+        [29, 36, "CAPACITY"],
+        [38, 64, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 4000 CFM, 336 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 27, "FLOWRATE"],
+        [29, 36, "CAPACITY"],
+        [38, 64, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 6009 CFM, 502 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 27, "FLOWRATE"],
+        [29, 36, "CAPACITY"],
+        [38, 64, "TYPE"]
+      ]
+    }],
+    ["Make-Up Air Unit - 8000 CFM, 670 MBH, includes standard controls", {
+      "entities": [
+        [0, 16, "EQUIPMENT"],
+        [19, 27, "FLOWRATE"],
+        [29, 36, "CAPACITY"],
+        [38, 64, "TYPE"]
+      ]
+    }],
+    ["Oil, Fire Tube -   <5000 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 14, "TYPE"],
+        [19, 28, "CAPACITY"]
+      ]
+    }],
+    ["Oil, Fire Tube -   5000-7500 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 14, "TYPE"],
+        [19, 32, "CAPACITY"]
+      ]
+    }],
+    ["Oil, Fire Tube -  12500-20000 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 14, "TYPE"],
+        [18, 33, "CAPACITY"]
+      ]
+    }],
+    ["Oil, Fire Tube - >20009 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 14, "TYPE"],
+        [17, 27, "CAPACITY"]
+      ]
+    }],
+    ["Oil, Water Tube -  1500-2000 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 15, "TYPE"],
+        [19, 32, "CAPACITY"]
+      ]
+    }],
+    ["Oil, Water Tube -  2000-2700 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 15, "TYPE"],
+        [19, 32, "CAPACITY"]
+      ]
+    }],
+    ["Oil, Water Tube - >4000 MBH", {
+      "entities": [
+        [0, 3, "FUEL_TYPE"],
+        [5, 15, "TYPE"],
+        [18, 27, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit", {
+      "entities": [
+        [0, 29, "EQUIPMENT"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 15 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 41, "TYPE"],
+        [43, 56, "COOLING_TYPE"],
+        [58, 66, "HEATING_TYPE"],
+        [68, 74, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 20 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 41, "TYPE"],
+        [43, 56, "COOLING_TYPE"],
+        [58, 66, "HEATING_TYPE"],
+        [68, 74, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 25 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 41, "TYPE"],
+        [43, 56, "COOLING_TYPE"],
+        [58, 66, "HEATING_TYPE"],
+        [68, 74, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - multizone, electric cool, gas heat, 30 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 41, "TYPE"],
+        [43, 56, "COOLING_TYPE"],
+        [58, 66, "HEATING_TYPE"],
+        [68, 74, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 2 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 75, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 3 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 75, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 4 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 75, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 5 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 75, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 6 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 75, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 7.5 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 77, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 10 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 76, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 12.9 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 78, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 15 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 76, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 18 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 76, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 20 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 76, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 25 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 76, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 30 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 76, "CAPACITY"]
+      ]
+    }],
+    ["Rooftop Air Conditioning Unit - single zone, electric cool, gas heat, 40 ton cooling", {
+      "entities": [
+        [0, 29, "EQUIPMENT"],
+        [32, 43, "TYPE"],
+        [45, 58, "COOLING_TYPE"],
+        [60, 68, "HEATING_TYPE"],
+        [70, 76, "CAPACITY"]
+      ]
+    }],
+    ["Solar Inverter", {
+      "entities": [
+        [0, 14, "EQUIPMENT"]
+      ]
+    }],
+    ["Solar Panel - Aluminum Monocrystalline Silicon", {
+      "entities": [
+        [0, 11, "EQUIPMENT"],
+        [14, 46, "TYPE"]
+      ]
+    }],
+    ["Solar Panel - Aluminum Polycrystalline Silicon", {
+      "entities": [
+        [0, 11, "EQUIPMENT"],
+        [14, 46, "TYPE"]
+      ]
+    }],
+    ["Solar Panel - Thin Film AMORPHOUS ", {
+      "entities": [
+        [0, 11, "EQUIPMENT"],
+        [14, 33, "TYPE"]
+      ]
+    }],
+    ["Solar Panel - Thin Film Cadmium Telluride", {
+      "entities": [
+        [0, 11, "EQUIPMENT"],
+        [14, 41, "TYPE"]
+      ]
+    }],
+    ["Solar Panel - Thin Film Monocrystalline", {
+      "entities": [
+        [0, 11, "EQUIPMENT"],
+        [14, 39, "TYPE"]
+      ]
+    }],
+    ["Solar Panel Battery - Gel Acid", {
+      "entities": [
+        [0, 19, "EQUIPMENT"],
+        [22, 30, "TYPE"]
+      ]
+    }],
+    ["Solar Panel Battery - Lead Acid", {
+      "entities": [
+        [0, 19, "EQUIPMENT"],
+        [22, 31, "TYPE"]
+      ]
+    }],
+    ["Solar Panel System", {
+      "entities": [
+        [0, 18, "EQUIPMENT"]
+      ]
+    }],
+    ["Thermal Storage Tank", {
+      "entities": [
+        [0, 20, "EQUIPMENT"]
+      ]
+    }],
+    ["VAV boxes", {
+      "entities": [
+        [0, 9, "EQUIPMENT"]
+      ]
+    }],
+    ["Ventilation/Heat Recovery System", {
+      "entities": [
+        [0, 32, "EQUIPMENT"]
+      ]
+    }],
+    ["Ventilation/Heat Recovery System - 1000 CFM", {
+      "entities": [
+        [0, 32, "EQUIPMENT"],
+        [35, 43, "FLOWRATE"]
+      ]
+    }],
+    ["Ventilation/Heat Recovery System - 2007 CFM", {
+      "entities": [
+        [0, 32, "EQUIPMENT"],
+        [35, 43, "FLOWRATE"]
+      ]
+    }],
+    ["Ventilation/Heat Recovery System - 4000 CFM", {
+      "entities": [
+        [0, 32, "EQUIPMENT"],
+        [35, 43, "FLOWRATE"]
+      ]
+    }],
+    ["Ventilation/Heat Recovery System - 6008 CFM", {
+      "entities": [
+        [0, 32, "EQUIPMENT"],
+        [35, 43, "FLOWRATE"]
+      ]
+    }],
+    ["Ventilation/Heat Recovery System - 8000 CFM", {
+      "entities": [
+        [0, 32, "EQUIPMENT"],
+        [35, 43, "FLOWRATE"]
+      ]
+    }],
+    ["Ventilation/Heat Recovery System - 10040 CFM", {
+      "entities": [
+        [0, 32, "EQUIPMENT"],
+        [35, 44, "FLOWRATE"]
+      ]
+    }],
+    ["VFD, 5 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 9, "POWER"]
+      ]
+    }],
+    ["VFD, 7.5 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 11, "POWER"]
+      ]
+    }],
+    ["VFD, 10 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 10, "POWER"]
+      ]
+    }],
+    ["VFD, 15 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 10, "POWER"]
+      ]
+    }],
+    ["VFD, 20 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 10, "POWER"]
+      ]
+    }],
+    ["VFD, 25 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 10, "POWER"]
+      ]
+    }],
+    ["VFD, 30 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 10, "POWER"]
+      ]
+    }],
+    ["VFD, 40 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 10, "POWER"]
+      ]
+    }],
+    ["VFD, 50 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 10, "POWER"]
+      ]
+    }],
+    ["VFD, 60 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 10, "POWER"]
+      ]
+    }],
+    ["VFD, 75 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 10, "POWER"]
+      ]
+    }],
+    ["VFD, 100 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 11, "POWER"]
+      ]
+    }],
+    ["VFD, 125 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 11, "POWER"]
+      ]
+    }],
+    ["VFD, 150 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 11, "POWER"]
+      ]
+    }],
+    ["VFD, 200 HP", {
+      "entities": [
+        [0, 3, "EQUIPMENT"],
+        [5, 11, "POWER"]
+      ]
+    }],
+    ["Window Unit Air Conditioner - 1 TN", {
+      "entities": [
+        [0, 27, "EQUIPMENT"],
+        [30, 34, "CAPACITY"]
+      ]
+    }],
+    ["2-Pipe Heating/Cooling Distribution Steel Piping -  1 IN", {
+      "entities": []
+    }],
+    ["2-Pipe Heating/Cooling Distribution Steel Piping -  3 IN", {
+      "entities": []
+    }],
+    ["Air Separator", {
+      "entities": []
+    }],
+    ["Air Separator - Air control, air separator, 2-1/2\" diameter, includes strainer", {
+      "entities": []
+    }],
+    ["Air Separator - Air control, air separator, 2\" diameter, includes strainer", {
+      "entities": []
+    }],
+    ["Air Separator - Air control, air separator, 3\" diameter, includes strainer", {
+      "entities": []
+    }],
+    ["Air Separator - Air control, air separator, 4\" diameter, includes strainer", {
+      "entities": []
+    }],
+    ["Air Separator - Air control, air separator, 5\" diameter, includes strainer", {
+      "entities": []
+    }],
+    ["Air Separator - Air control, air separator, 6\" diameter, includes strainer", {
+      "entities": []
+    }],
+    ["Air Separator - Air control, air separator, 8\" diameter, includes strainer", {
+      "entities": []
+    }],
+    ["Air Separator - Air control, air separator, 10\" diameter, includes strainer", {
+      "entities": []
+    }],
+    ["Air Separator - Air control, air separator, 12\" diameter, includes strainer", {
+      "entities": []
+    }],
+    ["Air supply for pneumatic, tank mounted duplex compressor", {
+      "entities": []
+    }],
+    ["Analog inputs, sensors, CFM/transducer", {
+      "entities": []
+    }],
+    ["Analog inputs, sensors, duct temperature", {
+      "entities": []
+    }],
+    ["Analog inputs, sensors, space temperature", {
+      "entities": []
+    }],
+    ["Baseboard Heating - 1-1/4\" Copper Tube", {
+      "entities": []
+    }],
+    ["Baseboard Heating - 1\" Copper Tube", {
+      "entities": []
+    }],
+    ["Baseboard Heating - 1/2\" Copper Tube", {
+      "entities": []
+    }],
+    ["Baseboard Heating - 3/4\" Copper Tube", {
+      "entities": []
+    }],
+    ["Ceiling Vents, Passive", {
+      "entities": []
+    }],
+    ["Ceiling Vents, Passive - Passive < 50 CFM", {
+      "entities": []
+    }],
+    ["Ceiling Vents, Passive - Passive > 300 CFM", {
+      "entities": []
+    }],
+    ["Ceiling Vents, Passive - Passive 50-110 CFM", {
+      "entities": []
+    }],
+    ["Ceiling Vents, Passive - Passive 110-180 CFM", {
+      "entities": []
+    }],
+    ["Ceiling Vents, Passive - Passive 200-300 CFM", {
+      "entities": []
+    }],
+    ["Charge Controller", {
+      "entities": []
+    }],
+    ["Closed Loop, Space/Hot Water Systems", {
+      "entities": []
+    }],
+    ["Compensated hot water from valve control, readout & reset at panel", {
+      "entities": []
+    }],
+    ["controller MUX panel, 128 point, incl. function boards", {
+      "entities": []
+    }],
+    ["Cooling Tower, Fluid Cooler", {
+      "entities": []
+    }],
+    ["D.D.C controller, mechanical room, 16 point", {
+      "entities": []
+    }],
+    ["D.D.C controller, mechanical room, 32 point", {
+      "entities": []
+    }],
+    ["D.D.C controller, space, V.A.V terminal box, incl", {
+      "entities": []
+    }],
+    ["D.D.C. Control Panel", {
+      "entities": []
+    }],
+    ["Digital inputs, Status (alarms), current sensor", {
+      "entities": []
+    }],
+    ["Digital inputs, Status (alarms), duct smoke detector", {
+      "entities": []
+    }],
+    ["Ductwork", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 6\" Diameter (30 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 8\" Diameter (60 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 10\" Diameter (80 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 12\" Diameter (120 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 14\" Diameter (160 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 16\" Diameter (210 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 18\" Diameter (260 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 20\" Diameter (320 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 22\" Diameter (390 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 24\" Diameter (460 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 30\" Diameter (710 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Metal Ductwork, 36\" Diameter (1020 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Non-Metal Ductwork, 8\" Diameter (60 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Non-Metal Ductwork, 10\" Diameter (80 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Non-Metal Ductwork, 12\" Diameter (120 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Non-Metal Ductwork, 18\" Diameter (260 SQ IN)", {
+      "entities": []
+    }],
+    ["Ductwork - Non-Metal Ductwork, 24\" Diameter (460 SQ IN)", {
+      "entities": []
+    }],
+    ["Fire Dampers", {
+      "entities": []
+    }],
+    ["Fuel Storage Tank", {
+      "entities": []
+    }],
+    ["Fuel Storage Tank - Fuel Storage Tank, 1000 GAL", {
+      "entities": []
+    }],
+    ["Fuel Storage Tank - Fuel Storage Tank, 2500 GAL", {
+      "entities": []
+    }],
+    ["Fuel Storage Tank - Fuel Storage Tank, 5000 GAL", {
+      "entities": []
+    }],
+    ["Gas Meter", {
+      "entities": []
+    }],
+    ["General", {
+      "entities": []
+    }],
+    ["Glycol Additive System (Includes Pumps/Tanks/Meters/Controls)", {
+      "entities": []
+    }],
+    ["Heating/Cooling Distribution Copper Piping - 1 IN", {
+      "entities": []
+    }],
+    ["Heating/Cooling Distribution Copper Piping - 3 IN", {
+      "entities": []
+    }],
+    ["Other", {
+      "entities": []
+    }],
+    ["pneumatic air supply, tank mount duplex compressor, 1 HP", {
+      "entities": []
+    }],
+    ["pneumatic air supply, tank mount duplex compressor, 1.5 HP", {
+      "entities": []
+    }],
+    ["pneumatic air supply, tank mount duplex compressor, 3 HP", {
+      "entities": []
+    }],
+    ["pneumatic air supply, tank mount duplex compressor, 5 HP", {
+      "entities": []
+    }],
+    ["Pneumatic thermostat", {
+      "entities": []
+    }],
+    ["PV Module", {
+      "entities": []
+    }],
+    ["Radon Management System", {
+      "entities": []
+    }],
+    ["Refrigeration Compressor", {
+      "entities": []
+    }],
+    ["Status alarms, digital inputs, differential pressure", {
+      "entities": []
+    }],
+    ["Steam Generator", {
+      "entities": []
+    }],
+    ["Steam Powered Trap", {
+      "entities": []
+    }],
+    ["Steel Pipe Steam Distribution Service Lateral", {
+      "entities": []
+    }],
+    ["Unknown", {
+      "entities": []
+    }],
+    ["Condensate Pumping System - Steam Powered", {
+      "entities": [
+        [0, 25, "EQUIPMENT"],
+        [28, 41, "TYPE"]
+      ]
+    }]
+  ]
+}
